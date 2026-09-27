@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "description": "空の入力テンプレート。実測値を記録します。架空データは含めていません。",
+  "fields": {
+    "playerId": "匿名ID",
+    "chartId": "data/catalog.jsonのid",
+    "playedAt": "ISO日時",
+    "game": "IIDX 34 ZINRAI",
+    "gauge": "HARD",
+    "option": {"flip": false, "left": "NORMAL|MIRROR|RANDOM", "right": "NORMAL|MIRROR|RANDOM"},
+    "clear": "boolean",
+    "failureTimeSeconds": "number|null",
+    "bad": "number|null",
+    "poor": "number|null",
+    "isFirstPlay": "boolean",
+    "includesEveryAttempt": "成功だけでなく失敗試行も含むか boolean"
+  },
+  "plays": []
+}

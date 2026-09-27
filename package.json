@@ -1,0 +1,19 @@
+{
+  "name": "dp-hard-lab",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "IIDX DP HARD difficulty research pipeline",
+  "scripts": {
+    "collect": "node scripts/collect.mjs",
+    "analyze": "node scripts/analyze.mjs",
+    "random": "node scripts/random-analysis.mjs",
+    "audit": "node scripts/audit.mjs",
+    "human": "node scripts/human-batch.mjs",
+    "export": "node scripts/export-offline.mjs",
+    "start": "node scripts/server.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {"acorn": "8.15.0"},
+  "engines": {"node": ">=20"}
+}

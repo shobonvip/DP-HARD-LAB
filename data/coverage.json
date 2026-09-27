@@ -1,0 +1,9507 @@
+{
+  "updatedAt": "2026-09-26T14:10:46.402Z",
+  "total": 1900,
+  "processed": 1900,
+  "report": [
+    {
+      "id": "a_amuro-H",
+      "status": "parsed",
+      "notes": 1119
+    },
+    {
+      "id": "a_certif-A",
+      "status": "parsed",
+      "notes": 1447
+    },
+    {
+      "id": "a_minstr-A",
+      "status": "parsed",
+      "notes": 1231
+    },
+    {
+      "id": "aa_rebld-H",
+      "status": "parsed",
+      "notes": 1192
+    },
+    {
+      "id": "abraxas-A",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "absolute-A",
+      "status": "parsed",
+      "notes": 1338
+    },
+    {
+      "id": "absolute-X",
+      "status": "parsed",
+      "notes": 1488
+    },
+    {
+      "id": "abso_k-A",
+      "status": "parsed",
+      "notes": 1313
+    },
+    {
+      "id": "absoevil-H",
+      "status": "parsed",
+      "notes": 1193
+    },
+    {
+      "id": "abyss-A",
+      "status": "parsed",
+      "notes": 964
+    },
+    {
+      "id": "abyss_r-A",
+      "status": "parsed",
+      "notes": 1102
+    },
+    {
+      "id": "accelert-A",
+      "status": "parsed",
+      "notes": 1328
+    },
+    {
+      "id": "acidpump-A",
+      "status": "parsed",
+      "notes": 1221
+    },
+    {
+      "id": "acidvis-A",
+      "status": "parsed",
+      "notes": 933
+    },
+    {
+      "id": "act-A",
+      "status": "parsed",
+      "notes": 1005
+    },
+    {
+      "id": "act0-H",
+      "status": "parsed",
+      "notes": 1043
+    },
+    {
+      "id": "adamant-A",
+      "status": "parsed",
+      "notes": 1525
+    },
+    {
+      "id": "adularia-H",
+      "status": "parsed",
+      "notes": 946
+    },
+    {
+      "id": "advanc32-A",
+      "status": "parsed",
+      "notes": 800
+    },
+    {
+      "id": "adventin-A",
+      "status": "parsed",
+      "notes": 1430
+    },
+    {
+      "id": "aegis-A",
+      "status": "parsed",
+      "notes": 1109
+    },
+    {
+      "id": "aeterna-A",
+      "status": "parsed",
+      "notes": 1258
+    },
+    {
+      "id": "afroknuc-A",
+      "status": "parsed",
+      "notes": 1320
+    },
+    {
+      "id": "aftrmath-H",
+      "status": "parsed",
+      "notes": 1257
+    },
+    {
+      "id": "ageha-A",
+      "status": "parsed",
+      "notes": 903
+    },
+    {
+      "id": "ageha-X",
+      "status": "parsed",
+      "notes": 1460
+    },
+    {
+      "id": "agetekeo-A",
+      "status": "parsed",
+      "notes": 1271
+    },
+    {
+      "id": "agnusdei-A",
+      "status": "parsed",
+      "notes": 1051
+    },
+    {
+      "id": "ahahyeah-A",
+      "status": "parsed",
+      "notes": 1098
+    },
+    {
+      "id": "airbell-A",
+      "status": "parsed",
+      "notes": 794
+    },
+    {
+      "id": "airraid-A",
+      "status": "parsed",
+      "notes": 1225
+    },
+    {
+      "id": "airflow-A",
+      "status": "parsed",
+      "notes": 721
+    },
+    {
+      "id": "akashicb-H",
+      "status": "parsed",
+      "notes": 1177
+    },
+    {
+      "id": "akatsuki-A",
+      "status": "parsed",
+      "notes": 1041
+    },
+    {
+      "id": "alba-A",
+      "status": "parsed",
+      "notes": 1600
+    },
+    {
+      "id": "albida-A",
+      "status": "parsed",
+      "notes": 1393
+    },
+    {
+      "id": "alfar-A",
+      "status": "parsed",
+      "notes": 1043
+    },
+    {
+      "id": "atemple-A",
+      "status": "parsed",
+      "notes": 1084
+    },
+    {
+      "id": "allineed-A",
+      "status": "parsed",
+      "notes": 1081
+    },
+    {
+      "id": "almyturn-A",
+      "status": "parsed",
+      "notes": 1224
+    },
+    {
+      "id": "allright-A",
+      "status": "parsed",
+      "notes": 860
+    },
+    {
+      "id": "alturca-A",
+      "status": "parsed",
+      "notes": 1057
+    },
+    {
+      "id": "almace-A",
+      "status": "parsed",
+      "notes": 1153
+    },
+    {
+      "id": "almag_ra-H",
+      "status": "parsed",
+      "notes": 1117
+    },
+    {
+      "id": "alphratz-A",
+      "status": "parsed",
+      "notes": 1023
+    },
+    {
+      "id": "alphratz-X",
+      "status": "parsed",
+      "notes": 1414
+    },
+    {
+      "id": "altnator-H",
+      "status": "parsed",
+      "notes": 1296
+    },
+    {
+      "id": "amazingm-A",
+      "status": "parsed",
+      "notes": 1413
+    },
+    {
+      "id": "ambiverm-H",
+      "status": "parsed",
+      "notes": 1251
+    },
+    {
+      "id": "ambush_a-A",
+      "status": "parsed",
+      "notes": 1477
+    },
+    {
+      "id": "amethyst-A",
+      "status": "parsed",
+      "notes": 1248
+    },
+    {
+      "id": "amicable-A",
+      "status": "parsed",
+      "notes": 1242
+    },
+    {
+      "id": "amrverao-A",
+      "status": "parsed",
+      "notes": 1206
+    },
+    {
+      "id": "amorfati-H",
+      "status": "parsed",
+      "notes": 1277
+    },
+    {
+      "id": "amrita-A",
+      "status": "parsed",
+      "notes": 1327
+    },
+    {
+      "id": "anagma-A",
+      "status": "parsed",
+      "notes": 1327
+    },
+    {
+      "id": "anagrams-A",
+      "status": "parsed",
+      "notes": 1233
+    },
+    {
+      "id": "anchor-H",
+      "status": "parsed",
+      "notes": 1265
+    },
+    {
+      "id": "ancients-H",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "and_roid-A",
+      "status": "parsed",
+      "notes": 985
+    },
+    {
+      "id": "andromed-A",
+      "status": "parsed",
+      "notes": 1568
+    },
+    {
+      "id": "andro2-H",
+      "status": "parsed",
+      "notes": 1084
+    },
+    {
+      "id": "anemone-A",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "angjelly-A",
+      "status": "parsed",
+      "notes": 1447
+    },
+    {
+      "id": "angeladd-H",
+      "status": "parsed",
+      "notes": 1257
+    },
+    {
+      "id": "anisakis-H",
+      "status": "parsed",
+      "notes": 1291
+    },
+    {
+      "id": "answer-A",
+      "status": "parsed",
+      "notes": 1142
+    },
+    {
+      "id": "anthemld-H",
+      "status": "parsed",
+      "notes": 1164
+    },
+    {
+      "id": "anthemld-A",
+      "status": "parsed",
+      "notes": 1258
+    },
+    {
+      "id": "any_per-H",
+      "status": "parsed",
+      "notes": 1091
+    },
+    {
+      "id": "ao_1-H",
+      "status": "parsed",
+      "notes": 1087
+    },
+    {
+      "id": "ao_inf-A",
+      "status": "parsed",
+      "notes": 1351
+    },
+    {
+      "id": "apolioth-A",
+      "status": "parsed",
+      "notes": 1511
+    },
+    {
+      "id": "apocalps-A",
+      "status": "parsed",
+      "notes": 1270
+    },
+    {
+      "id": "arabian-H",
+      "status": "parsed",
+      "notes": 1161
+    },
+    {
+      "id": "arabian-A",
+      "status": "parsed",
+      "notes": 1605
+    },
+    {
+      "id": "arcana-A",
+      "status": "parsed",
+      "notes": 1172
+    },
+    {
+      "id": "arcanos-A",
+      "status": "parsed",
+      "notes": 1064
+    },
+    {
+      "id": "ariah-A",
+      "status": "parsed",
+      "notes": 1060
+    },
+    {
+      "id": "a_future-A",
+      "status": "parsed",
+      "notes": 1385
+    },
+    {
+      "id": "a_glxy24-H",
+      "status": "parsed",
+      "notes": 1398
+    },
+    {
+      "id": "a_glxy24-A",
+      "status": "parsed",
+      "notes": 1940
+    },
+    {
+      "id": "artist-H",
+      "status": "parsed",
+      "notes": 1252
+    },
+    {
+      "id": "asyuwant-A",
+      "status": "parsed",
+      "notes": 1063
+    },
+    {
+      "id": "ascalon-A",
+      "status": "parsed",
+      "notes": 1448
+    },
+    {
+      "id": "asiandst-A",
+      "status": "parsed",
+      "notes": 1385
+    },
+    {
+      "id": "astrablz-H",
+      "status": "parsed",
+      "notes": 1183
+    },
+    {
+      "id": "astral-A",
+      "status": "parsed",
+      "notes": 1087
+    },
+    {
+      "id": "atmcag26-A",
+      "status": "parsed",
+      "notes": 681
+    },
+    {
+      "id": "attitude-A",
+      "status": "parsed",
+      "notes": 881
+    },
+    {
+      "id": "aublia-A",
+      "status": "parsed",
+      "notes": 1262
+    },
+    {
+      "id": "aurora-H",
+      "status": "parsed",
+      "notes": 1043
+    },
+    {
+      "id": "aurora-A",
+      "status": "parsed",
+      "notes": 1218
+    },
+    {
+      "id": "a_guerre-A",
+      "status": "parsed",
+      "notes": 982
+    },
+    {
+      "id": "ave_rapi-H",
+      "status": "parsed",
+      "notes": 1113
+    },
+    {
+      "id": "awaawa-A",
+      "status": "parsed",
+      "notes": 1237
+    },
+    {
+      "id": "awaken-A",
+      "status": "parsed",
+      "notes": 873
+    },
+    {
+      "id": "b_o_d_y_-H",
+      "status": "parsed",
+      "notes": 1067
+    },
+    {
+      "id": "bemani4u-A",
+      "status": "parsed",
+      "notes": 1519
+    },
+    {
+      "id": "babel_gs-H",
+      "status": "parsed",
+      "notes": 1079
+    },
+    {
+      "id": "babylove-A",
+      "status": "parsed",
+      "notes": 1159
+    },
+    {
+      "id": "backinto-A",
+      "status": "parsed",
+      "notes": 1160
+    },
+    {
+      "id": "backspin-A",
+      "status": "parsed",
+      "notes": 1205
+    },
+    {
+      "id": "backyard-A",
+      "status": "parsed",
+      "notes": 1222
+    },
+    {
+      "id": "badencry-H",
+      "status": "parsed",
+      "notes": 998
+    },
+    {
+      "id": "bmaniacs-H",
+      "status": "parsed",
+      "notes": 1074
+    },
+    {
+      "id": "bad_rtn-A",
+      "status": "parsed",
+      "notes": 1042
+    },
+    {
+      "id": "bag-A",
+      "status": "parsed",
+      "notes": 1023
+    },
+    {
+      "id": "bahram-A",
+      "status": "parsed",
+      "notes": 1443
+    },
+    {
+      "id": "bahram-X",
+      "status": "parsed",
+      "notes": 1709
+    },
+    {
+      "id": "bang_boo-A",
+      "status": "parsed",
+      "notes": 1480
+    },
+    {
+      "id": "bangdanc-A",
+      "status": "parsed",
+      "notes": 1398
+    },
+    {
+      "id": "bangerx4-A",
+      "status": "parsed",
+      "notes": 1573
+    },
+    {
+      "id": "bas2bass-A",
+      "status": "parsed",
+      "notes": 1085
+    },
+    {
+      "id": "btground-A",
+      "status": "parsed",
+      "notes": 1304
+    },
+    {
+      "id": "btlroyal-A",
+      "status": "parsed",
+      "notes": 1318
+    },
+    {
+      "id": "b_a_hero-A",
+      "status": "parsed",
+      "notes": 1627
+    },
+    {
+      "id": "b_a_star-A",
+      "status": "parsed",
+      "notes": 1334
+    },
+    {
+      "id": "bequiet-A",
+      "status": "parsed",
+      "notes": 1055
+    },
+    {
+      "id": "beastie-A",
+      "status": "parsed",
+      "notes": 1100
+    },
+    {
+      "id": "beatjugg-A",
+      "status": "parsed",
+      "notes": 1171
+    },
+    {
+      "id": "beatradi-A",
+      "status": "parsed",
+      "notes": 1354
+    },
+    {
+      "id": "beataffe-A",
+      "status": "parsed",
+      "notes": 1232
+    },
+    {
+      "id": "beatchic-A",
+      "status": "parsed",
+      "notes": 1190
+    },
+    {
+      "id": "beatonic-A",
+      "status": "parsed",
+      "notes": 1259
+    },
+    {
+      "id": "btyangel-A",
+      "status": "parsed",
+      "notes": 1444
+    },
+    {
+      "id": "bharmony-A",
+      "status": "parsed",
+      "notes": 1269
+    },
+    {
+      "id": "begin-H",
+      "status": "parsed",
+      "notes": 1040
+    },
+    {
+      "id": "beintorn-A",
+      "status": "parsed",
+      "notes": 864
+    },
+    {
+      "id": "believme-A",
+      "status": "parsed",
+      "notes": 1200
+    },
+    {
+      "id": "believeu-A",
+      "status": "parsed",
+      "notes": 1251
+    },
+    {
+      "id": "bpltheme-A",
+      "status": "parsed",
+      "notes": 1024
+    },
+    {
+      "id": "benizakr-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "bestofme-A",
+      "status": "parsed",
+      "notes": 1121
+    },
+    {
+      "id": "beyondev-H",
+      "status": "parsed",
+      "notes": 1364
+    },
+    {
+      "id": "beyond_p-A",
+      "status": "parsed",
+      "notes": 1494
+    },
+    {
+      "id": "beyond_7-A",
+      "status": "parsed",
+      "notes": 1387
+    },
+    {
+      "id": "big_smtm-H",
+      "status": "parsed",
+      "notes": 1036
+    },
+    {
+      "id": "binarybh-H",
+      "status": "parsed",
+      "notes": 1220
+    },
+    {
+      "id": "bitracer-H",
+      "status": "parsed",
+      "notes": 1082
+    },
+    {
+      "id": "bitlucky-A",
+      "status": "parsed",
+      "notes": 1369
+    },
+    {
+      "id": "bitchoco-H",
+      "status": "parsed",
+      "notes": 1141
+    },
+    {
+      "id": "bitchoco-A",
+      "status": "parsed",
+      "notes": 1574
+    },
+    {
+      "id": "blackjcl-A",
+      "status": "parsed",
+      "notes": 1138
+    },
+    {
+      "id": "blkwhite-H",
+      "status": "parsed",
+      "notes": 1252
+    },
+    {
+      "id": "blackbyx-H",
+      "status": "parsed",
+      "notes": 1201
+    },
+    {
+      "id": "blame-A",
+      "status": "parsed",
+      "notes": 1105
+    },
+    {
+      "id": "blazitup-A",
+      "status": "parsed",
+      "notes": 1613
+    },
+    {
+      "id": "blindjus-A",
+      "status": "parsed",
+      "notes": 1134
+    },
+    {
+      "id": "blingbbb-A",
+      "status": "parsed",
+      "notes": 1003
+    },
+    {
+      "id": "blingbbb-X",
+      "status": "parsed",
+      "notes": 1169
+    },
+    {
+      "id": "bloody_t-H",
+      "status": "parsed",
+      "notes": 1009
+    },
+    {
+      "id": "bloody_t-A",
+      "status": "parsed",
+      "notes": 1280
+    },
+    {
+      "id": "bloom-A",
+      "status": "parsed",
+      "notes": 955
+    },
+    {
+      "id": "bloominf-H",
+      "status": "parsed",
+      "notes": 1109
+    },
+    {
+      "id": "bloominf-A",
+      "status": "parsed",
+      "notes": 1384
+    },
+    {
+      "id": "blossom-A",
+      "status": "parsed",
+      "notes": 1316
+    },
+    {
+      "id": "blueanth-A",
+      "status": "parsed",
+      "notes": 1411
+    },
+    {
+      "id": "bluebird-A",
+      "status": "parsed",
+      "notes": 889
+    },
+    {
+      "id": "bldragon-H",
+      "status": "parsed",
+      "notes": 1033
+    },
+    {
+      "id": "bldragon-A",
+      "status": "parsed",
+      "notes": 1373
+    },
+    {
+      "id": "b_mirage-A",
+      "status": "parsed",
+      "notes": 1509
+    },
+    {
+      "id": "bluerain-A",
+      "status": "parsed",
+      "notes": 1037
+    },
+    {
+      "id": "blspring-H",
+      "status": "parsed",
+      "notes": 1013
+    },
+    {
+      "id": "blue_str-A",
+      "status": "parsed",
+      "notes": 1311
+    },
+    {
+      "id": "bluebry-A",
+      "status": "parsed",
+      "notes": 868
+    },
+    {
+      "id": "blstwind-A",
+      "status": "parsed",
+      "notes": 1113
+    },
+    {
+      "id": "blstwind-X",
+      "status": "parsed",
+      "notes": 1451
+    },
+    {
+      "id": "boomdisc-A",
+      "status": "parsed",
+      "notes": 1148
+    },
+    {
+      "id": "bouncex3-A",
+      "status": "parsed",
+      "notes": 1230
+    },
+    {
+      "id": "boundary-A",
+      "status": "parsed",
+      "notes": 967
+    },
+    {
+      "id": "bowshock-A",
+      "status": "parsed",
+      "notes": 1583
+    },
+    {
+      "id": "brainstm-H",
+      "status": "parsed",
+      "notes": 1204
+    },
+    {
+      "id": "bravglow-A",
+      "status": "parsed",
+      "notes": 1188
+    },
+    {
+      "id": "braveout-A",
+      "status": "parsed",
+      "notes": 1264
+    },
+    {
+      "id": "bravespr-A",
+      "status": "parsed",
+      "notes": 1249
+    },
+    {
+      "id": "breakovr-A",
+      "status": "parsed",
+      "notes": 1193
+    },
+    {
+      "id": "brstatis-A",
+      "status": "parsed",
+      "notes": 1282
+    },
+    {
+      "id": "brkchain-A",
+      "status": "parsed",
+      "notes": 1241
+    },
+    {
+      "id": "brground-A",
+      "status": "parsed",
+      "notes": 1265
+    },
+    {
+      "id": "breath-A",
+      "status": "parsed",
+      "notes": 930
+    },
+    {
+      "id": "bridal_f-A",
+      "status": "parsed",
+      "notes": 970
+    },
+    {
+      "id": "bright-A",
+      "status": "parsed",
+      "notes": 984
+    },
+    {
+      "id": "brdband-H",
+      "status": "parsed",
+      "notes": 727
+    },
+    {
+      "id": "brdband-A",
+      "status": "parsed",
+      "notes": 899
+    },
+    {
+      "id": "brogamer-A",
+      "status": "parsed",
+      "notes": 1575
+    },
+    {
+      "id": "brkneden-H",
+      "status": "parsed",
+      "notes": 992
+    },
+    {
+      "id": "brkneden-A",
+      "status": "parsed",
+      "notes": 1235
+    },
+    {
+      "id": "broken-A",
+      "status": "parsed",
+      "notes": 914
+    },
+    {
+      "id": "buffalo-A",
+      "status": "parsed",
+      "notes": 932
+    },
+    {
+      "id": "buffalo-X",
+      "status": "parsed",
+      "notes": 1260
+    },
+    {
+      "id": "burnflr-A",
+      "status": "parsed",
+      "notes": 724
+    },
+    {
+      "id": "brnflame-A",
+      "status": "parsed",
+      "notes": 1429
+    },
+    {
+      "id": "burnheat-A",
+      "status": "parsed",
+      "notes": 789
+    },
+    {
+      "id": "buttwist-A",
+      "status": "parsed",
+      "notes": 1308
+    },
+    {
+      "id": "cccnnn-A",
+      "status": "parsed",
+      "notes": 1490
+    },
+    {
+      "id": "cadenza-H",
+      "status": "parsed",
+      "notes": 1302
+    },
+    {
+      "id": "caldwl99-A",
+      "status": "parsed",
+      "notes": 1338
+    },
+    {
+      "id": "call-A",
+      "status": "parsed",
+      "notes": 864
+    },
+    {
+      "id": "call-X",
+      "status": "parsed",
+      "notes": 1426
+    },
+    {
+      "id": "calvados-A",
+      "status": "parsed",
+      "notes": 1244
+    },
+    {
+      "id": "c_chikai-A",
+      "status": "parsed",
+      "notes": 1319
+    },
+    {
+      "id": "captive-A",
+      "status": "parsed",
+      "notes": 1235
+    },
+    {
+      "id": "c_sabaki-A",
+      "status": "parsed",
+      "notes": 1110
+    },
+    {
+      "id": "c_sbk_ra-A",
+      "status": "parsed",
+      "notes": 1151
+    },
+    {
+      "id": "ckakusei-A",
+      "status": "parsed",
+      "notes": 1235
+    },
+    {
+      "id": "carapain-A",
+      "status": "parsed",
+      "notes": 999
+    },
+    {
+      "id": "carmina-H",
+      "status": "parsed",
+      "notes": 1273
+    },
+    {
+      "id": "carryon-A",
+      "status": "parsed",
+      "notes": 1088
+    },
+    {
+      "id": "csl_moon-A",
+      "status": "parsed",
+      "notes": 1305
+    },
+    {
+      "id": "catchme-A",
+      "status": "parsed",
+      "notes": 922
+    },
+    {
+      "id": "catchme-X",
+      "status": "parsed",
+      "notes": 1189
+    },
+    {
+      "id": "catchfir-H",
+      "status": "parsed",
+      "notes": 1198
+    },
+    {
+      "id": "c_gatcha-A",
+      "status": "parsed",
+      "notes": 1452
+    },
+    {
+      "id": "caterpil-H",
+      "status": "parsed",
+      "notes": 1064
+    },
+    {
+      "id": "celenite-A",
+      "status": "parsed",
+      "notes": 731
+    },
+    {
+      "id": "cstation-A",
+      "status": "parsed",
+      "notes": 1285
+    },
+    {
+      "id": "chain_of-A",
+      "status": "parsed",
+      "notes": 1301
+    },
+    {
+      "id": "change_w-A",
+      "status": "parsed",
+      "notes": 1271
+    },
+    {
+      "id": "changeys-A",
+      "status": "parsed",
+      "notes": 1260
+    },
+    {
+      "id": "chaosunb-A",
+      "status": "parsed",
+      "notes": 1512
+    },
+    {
+      "id": "chaplet-H",
+      "status": "parsed",
+      "notes": 1044
+    },
+    {
+      "id": "chaserxx-A",
+      "status": "parsed",
+      "notes": 1410
+    },
+    {
+      "id": "chsafter-A",
+      "status": "parsed",
+      "notes": 1051
+    },
+    {
+      "id": "checking-H",
+      "status": "parsed",
+      "notes": 482
+    },
+    {
+      "id": "checking-A",
+      "status": "parsed",
+      "notes": 703
+    },
+    {
+      "id": "chemiclr-A",
+      "status": "parsed",
+      "notes": 1426
+    },
+    {
+      "id": "chemicoo-A",
+      "status": "parsed",
+      "notes": 1061
+    },
+    {
+      "id": "chewingd-A",
+      "status": "parsed",
+      "notes": 1304
+    },
+    {
+      "id": "chrono_f-A",
+      "status": "parsed",
+      "notes": 896
+    },
+    {
+      "id": "chrono_f-X",
+      "status": "parsed",
+      "notes": 1114
+    },
+    {
+      "id": "chrono_n-A",
+      "status": "parsed",
+      "notes": 1582
+    },
+    {
+      "id": "chrono_p-H",
+      "status": "parsed",
+      "notes": 1422
+    },
+    {
+      "id": "chronos-A",
+      "status": "parsed",
+      "notes": 1356
+    },
+    {
+      "id": "chronos-X",
+      "status": "parsed",
+      "notes": 1453
+    },
+    {
+      "id": "citrofrt-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "citynvrs-A",
+      "status": "parsed",
+      "notes": 1377
+    },
+    {
+      "id": "claiomh-A",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "cleopatr-A",
+      "status": "parsed",
+      "notes": 1199
+    },
+    {
+      "id": "click-A",
+      "status": "parsed",
+      "notes": 1039
+    },
+    {
+      "id": "clione-A",
+      "status": "parsed",
+      "notes": 1010
+    },
+    {
+      "id": "clione-X",
+      "status": "parsed",
+      "notes": 1203
+    },
+    {
+      "id": "closeyes-A",
+      "status": "parsed",
+      "notes": 1058
+    },
+    {
+      "id": "ccrimson-A",
+      "status": "parsed",
+      "notes": 1563
+    },
+    {
+      "id": "code_0-H",
+      "status": "parsed",
+      "notes": 1086
+    },
+    {
+      "id": "code_0-A",
+      "status": "parsed",
+      "notes": 1382
+    },
+    {
+      "id": "colorbst-A",
+      "status": "parsed",
+      "notes": 1109
+    },
+    {
+      "id": "cocookie-H",
+      "status": "parsed",
+      "notes": 1220
+    },
+    {
+      "id": "colors-H",
+      "status": "parsed",
+      "notes": 1099
+    },
+    {
+      "id": "colors_y-H",
+      "status": "parsed",
+      "notes": 1068
+    },
+    {
+      "id": "colors_y-A",
+      "status": "parsed",
+      "notes": 1100
+    },
+    {
+      "id": "coloseum-A",
+      "status": "parsed",
+      "notes": 1184
+    },
+    {
+      "id": "comaaaaa-H",
+      "status": "parsed",
+      "notes": 1151
+    },
+    {
+      "id": "comaaaaa-A",
+      "status": "parsed",
+      "notes": 1304
+    },
+    {
+      "id": "concept-A",
+      "status": "parsed",
+      "notes": 1412
+    },
+    {
+      "id": "concert-H",
+      "status": "parsed",
+      "notes": 972
+    },
+    {
+      "id": "confiser-H",
+      "status": "parsed",
+      "notes": 1097
+    },
+    {
+      "id": "connectv-A",
+      "status": "parsed",
+      "notes": 787
+    },
+    {
+      "id": "constell-A",
+      "status": "parsed",
+      "notes": 1310
+    },
+    {
+      "id": "contract-H",
+      "status": "parsed",
+      "notes": 856
+    },
+    {
+      "id": "cookie_b-H",
+      "status": "parsed",
+      "notes": 1119
+    },
+    {
+      "id": "cookie_b-A",
+      "status": "parsed",
+      "notes": 1814
+    },
+    {
+      "id": "cosmicat-A",
+      "status": "parsed",
+      "notes": 1147
+    },
+    {
+      "id": "coscyber-A",
+      "status": "parsed",
+      "notes": 1325
+    },
+    {
+      "id": "cosmcray-H",
+      "status": "parsed",
+      "notes": 1122
+    },
+    {
+      "id": "cosmcv3l-H",
+      "status": "parsed",
+      "notes": 1174
+    },
+    {
+      "id": "cosmicwd-A",
+      "status": "parsed",
+      "notes": 1026
+    },
+    {
+      "id": "countdhh-A",
+      "status": "parsed",
+      "notes": 1586
+    },
+    {
+      "id": "cntsheep-A",
+      "status": "parsed",
+      "notes": 1077
+    },
+    {
+      "id": "cradle-H",
+      "status": "parsed",
+      "notes": 784
+    },
+    {
+      "id": "cranbery-A",
+      "status": "parsed",
+      "notes": 1272
+    },
+    {
+      "id": "crankit-A",
+      "status": "parsed",
+      "notes": 1164
+    },
+    {
+      "id": "crazy_jp-A",
+      "status": "parsed",
+      "notes": 1429
+    },
+    {
+      "id": "crew-A",
+      "status": "parsed",
+      "notes": 1574
+    },
+    {
+      "id": "ccrystal-A",
+      "status": "parsed",
+      "notes": 1429
+    },
+    {
+      "id": "crosfire-H",
+      "status": "parsed",
+      "notes": 1149
+    },
+    {
+      "id": "crosroad-A",
+      "status": "parsed",
+      "notes": 1047
+    },
+    {
+      "id": "cuerscue-A",
+      "status": "parsed",
+      "notes": 1244
+    },
+    {
+      "id": "cultinvi-H",
+      "status": "parsed",
+      "notes": 994
+    },
+    {
+      "id": "cybforce-A",
+      "status": "parsed",
+      "notes": 1081
+    },
+    {
+      "id": "cyber_4c-A",
+      "status": "parsed",
+      "notes": 1292
+    },
+    {
+      "id": "cyberclr-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "d_eagle-H",
+      "status": "parsed",
+      "notes": 1021
+    },
+    {
+      "id": "d_eagle-A",
+      "status": "parsed",
+      "notes": 1257
+    },
+    {
+      "id": "dance_-A",
+      "status": "parsed",
+      "notes": 653
+    },
+    {
+      "id": "dcfish-A",
+      "status": "parsed",
+      "notes": 1228
+    },
+    {
+      "id": "d_k_n_on-A",
+      "status": "parsed",
+      "notes": 1326
+    },
+    {
+      "id": "dahlia-H",
+      "status": "parsed",
+      "notes": 1030
+    },
+    {
+      "id": "daylunch-A",
+      "status": "parsed",
+      "notes": 1622
+    },
+    {
+      "id": "daisuke-A",
+      "status": "parsed",
+      "notes": 1208
+    },
+    {
+      "id": "damageps-A",
+      "status": "parsed",
+      "notes": 1056
+    },
+    {
+      "id": "damageps-X",
+      "status": "parsed",
+      "notes": 1238
+    },
+    {
+      "id": "dancwith-H",
+      "status": "parsed",
+      "notes": 1183
+    },
+    {
+      "id": "dans_la-H",
+      "status": "parsed",
+      "notes": 1128
+    },
+    {
+      "id": "danzaest-A",
+      "status": "parsed",
+      "notes": 1558
+    },
+    {
+      "id": "dauntl3s-H",
+      "status": "parsed",
+      "notes": 1157
+    },
+    {
+      "id": "dawn_end-A",
+      "status": "parsed",
+      "notes": 1615
+    },
+    {
+      "id": "daydream-H",
+      "status": "parsed",
+      "notes": 644
+    },
+    {
+      "id": "ddreamer-A",
+      "status": "parsed",
+      "notes": 1304
+    },
+    {
+      "id": "dazzleat-A",
+      "status": "parsed",
+      "notes": 1419
+    },
+    {
+      "id": "dazzlin-A",
+      "status": "parsed",
+      "notes": 1052
+    },
+    {
+      "id": "dazzlinr-A",
+      "status": "parsed",
+      "notes": 1140
+    },
+    {
+      "id": "deadheat-H",
+      "status": "parsed",
+      "notes": 1074
+    },
+    {
+      "id": "deadrabt-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "dthzigoq-H",
+      "status": "parsed",
+      "notes": 1262
+    },
+    {
+      "id": "dstalker-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "debtty-A",
+      "status": "parsed",
+      "notes": 1607
+    },
+    {
+      "id": "deepindd-A",
+      "status": "parsed",
+      "notes": 364
+    },
+    {
+      "id": "dproar30-A",
+      "status": "parsed",
+      "notes": 1378
+    },
+    {
+      "id": "deepseam-A",
+      "status": "parsed",
+      "notes": 1057
+    },
+    {
+      "id": "demonmch-H",
+      "status": "parsed",
+      "notes": 1294
+    },
+    {
+      "id": "denim-H",
+      "status": "parsed",
+      "notes": 801
+    },
+    {
+      "id": "denim-A",
+      "status": "parsed",
+      "notes": 1043
+    },
+    {
+      "id": "derelict-H",
+      "status": "parsed",
+      "notes": 1014
+    },
+    {
+      "id": "derelict-A",
+      "status": "parsed",
+      "notes": 1378
+    },
+    {
+      "id": "desire-A",
+      "status": "parsed",
+      "notes": 1327
+    },
+    {
+      "id": "delferia-H",
+      "status": "parsed",
+      "notes": 1328
+    },
+    {
+      "id": "dstntion-H",
+      "status": "parsed",
+      "notes": 1155
+    },
+    {
+      "id": "dstsword-A",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "dvlsgear-H",
+      "status": "parsed",
+      "notes": 1163
+    },
+    {
+      "id": "dvl_sacr-A",
+      "status": "parsed",
+      "notes": 1224
+    },
+    {
+      "id": "devilz_s-H",
+      "status": "parsed",
+      "notes": 1017
+    },
+    {
+      "id": "diagram-A",
+      "status": "parsed",
+      "notes": 1419
+    },
+    {
+      "id": "diacross-H",
+      "status": "parsed",
+      "notes": 979
+    },
+    {
+      "id": "diavolo-H",
+      "status": "parsed",
+      "notes": 1209
+    },
+    {
+      "id": "dicadica-H",
+      "status": "parsed",
+      "notes": 1230
+    },
+    {
+      "id": "digiradi-A",
+      "status": "parsed",
+      "notes": 1021
+    },
+    {
+      "id": "digitank-A",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "digitocn-H",
+      "status": "parsed",
+      "notes": 1050
+    },
+    {
+      "id": "discloze-A",
+      "status": "parsed",
+      "notes": 1437
+    },
+    {
+      "id": "disparat-A",
+      "status": "parsed",
+      "notes": 1318
+    },
+    {
+      "id": "distress-H",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "dive-A",
+      "status": "parsed",
+      "notes": 1083
+    },
+    {
+      "id": "divinehv-A",
+      "status": "parsed",
+      "notes": 1567
+    },
+    {
+      "id": "divjudge-H",
+      "status": "parsed",
+      "notes": 1066
+    },
+    {
+      "id": "dm_star-A",
+      "status": "parsed",
+      "notes": 1474
+    },
+    {
+      "id": "doback29-A",
+      "status": "parsed",
+      "notes": 1096
+    },
+    {
+      "id": "doit_emp-H",
+      "status": "parsed",
+      "notes": 736
+    },
+    {
+      "id": "do_thing-A",
+      "status": "parsed",
+      "notes": 1251
+    },
+    {
+      "id": "dowhat-A",
+      "status": "parsed",
+      "notes": 1085
+    },
+    {
+      "id": "doll-A",
+      "status": "parsed",
+      "notes": 923
+    },
+    {
+      "id": "dolphink-H",
+      "status": "parsed",
+      "notes": 1140
+    },
+    {
+      "id": "dominion-H",
+      "status": "parsed",
+      "notes": 1180
+    },
+    {
+      "id": "d_afraid-A",
+      "status": "parsed",
+      "notes": 1094
+    },
+    {
+      "id": "donthype-H",
+      "status": "parsed",
+      "notes": 1118
+    },
+    {
+      "id": "dntlet28-A",
+      "status": "parsed",
+      "notes": 852
+    },
+    {
+      "id": "dstmsc_k-A",
+      "status": "parsed",
+      "notes": 909
+    },
+    {
+      "id": "donkdonk-A",
+      "status": "parsed",
+      "notes": 1154
+    },
+    {
+      "id": "dornwald-H",
+      "status": "parsed",
+      "notes": 1230
+    },
+    {
+      "id": "ddribble-H",
+      "status": "parsed",
+      "notes": 1057
+    },
+    {
+      "id": "dbloving-A",
+      "status": "parsed",
+      "notes": 1127
+    },
+    {
+      "id": "dbthrash-H",
+      "status": "parsed",
+      "notes": 1048
+    },
+    {
+      "id": "drasticd-H",
+      "status": "parsed",
+      "notes": 1253
+    },
+    {
+      "id": "dreamufo-A",
+      "status": "parsed",
+      "notes": 1393
+    },
+    {
+      "id": "drmngdrm-A",
+      "status": "parsed",
+      "notes": 1118
+    },
+    {
+      "id": "dreamshp-A",
+      "status": "parsed",
+      "notes": 1030
+    },
+    {
+      "id": "driveme-A",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "driver-A",
+      "status": "parsed",
+      "notes": 930
+    },
+    {
+      "id": "drop-A",
+      "status": "parsed",
+      "notes": 1268
+    },
+    {
+      "id": "dropz_ln-H",
+      "status": "parsed",
+      "notes": 1040
+    },
+    {
+      "id": "drkmonky-A",
+      "status": "parsed",
+      "notes": 1104
+    },
+    {
+      "id": "dual-A",
+      "status": "parsed",
+      "notes": 854
+    },
+    {
+      "id": "dualstr-H",
+      "status": "parsed",
+      "notes": 1270
+    },
+    {
+      "id": "due_tmrw-H",
+      "status": "parsed",
+      "notes": 791
+    },
+    {
+      "id": "duskendr-H",
+      "status": "parsed",
+      "notes": 1226
+    },
+    {
+      "id": "dying4u-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "dynausao-H",
+      "status": "parsed",
+      "notes": 1194
+    },
+    {
+      "id": "emo2003-H",
+      "status": "parsed",
+      "notes": 978
+    },
+    {
+      "id": "echidna-H",
+      "status": "parsed",
+      "notes": 1084
+    },
+    {
+      "id": "esunfall-A",
+      "status": "parsed",
+      "notes": 1410
+    },
+    {
+      "id": "eden-A",
+      "status": "parsed",
+      "notes": 1377
+    },
+    {
+      "id": "eden-X",
+      "status": "parsed",
+      "notes": 1647
+    },
+    {
+      "id": "egretwil-A",
+      "status": "parsed",
+      "notes": 1286
+    },
+    {
+      "id": "eleanor-A",
+      "status": "parsed",
+      "notes": 1209
+    },
+    {
+      "id": "elespada-A",
+      "status": "parsed",
+      "notes": 1217
+    },
+    {
+      "id": "elespada-X",
+      "status": "parsed",
+      "notes": 1571
+    },
+    {
+      "id": "elbender-A",
+      "status": "parsed",
+      "notes": 846
+    },
+    {
+      "id": "elecreat-H",
+      "status": "parsed",
+      "notes": 1268
+    },
+    {
+      "id": "elisha-A",
+      "status": "parsed",
+      "notes": 1390
+    },
+    {
+      "id": "elysium-A",
+      "status": "parsed",
+      "notes": 1384
+    },
+    {
+      "id": "emberlts-A",
+      "status": "parsed",
+      "notes": 1296
+    },
+    {
+      "id": "emera-A",
+      "status": "parsed",
+      "notes": 1266
+    },
+    {
+      "id": "emeralds-H",
+      "status": "parsed",
+      "notes": 1293
+    },
+    {
+      "id": "emotripr-A",
+      "status": "parsed",
+      "notes": 1103
+    },
+    {
+      "id": "empathy-H",
+      "status": "parsed",
+      "notes": 961
+    },
+    {
+      "id": "emprfury-H",
+      "status": "parsed",
+      "notes": 1088
+    },
+    {
+      "id": "empstate-H",
+      "status": "parsed",
+      "notes": 1041
+    },
+    {
+      "id": "empstate-A",
+      "status": "parsed",
+      "notes": 1351
+    },
+    {
+      "id": "emptysky-A",
+      "status": "parsed",
+      "notes": 842
+    },
+    {
+      "id": "endworld-H",
+      "status": "parsed",
+      "notes": 924
+    },
+    {
+      "id": "endworld-A",
+      "status": "parsed",
+      "notes": 1357
+    },
+    {
+      "id": "engdrive-A",
+      "status": "parsed",
+      "notes": 1230
+    },
+    {
+      "id": "engraved-A",
+      "status": "parsed",
+      "notes": 1209
+    },
+    {
+      "id": "entelech-H",
+      "status": "parsed",
+      "notes": 1094
+    },
+    {
+      "id": "ephantom-H",
+      "status": "parsed",
+      "notes": 1281
+    },
+    {
+      "id": "ergosphr-A",
+      "status": "parsed",
+      "notes": 1345
+    },
+    {
+      "id": "eroica-H",
+      "status": "parsed",
+      "notes": 1213
+    },
+    {
+      "id": "erosion-A",
+      "status": "parsed",
+      "notes": 1186
+    },
+    {
+      "id": "esprit_1-A",
+      "status": "parsed",
+      "notes": 1511
+    },
+    {
+      "id": "etntears-A",
+      "status": "parsed",
+      "notes": 691
+    },
+    {
+      "id": "eulagoon-A",
+      "status": "parsed",
+      "notes": 1309
+    },
+    {
+      "id": "euroman-A",
+      "status": "parsed",
+      "notes": 1363
+    },
+    {
+      "id": "evanscnt-H",
+      "status": "parsed",
+      "notes": 1174
+    },
+    {
+      "id": "evans-H",
+      "status": "parsed",
+      "notes": 1046
+    },
+    {
+      "id": "evrgreen-A",
+      "status": "parsed",
+      "notes": 1037
+    },
+    {
+      "id": "evereuph-A",
+      "status": "parsed",
+      "notes": 1220
+    },
+    {
+      "id": "evlalast-A",
+      "status": "parsed",
+      "notes": 1237
+    },
+    {
+      "id": "evermesg-H",
+      "status": "parsed",
+      "notes": 1149
+    },
+    {
+      "id": "evresort-A",
+      "status": "parsed",
+      "notes": 1058
+    },
+    {
+      "id": "exmasive-H",
+      "status": "parsed",
+      "notes": 1099
+    },
+    {
+      "id": "ex_otogi-A",
+      "status": "parsed",
+      "notes": 800
+    },
+    {
+      "id": "exaleave-H",
+      "status": "parsed",
+      "notes": 1148
+    },
+    {
+      "id": "exaleave-A",
+      "status": "parsed",
+      "notes": 1613
+    },
+    {
+      "id": "exchange-A",
+      "status": "parsed",
+      "notes": 907
+    },
+    {
+      "id": "exh_hype-A",
+      "status": "parsed",
+      "notes": 1393
+    },
+    {
+      "id": "exodusgn-A",
+      "status": "parsed",
+      "notes": 1275
+    },
+    {
+      "id": "expanded-A",
+      "status": "parsed",
+      "notes": 1377
+    },
+    {
+      "id": "explorer-A",
+      "status": "parsed",
+      "notes": 1001
+    },
+    {
+      "id": "explorer-X",
+      "status": "parsed",
+      "notes": 1438
+    },
+    {
+      "id": "exmotion-A",
+      "status": "parsed",
+      "notes": 1248
+    },
+    {
+      "id": "extrmach-A",
+      "status": "parsed",
+      "notes": 1007
+    },
+    {
+      "id": "exusia-H",
+      "status": "parsed",
+      "notes": 1392
+    },
+    {
+      "id": "eyeheavn-H",
+      "status": "parsed",
+      "notes": 1228
+    },
+    {
+      "id": "f_amuro-H",
+      "status": "parsed",
+      "notes": 1258
+    },
+    {
+      "id": "fadstars-A",
+      "status": "parsed",
+      "notes": 1292
+    },
+    {
+      "id": "fairycok-A",
+      "status": "parsed",
+      "notes": 861
+    },
+    {
+      "id": "fantasia-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "fantamgr-A",
+      "status": "parsed",
+      "notes": 1088
+    },
+    {
+      "id": "fanthree-H",
+      "status": "parsed",
+      "notes": 1125
+    },
+    {
+      "id": "fareast-A",
+      "status": "parsed",
+      "notes": 1126
+    },
+    {
+      "id": "fw_marra-A",
+      "status": "parsed",
+      "notes": 1279
+    },
+    {
+      "id": "fas_maxx-H",
+      "status": "parsed",
+      "notes": 825
+    },
+    {
+      "id": "fashionf-A",
+      "status": "parsed",
+      "notes": 1583
+    },
+    {
+      "id": "feedback-H",
+      "status": "parsed",
+      "notes": 838
+    },
+    {
+      "id": "feedback-A",
+      "status": "parsed",
+      "notes": 984
+    },
+    {
+      "id": "feelit-A",
+      "status": "parsed",
+      "notes": 1119
+    },
+    {
+      "id": "feelbeat-A",
+      "status": "parsed",
+      "notes": 1628
+    },
+    {
+      "id": "fegrix-H",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "fermipdx-A",
+      "status": "parsed",
+      "notes": 1326
+    },
+    {
+      "id": "fervidex-A",
+      "status": "parsed",
+      "notes": 1397
+    },
+    {
+      "id": "fffff-H",
+      "status": "parsed",
+      "notes": 1297
+    },
+    {
+      "id": "fnlblaze-A",
+      "status": "parsed",
+      "notes": 1278
+    },
+    {
+      "id": "fierystl-A",
+      "status": "parsed",
+      "notes": 1176
+    },
+    {
+      "id": "firebeat-H",
+      "status": "parsed",
+      "notes": 961
+    },
+    {
+      "id": "firefire-A",
+      "status": "parsed",
+      "notes": 1162
+    },
+    {
+      "id": "fst_reso-A",
+      "status": "parsed",
+      "notes": 1077
+    },
+    {
+      "id": "fixer-H",
+      "status": "parsed",
+      "notes": 1037
+    },
+    {
+      "id": "fizzypop-A",
+      "status": "parsed",
+      "notes": 1070
+    },
+    {
+      "id": "fizzyptn-H",
+      "status": "parsed",
+      "notes": 1286
+    },
+    {
+      "id": "flamingo-H",
+      "status": "parsed",
+      "notes": 1200
+    },
+    {
+      "id": "flare-A",
+      "status": "parsed",
+      "notes": 1337
+    },
+    {
+      "id": "fback90s-A",
+      "status": "parsed",
+      "notes": 1001
+    },
+    {
+      "id": "fback90s-X",
+      "status": "parsed",
+      "notes": 1318
+    },
+    {
+      "id": "flipflap-A",
+      "status": "parsed",
+      "notes": 1004
+    },
+    {
+      "id": "flyabove-A",
+      "status": "parsed",
+      "notes": 1061
+    },
+    {
+      "id": "flyabv_p-A",
+      "status": "parsed",
+      "notes": 1244
+    },
+    {
+      "id": "ftn-A",
+      "status": "parsed",
+      "notes": 981
+    },
+    {
+      "id": "flyyouto-A",
+      "status": "parsed",
+      "notes": 1161
+    },
+    {
+      "id": "flyawayb-H",
+      "status": "parsed",
+      "notes": 1019
+    },
+    {
+      "id": "flcastle-H",
+      "status": "parsed",
+      "notes": 1132
+    },
+    {
+      "id": "follow_t-A",
+      "status": "parsed",
+      "notes": 1193
+    },
+    {
+      "id": "foreplay-A",
+      "status": "parsed",
+      "notes": 979
+    },
+    {
+      "id": "forgetmc-A",
+      "status": "parsed",
+      "notes": 826
+    },
+    {
+      "id": "fourpces-H",
+      "status": "parsed",
+      "notes": 965
+    },
+    {
+      "id": "freedom-A",
+      "status": "parsed",
+      "notes": 1482
+    },
+    {
+      "id": "freeway-A",
+      "status": "parsed",
+      "notes": 916
+    },
+    {
+      "id": "freezing-A",
+      "status": "parsed",
+      "notes": 776
+    },
+    {
+      "id": "frequent-H",
+      "status": "parsed",
+      "notes": 1260
+    },
+    {
+      "id": "frisksqk-A",
+      "status": "parsed",
+      "notes": 1230
+    },
+    {
+      "id": "frmhuman-H",
+      "status": "parsed",
+      "notes": 1087
+    },
+    {
+      "id": "fromtime-H",
+      "status": "parsed",
+      "notes": 983
+    },
+    {
+      "id": "fromtime-A",
+      "status": "parsed",
+      "notes": 1293
+    },
+    {
+      "id": "frozen-A",
+      "status": "parsed",
+      "notes": 937
+    },
+    {
+      "id": "fun30-A",
+      "status": "parsed",
+      "notes": 950
+    },
+    {
+      "id": "fkquirky-A",
+      "status": "parsed",
+      "notes": 1401
+    },
+    {
+      "id": "funnysfl-A",
+      "status": "parsed",
+      "notes": 1312
+    },
+    {
+      "id": "futuredd-A",
+      "status": "parsed",
+      "notes": 1095
+    },
+    {
+      "id": "g59-H",
+      "status": "parsed",
+      "notes": 1210
+    },
+    {
+      "id": "gaia-H",
+      "status": "parsed",
+      "notes": 1074
+    },
+    {
+      "id": "galaxyco-A",
+      "status": "parsed",
+      "notes": 985
+    },
+    {
+      "id": "galgalim-H",
+      "status": "parsed",
+      "notes": 979
+    },
+    {
+      "id": "gamechng-A",
+      "status": "parsed",
+      "notes": 1353
+    },
+    {
+      "id": "game_on-H",
+      "status": "parsed",
+      "notes": 1070
+    },
+    {
+      "id": "ganymede-H",
+      "status": "parsed",
+      "notes": 951
+    },
+    {
+      "id": "garuda-A",
+      "status": "parsed",
+      "notes": 1319
+    },
+    {
+      "id": "geirskog-A",
+      "status": "parsed",
+      "notes": 1122
+    },
+    {
+      "id": "generate-A",
+      "status": "parsed",
+      "notes": 1234
+    },
+    {
+      "id": "genegrid-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "genom-A",
+      "status": "parsed",
+      "notes": 538
+    },
+    {
+      "id": "gentle27-A",
+      "status": "parsed",
+      "notes": 772
+    },
+    {
+      "id": "gethighr-A",
+      "status": "parsed",
+      "notes": 1259
+    },
+    {
+      "id": "gtgroove-A",
+      "status": "parsed",
+      "notes": 1140
+    },
+    {
+      "id": "get_feet-A",
+      "status": "parsed",
+      "notes": 1347
+    },
+    {
+      "id": "gtstmind-A",
+      "status": "parsed",
+      "notes": 1236
+    },
+    {
+      "id": "getsetgo-A",
+      "status": "parsed",
+      "notes": 1115
+    },
+    {
+      "id": "getupagn-A",
+      "status": "parsed",
+      "notes": 1227
+    },
+    {
+      "id": "get_up-A",
+      "status": "parsed",
+      "notes": 1000
+    },
+    {
+      "id": "getwickd-A",
+      "status": "parsed",
+      "notes": 1132
+    },
+    {
+      "id": "ghosthmj-A",
+      "status": "parsed",
+      "notes": 1354
+    },
+    {
+      "id": "gigaraid-A",
+      "status": "parsed",
+      "notes": 1356
+    },
+    {
+      "id": "gigaviol-A",
+      "status": "parsed",
+      "notes": 1445
+    },
+    {
+      "id": "gigadel-N",
+      "status": "parsed",
+      "notes": 754
+    },
+    {
+      "id": "gigagahl-H",
+      "status": "parsed",
+      "notes": 1048
+    },
+    {
+      "id": "gigant-A",
+      "status": "parsed",
+      "notes": 1068
+    },
+    {
+      "id": "gimme_sr-H",
+      "status": "parsed",
+      "notes": 1202
+    },
+    {
+      "id": "giudecca-H",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "giudecca-A",
+      "status": "parsed",
+      "notes": 1392
+    },
+    {
+      "id": "glacia-H",
+      "status": "parsed",
+      "notes": 1080
+    },
+    {
+      "id": "glitch_n-H",
+      "status": "parsed",
+      "notes": 846
+    },
+    {
+      "id": "globeglt-A",
+      "status": "parsed",
+      "notes": 1351
+    },
+    {
+      "id": "gloriosa-A",
+      "status": "parsed",
+      "notes": 1322
+    },
+    {
+      "id": "glhammer-A",
+      "status": "parsed",
+      "notes": 1520
+    },
+    {
+      "id": "glory-A",
+      "status": "parsed",
+      "notes": 1168
+    },
+    {
+      "id": "goahead-H",
+      "status": "parsed",
+      "notes": 792
+    },
+    {
+      "id": "gobeyond-H",
+      "status": "parsed",
+      "notes": 822
+    },
+    {
+      "id": "gofarawy-A",
+      "status": "parsed",
+      "notes": 1363
+    },
+    {
+      "id": "go_glare-H",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "go_juger-A",
+      "status": "parsed",
+      "notes": 1559
+    },
+    {
+      "id": "gobblecp-A",
+      "status": "parsed",
+      "notes": 917
+    },
+    {
+      "id": "godmind-H",
+      "status": "parsed",
+      "notes": 1220
+    },
+    {
+      "id": "godspeed-H",
+      "status": "parsed",
+      "notes": 1112
+    },
+    {
+      "id": "goldrush-A",
+      "status": "parsed",
+      "notes": 1186
+    },
+    {
+      "id": "gold2025-A",
+      "status": "parsed",
+      "notes": 1343
+    },
+    {
+      "id": "golden-A",
+      "status": "parsed",
+      "notes": 853
+    },
+    {
+      "id": "gldpalms-A",
+      "status": "parsed",
+      "notes": 1185
+    },
+    {
+      "id": "gldpalms-X",
+      "status": "parsed",
+      "notes": 1264
+    },
+    {
+      "id": "goodlook-A",
+      "status": "parsed",
+      "notes": 1025
+    },
+    {
+      "id": "grafull-A",
+      "status": "parsed",
+      "notes": 1074
+    },
+    {
+      "id": "gra2012-A",
+      "status": "parsed",
+      "notes": 1459
+    },
+    {
+      "id": "gracyber-A",
+      "status": "parsed",
+      "notes": 631
+    },
+    {
+      "id": "gchariot-H",
+      "status": "parsed",
+      "notes": 1035
+    },
+    {
+      "id": "graviton-H",
+      "status": "parsed",
+      "notes": 1073
+    },
+    {
+      "id": "greeneye-A",
+      "status": "parsed",
+      "notes": 1123
+    },
+    {
+      "id": "gknightt-A",
+      "status": "parsed",
+      "notes": 1396
+    },
+    {
+      "id": "guilty-A",
+      "status": "parsed",
+      "notes": 1087
+    },
+    {
+      "id": "gungnir-H",
+      "status": "parsed",
+      "notes": 1420
+    },
+    {
+      "id": "haeretic-H",
+      "status": "parsed",
+      "notes": 1004
+    },
+    {
+      "id": "halfway-A",
+      "status": "parsed",
+      "notes": 1157
+    },
+    {
+      "id": "hallucin-A",
+      "status": "parsed",
+      "notes": 1363
+    },
+    {
+      "id": "happyrsh-A",
+      "status": "parsed",
+      "notes": 1468
+    },
+    {
+      "id": "happywed-A",
+      "status": "parsed",
+      "notes": 1061
+    },
+    {
+      "id": "hp_angel-A",
+      "status": "parsed",
+      "notes": 1073
+    },
+    {
+      "id": "hardbrkr-A",
+      "status": "parsed",
+      "notes": 1234
+    },
+    {
+      "id": "hd_wired-H",
+      "status": "parsed",
+      "notes": 1185
+    },
+    {
+      "id": "harmonia-A",
+      "status": "parsed",
+      "notes": 1007
+    },
+    {
+      "id": "harmlove-A",
+      "status": "parsed",
+      "notes": 1122
+    },
+    {
+      "id": "hatsurpr-A",
+      "status": "parsed",
+      "notes": 1246
+    },
+    {
+      "id": "hatsurp3-H",
+      "status": "parsed",
+      "notes": 1062
+    },
+    {
+      "id": "hatsurp3-A",
+      "status": "parsed",
+      "notes": 1345
+    },
+    {
+      "id": "hattrick-A",
+      "status": "parsed",
+      "notes": 1215
+    },
+    {
+      "id": "heartach-A",
+      "status": "parsed",
+      "notes": 1045
+    },
+    {
+      "id": "hvnabove-A",
+      "status": "parsed",
+      "notes": 921
+    },
+    {
+      "id": "hvnlysun-A",
+      "status": "parsed",
+      "notes": 1060
+    },
+    {
+      "id": "heisei-H",
+      "status": "parsed",
+      "notes": 1033
+    },
+    {
+      "id": "heisei-A",
+      "status": "parsed",
+      "notes": 1323
+    },
+    {
+      "id": "helsca_t-A",
+      "status": "parsed",
+      "notes": 1459
+    },
+    {
+      "id": "helladep-A",
+      "status": "parsed",
+      "notes": 959
+    },
+    {
+      "id": "hellohap-A",
+      "status": "parsed",
+      "notes": 1134
+    },
+    {
+      "id": "herweare-A",
+      "status": "parsed",
+      "notes": 1226
+    },
+    {
+      "id": "here_now-H",
+      "status": "parsed",
+      "notes": 1031
+    },
+    {
+      "id": "heroes-H",
+      "status": "parsed",
+      "notes": 1117
+    },
+    {
+      "id": "high-A",
+      "status": "parsed",
+      "notes": 1233
+    },
+    {
+      "id": "high-X",
+      "status": "parsed",
+      "notes": 1501
+    },
+    {
+      "id": "hicharge-H",
+      "status": "parsed",
+      "notes": 863
+    },
+    {
+      "id": "hs_love-A",
+      "status": "parsed",
+      "notes": 1123
+    },
+    {
+      "id": "highvolt-A",
+      "status": "parsed",
+      "notes": 1191
+    },
+    {
+      "id": "higher-A",
+      "status": "parsed",
+      "notes": 611
+    },
+    {
+      "id": "hitch228-A",
+      "status": "parsed",
+      "notes": 864
+    },
+    {
+      "id": "hitch228-X",
+      "status": "parsed",
+      "notes": 975
+    },
+    {
+      "id": "holdhand-A",
+      "status": "parsed",
+      "notes": 1264
+    },
+    {
+      "id": "holic-H",
+      "status": "parsed",
+      "notes": 875
+    },
+    {
+      "id": "honeytrp-A",
+      "status": "parsed",
+      "notes": 1286
+    },
+    {
+      "id": "horadeve-H",
+      "status": "parsed",
+      "notes": 1019
+    },
+    {
+      "id": "horizon-A",
+      "status": "parsed",
+      "notes": 1027
+    },
+    {
+      "id": "hrzbeatz-A",
+      "status": "parsed",
+      "notes": 1305
+    },
+    {
+      "id": "howling-A",
+      "status": "parsed",
+      "notes": 1060
+    },
+    {
+      "id": "howling-X",
+      "status": "parsed",
+      "notes": 1427
+    },
+    {
+      "id": "huryhury-A",
+      "status": "parsed",
+      "notes": 1032
+    },
+    {
+      "id": "hydrblue-A",
+      "status": "parsed",
+      "notes": 1165
+    },
+    {
+      "id": "hydrblue-X",
+      "status": "parsed",
+      "notes": 1241
+    },
+    {
+      "id": "hyena-A",
+      "status": "parsed",
+      "notes": 1433
+    },
+    {
+      "id": "hypecr25-H",
+      "status": "parsed",
+      "notes": 1046
+    },
+    {
+      "id": "hbgate25-A",
+      "status": "parsed",
+      "notes": 1115
+    },
+    {
+      "id": "hypdrive-A",
+      "status": "parsed",
+      "notes": 1000
+    },
+    {
+      "id": "hyperion-A",
+      "status": "parsed",
+      "notes": 1391
+    },
+    {
+      "id": "hypsonik-A",
+      "status": "parsed",
+      "notes": 1252
+    },
+    {
+      "id": "hyptwist-H",
+      "status": "parsed",
+      "notes": 1197
+    },
+    {
+      "id": "i_chroma-H",
+      "status": "parsed",
+      "notes": 1151
+    },
+    {
+      "id": "ifightme-A",
+      "status": "parsed",
+      "notes": 1172
+    },
+    {
+      "id": "ikwyoukw-A",
+      "status": "parsed",
+      "notes": 976
+    },
+    {
+      "id": "iloveyou-A",
+      "status": "parsed",
+      "notes": 1379
+    },
+    {
+      "id": "iwas_r-A",
+      "status": "parsed",
+      "notes": 725
+    },
+    {
+      "id": "iwilback-H",
+      "status": "parsed",
+      "notes": 1086
+    },
+    {
+      "id": "i_ii-A",
+      "status": "parsed",
+      "notes": 1444
+    },
+    {
+      "id": "imscream-A",
+      "status": "parsed",
+      "notes": 913
+    },
+    {
+      "id": "im_happy-A",
+      "status": "parsed",
+      "notes": 1205
+    },
+    {
+      "id": "icarus-H",
+      "status": "parsed",
+      "notes": 1038
+    },
+    {
+      "id": "idc-H",
+      "status": "parsed",
+      "notes": 779
+    },
+    {
+      "id": "idc-A",
+      "status": "parsed",
+      "notes": 1017
+    },
+    {
+      "id": "idolsynd-A",
+      "status": "parsed",
+      "notes": 1183
+    },
+    {
+      "id": "idolsynd-X",
+      "status": "parsed",
+      "notes": 1567
+    },
+    {
+      "id": "idola-H",
+      "status": "parsed",
+      "notes": 1237
+    },
+    {
+      "id": "ifpaslam-A",
+      "status": "parsed",
+      "notes": 969
+    },
+    {
+      "id": "ignisira-H",
+      "status": "parsed",
+      "notes": 1219
+    },
+    {
+      "id": "ignitedn-A",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "iiredryu-A",
+      "status": "parsed",
+      "notes": 1019
+    },
+    {
+      "id": "ilias-A",
+      "status": "parsed",
+      "notes": 1286
+    },
+    {
+      "id": "illegal-H",
+      "status": "parsed",
+      "notes": 1173
+    },
+    {
+      "id": "illegal-A",
+      "status": "parsed",
+      "notes": 1602
+    },
+    {
+      "id": "illumint-A",
+      "status": "parsed",
+      "notes": 1250
+    },
+    {
+      "id": "illuswtr-H",
+      "status": "parsed",
+      "notes": 1225
+    },
+    {
+      "id": "implant-A",
+      "status": "parsed",
+      "notes": 1153
+    },
+    {
+      "id": "inbetwen-A",
+      "status": "parsed",
+      "notes": 1163
+    },
+    {
+      "id": "inheaven-A",
+      "status": "parsed",
+      "notes": 1107
+    },
+    {
+      "id": "inmotion-A",
+      "status": "parsed",
+      "notes": 661
+    },
+    {
+      "id": "inmyeyes-A",
+      "status": "parsed",
+      "notes": 1051
+    },
+    {
+      "id": "in_black-A",
+      "status": "parsed",
+      "notes": 1457
+    },
+    {
+      "id": "inbreeze-A",
+      "status": "parsed",
+      "notes": 996
+    },
+    {
+      "id": "inthname-A",
+      "status": "parsed",
+      "notes": 976
+    },
+    {
+      "id": "inthesky-H",
+      "status": "parsed",
+      "notes": 1040
+    },
+    {
+      "id": "inthesky-A",
+      "status": "parsed",
+      "notes": 1241
+    },
+    {
+      "id": "inferno-A",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "inf_cave-H",
+      "status": "parsed",
+      "notes": 1137
+    },
+    {
+      "id": "infmiror-A",
+      "status": "parsed",
+      "notes": 1303
+    },
+    {
+      "id": "inherita-A",
+      "status": "parsed",
+      "notes": 1376
+    },
+    {
+      "id": "initiatn-H",
+      "status": "parsed",
+      "notes": 1338
+    },
+    {
+      "id": "inspirit-A",
+      "status": "parsed",
+      "notes": 1550
+    },
+    {
+      "id": "inorevol-H",
+      "status": "parsed",
+      "notes": 1232
+    },
+    {
+      "id": "innocent-H",
+      "status": "parsed",
+      "notes": 1140
+    },
+    {
+      "id": "insanetc-A",
+      "status": "parsed",
+      "notes": 1251
+    },
+    {
+      "id": "intobtlf-A",
+      "status": "parsed",
+      "notes": 1184
+    },
+    {
+      "id": "into_mad-A",
+      "status": "parsed",
+      "notes": 1276
+    },
+    {
+      "id": "invstrix-H",
+      "status": "parsed",
+      "notes": 1081
+    },
+    {
+      "id": "invstrix-A",
+      "status": "parsed",
+      "notes": 1383
+    },
+    {
+      "id": "invoker-H",
+      "status": "parsed",
+      "notes": 1242
+    },
+    {
+      "id": "iridesnt-H",
+      "status": "parsed",
+      "notes": 1163
+    },
+    {
+      "id": "iris-A",
+      "status": "parsed",
+      "notes": 1163
+    },
+    {
+      "id": "ixion-A",
+      "status": "parsed",
+      "notes": 1187
+    },
+    {
+      "id": "jack-A",
+      "status": "parsed",
+      "notes": 1252
+    },
+    {
+      "id": "jomanda-H",
+      "status": "parsed",
+      "notes": 1317
+    },
+    {
+      "id": "journeko-A",
+      "status": "parsed",
+      "notes": 1010
+    },
+    {
+      "id": "journeko-X",
+      "status": "parsed",
+      "notes": 1556
+    },
+    {
+      "id": "jumper-A",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "jungleat-A",
+      "status": "parsed",
+      "notes": 1547
+    },
+    {
+      "id": "jalsmile-A",
+      "status": "parsed",
+      "notes": 1276
+    },
+    {
+      "id": "justgime-A",
+      "status": "parsed",
+      "notes": 1412
+    },
+    {
+      "id": "justsync-A",
+      "status": "parsed",
+      "notes": 1048
+    },
+    {
+      "id": "justiceg-H",
+      "status": "parsed",
+      "notes": 1275
+    },
+    {
+      "id": "kaiserph-H",
+      "status": "parsed",
+      "notes": 1224
+    },
+    {
+      "id": "kaiserph-A",
+      "status": "parsed",
+      "notes": 1473
+    },
+    {
+      "id": "kmitachi-H",
+      "status": "parsed",
+      "notes": 1335
+    },
+    {
+      "id": "kamikaze-A",
+      "status": "parsed",
+      "notes": 1156
+    },
+    {
+      "id": "karma-H",
+      "status": "parsed",
+      "notes": 1085
+    },
+    {
+      "id": "keep_it-A",
+      "status": "parsed",
+      "notes": 1204
+    },
+    {
+      "id": "key-A",
+      "status": "parsed",
+      "notes": 1400
+    },
+    {
+      "id": "khamenbr-A",
+      "status": "parsed",
+      "notes": 1154
+    },
+    {
+      "id": "kickout-A",
+      "status": "parsed",
+      "notes": 1356
+    },
+    {
+      "id": "kick_rbw-A",
+      "status": "parsed",
+      "notes": 1487
+    },
+    {
+      "id": "killeach-H",
+      "status": "parsed",
+      "notes": 1248
+    },
+    {
+      "id": "king-A",
+      "status": "parsed",
+      "notes": 1581
+    },
+    {
+      "id": "kingtrib-H",
+      "status": "parsed",
+      "notes": 1057
+    },
+    {
+      "id": "konzertv-H",
+      "status": "parsed",
+      "notes": 1132
+    },
+    {
+      "id": "konzertv-A",
+      "status": "parsed",
+      "notes": 1559
+    },
+    {
+      "id": "korskhow-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "korsklng-H",
+      "status": "parsed",
+      "notes": 1219
+    },
+    {
+      "id": "korskimg-A",
+      "status": "parsed",
+      "notes": 1351
+    },
+    {
+      "id": "kotonoha-A",
+      "status": "parsed",
+      "notes": 1007
+    },
+    {
+      "id": "kung_fu-H",
+      "status": "parsed",
+      "notes": 1301
+    },
+    {
+      "id": "kung_fu-A",
+      "status": "parsed",
+      "notes": 1659
+    },
+    {
+      "id": "kyamsama-A",
+      "status": "parsed",
+      "notes": 1098
+    },
+    {
+      "id": "lamour31-A",
+      "status": "parsed",
+      "notes": 1113
+    },
+    {
+      "id": "la_dolce-A",
+      "status": "parsed",
+      "notes": 1291
+    },
+    {
+      "id": "lab-H",
+      "status": "parsed",
+      "notes": 1014
+    },
+    {
+      "id": "lab-A",
+      "status": "parsed",
+      "notes": 1255
+    },
+    {
+      "id": "lads-A",
+      "status": "parsed",
+      "notes": 1349
+    },
+    {
+      "id": "ladybird-A",
+      "status": "parsed",
+      "notes": 1253
+    },
+    {
+      "id": "lcruster-H",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "lastburn-A",
+      "status": "parsed",
+      "notes": 1059
+    },
+    {
+      "id": "lastcard-A",
+      "status": "parsed",
+      "notes": 1511
+    },
+    {
+      "id": "lstdance-H",
+      "status": "parsed",
+      "notes": 1137
+    },
+    {
+      "id": "lastday-A",
+      "status": "parsed",
+      "notes": 1545
+    },
+    {
+      "id": "lastmsg-H",
+      "status": "parsed",
+      "notes": 748
+    },
+    {
+      "id": "lastmsg-A",
+      "status": "parsed",
+      "notes": 1111
+    },
+    {
+      "id": "lparotia-A",
+      "status": "parsed",
+      "notes": 1304
+    },
+    {
+      "id": "lax5-A",
+      "status": "parsed",
+      "notes": 1544
+    },
+    {
+      "id": "leading-A",
+      "status": "parsed",
+      "notes": 645
+    },
+    {
+      "id": "leavingt-A",
+      "status": "parsed",
+      "notes": 1024
+    },
+    {
+      "id": "lemonmel-A",
+      "status": "parsed",
+      "notes": 1067
+    },
+    {
+      "id": "lesson5-A",
+      "status": "parsed",
+      "notes": 1471
+    },
+    {
+      "id": "ltmecure-A",
+      "status": "parsed",
+      "notes": 1354
+    },
+    {
+      "id": "lettrack-A",
+      "status": "parsed",
+      "notes": 1380
+    },
+    {
+      "id": "lethbolg-A",
+      "status": "parsed",
+      "notes": 1115
+    },
+    {
+      "id": "level2-H",
+      "status": "parsed",
+      "notes": 933
+    },
+    {
+      "id": "level3-H",
+      "status": "parsed",
+      "notes": 1170
+    },
+    {
+      "id": "level4-H",
+      "status": "parsed",
+      "notes": 1032
+    },
+    {
+      "id": "level5-H",
+      "status": "parsed",
+      "notes": 1250
+    },
+    {
+      "id": "levelone-H",
+      "status": "parsed",
+      "notes": 1149
+    },
+    {
+      "id": "liberatn-H",
+      "status": "parsed",
+      "notes": 1290
+    },
+    {
+      "id": "lifthigh-A",
+      "status": "parsed",
+      "notes": 1252
+    },
+    {
+      "id": "lifegame-H",
+      "status": "parsed",
+      "notes": 1169
+    },
+    {
+      "id": "lt_cyber-A",
+      "status": "parsed",
+      "notes": 1502
+    },
+    {
+      "id": "litshine-A",
+      "status": "parsed",
+      "notes": 1361
+    },
+    {
+      "id": "ltshower-A",
+      "status": "parsed",
+      "notes": 1288
+    },
+    {
+      "id": "lightscs-A",
+      "status": "parsed",
+      "notes": 995
+    },
+    {
+      "id": "lightspd-H",
+      "status": "parsed",
+      "notes": 1034
+    },
+    {
+      "id": "like_it-A",
+      "status": "parsed",
+      "notes": 1071
+    },
+    {
+      "id": "limlight-H",
+      "status": "parsed",
+      "notes": 1000
+    },
+    {
+      "id": "lineruin-A",
+      "status": "parsed",
+      "notes": 1286
+    },
+    {
+      "id": "linus-A",
+      "status": "parsed",
+      "notes": 1210
+    },
+    {
+      "id": "lcrystal-A",
+      "status": "parsed",
+      "notes": 1202
+    },
+    {
+      "id": "lisa_ric-H",
+      "status": "parsed",
+      "notes": 1255
+    },
+    {
+      "id": "littlepr-H",
+      "status": "parsed",
+      "notes": 1171
+    },
+    {
+      "id": "littlepr-A",
+      "status": "parsed",
+      "notes": 1610
+    },
+    {
+      "id": "livedriv-H",
+      "status": "parsed",
+      "notes": 1334
+    },
+    {
+      "id": "locustrv-H",
+      "status": "parsed",
+      "notes": 1286
+    },
+    {
+      "id": "lords_rt-H",
+      "status": "parsed",
+      "notes": 838
+    },
+    {
+      "id": "lostsoul-A",
+      "status": "parsed",
+      "notes": 1280
+    },
+    {
+      "id": "lostwing-A",
+      "status": "parsed",
+      "notes": 1297
+    },
+    {
+      "id": "louderrt-H",
+      "status": "parsed",
+      "notes": 1026
+    },
+    {
+      "id": "love_bbb-A",
+      "status": "parsed",
+      "notes": 1181
+    },
+    {
+      "id": "loveter-H",
+      "status": "parsed",
+      "notes": 1038
+    },
+    {
+      "id": "lvorange-A",
+      "status": "parsed",
+      "notes": 1034
+    },
+    {
+      "id": "lvorange-X",
+      "status": "parsed",
+      "notes": 1243
+    },
+    {
+      "id": "lvshine-A",
+      "status": "parsed",
+      "notes": 960
+    },
+    {
+      "id": "lovewill-A",
+      "status": "parsed",
+      "notes": 726
+    },
+    {
+      "id": "lhcowboy-A",
+      "status": "parsed",
+      "notes": 1373
+    },
+    {
+      "id": "lvlystrm-H",
+      "status": "parsed",
+      "notes": 1249
+    },
+    {
+      "id": "lvlystrm-A",
+      "status": "parsed",
+      "notes": 1418
+    },
+    {
+      "id": "loworld-H",
+      "status": "parsed",
+      "notes": 981
+    },
+    {
+      "id": "lowercas-A",
+      "status": "parsed",
+      "notes": 1430
+    },
+    {
+      "id": "luckyday-A",
+      "status": "parsed",
+      "notes": 1111
+    },
+    {
+      "id": "lucy-H",
+      "status": "parsed",
+      "notes": 908
+    },
+    {
+      "id": "luv2feel-A",
+      "status": "parsed",
+      "notes": 945
+    },
+    {
+      "id": "luvsaveu-A",
+      "status": "parsed",
+      "notes": 1416
+    },
+    {
+      "id": "luvsaveu-X",
+      "status": "parsed",
+      "notes": 1644
+    },
+    {
+      "id": "luvdrive-A",
+      "status": "parsed",
+      "notes": 1103
+    },
+    {
+      "id": "lycoris-A",
+      "status": "parsed",
+      "notes": 1058
+    },
+    {
+      "id": "mdinject-A",
+      "status": "parsed",
+      "notes": 1259
+    },
+    {
+      "id": "m1dy_dx-A",
+      "status": "parsed",
+      "notes": 1332
+    },
+    {
+      "id": "m4k3_1t-H",
+      "status": "parsed",
+      "notes": 1062
+    },
+    {
+      "id": "macho-H",
+      "status": "parsed",
+      "notes": 836
+    },
+    {
+      "id": "macho-A",
+      "status": "parsed",
+      "notes": 846
+    },
+    {
+      "id": "machomnk-H",
+      "status": "parsed",
+      "notes": 1100
+    },
+    {
+      "id": "macuil-H",
+      "status": "parsed",
+      "notes": 1042
+    },
+    {
+      "id": "macuil-A",
+      "status": "parsed",
+      "notes": 1546
+    },
+    {
+      "id": "madatack-A",
+      "status": "parsed",
+      "notes": 1136
+    },
+    {
+      "id": "madatack-X",
+      "status": "parsed",
+      "notes": 1193
+    },
+    {
+      "id": "mdrugd25-A",
+      "status": "parsed",
+      "notes": 942
+    },
+    {
+      "id": "magic_lv-A",
+      "status": "parsed",
+      "notes": 1628
+    },
+    {
+      "id": "magical-A",
+      "status": "parsed",
+      "notes": 1028
+    },
+    {
+      "id": "mad_emp-A",
+      "status": "parsed",
+      "notes": 1202
+    },
+    {
+      "id": "make_myo-A",
+      "status": "parsed",
+      "notes": 1115
+    },
+    {
+      "id": "makin_it-H",
+      "status": "parsed",
+      "notes": 773
+    },
+    {
+      "id": "marenect-H",
+      "status": "parsed",
+      "notes": 1081
+    },
+    {
+      "id": "maria-A",
+      "status": "parsed",
+      "notes": 983
+    },
+    {
+      "id": "marieant-A",
+      "status": "parsed",
+      "notes": 1385
+    },
+    {
+      "id": "marieant-X",
+      "status": "parsed",
+      "notes": 1500
+    },
+    {
+      "id": "marlin-H",
+      "status": "parsed",
+      "notes": 1166
+    },
+    {
+      "id": "matsuri-A",
+      "status": "parsed",
+      "notes": 1224
+    },
+    {
+      "id": "max_300-H",
+      "status": "parsed",
+      "notes": 982
+    },
+    {
+      "id": "max_360-H",
+      "status": "parsed",
+      "notes": 1190
+    },
+    {
+      "id": "maxlove-A",
+      "status": "parsed",
+      "notes": 1572
+    },
+    {
+      "id": "maxcheat-H",
+      "status": "parsed",
+      "notes": 1166
+    },
+    {
+      "id": "maxivcrd-A",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "medilove-A",
+      "status": "parsed",
+      "notes": 857
+    },
+    {
+      "id": "medilove-X",
+      "status": "parsed",
+      "notes": 1090
+    },
+    {
+      "id": "megaera-H",
+      "status": "parsed",
+      "notes": 1065
+    },
+    {
+      "id": "megalara-H",
+      "status": "parsed",
+      "notes": 1031
+    },
+    {
+      "id": "mel-A",
+      "status": "parsed",
+      "notes": 1026
+    },
+    {
+      "id": "mel-X",
+      "status": "parsed",
+      "notes": 1353
+    },
+    {
+      "id": "mlwdiary-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "memoriao-H",
+      "status": "parsed",
+      "notes": 1116
+    },
+    {
+      "id": "memories-H",
+      "status": "parsed",
+      "notes": 1122
+    },
+    {
+      "id": "memories-A",
+      "status": "parsed",
+      "notes": 1274
+    },
+    {
+      "id": "memolust-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "mendes-H",
+      "status": "parsed",
+      "notes": 1231
+    },
+    {
+      "id": "meltdown-A",
+      "status": "parsed",
+      "notes": 1335
+    },
+    {
+      "id": "mermaid-A",
+      "status": "parsed",
+      "notes": 1310
+    },
+    {
+      "id": "mermaidr-A",
+      "status": "parsed",
+      "notes": 1029
+    },
+    {
+      "id": "meteorsw-A",
+      "status": "parsed",
+      "notes": 1505
+    },
+    {
+      "id": "miamisun-A",
+      "status": "parsed",
+      "notes": 995
+    },
+    {
+      "id": "mid_crnr-H",
+      "status": "parsed",
+      "notes": 1065
+    },
+    {
+      "id": "middrive-A",
+      "status": "parsed",
+      "notes": 968
+    },
+    {
+      "id": "mid_lady-A",
+      "status": "parsed",
+      "notes": 1035
+    },
+    {
+      "id": "mightybt-H",
+      "status": "parsed",
+      "notes": 1038
+    },
+    {
+      "id": "mightyct-A",
+      "status": "parsed",
+      "notes": 1401
+    },
+    {
+      "id": "mldollar-H",
+      "status": "parsed",
+      "notes": 1035
+    },
+    {
+      "id": "mmapping-A",
+      "status": "parsed",
+      "notes": 937
+    },
+    {
+      "id": "mmapping-X",
+      "status": "parsed",
+      "notes": 1295
+    },
+    {
+      "id": "mindgp29-A",
+      "status": "parsed",
+      "notes": 856
+    },
+    {
+      "id": "mint-H",
+      "status": "parsed",
+      "notes": 906
+    },
+    {
+      "id": "miracle5-A",
+      "status": "parsed",
+      "notes": 1489
+    },
+    {
+      "id": "miraclem-A",
+      "status": "parsed",
+      "notes": 1051
+    },
+    {
+      "id": "mnemoniq-A",
+      "status": "parsed",
+      "notes": 799
+    },
+    {
+      "id": "mochidrm-A",
+      "status": "parsed",
+      "notes": 1564
+    },
+    {
+      "id": "modulart-H",
+      "status": "parsed",
+      "notes": 973
+    },
+    {
+      "id": "modulart-A",
+      "status": "parsed",
+      "notes": 1365
+    },
+    {
+      "id": "monkeybs-A",
+      "status": "parsed",
+      "notes": 1290
+    },
+    {
+      "id": "monkey-A",
+      "status": "parsed",
+      "notes": 955
+    },
+    {
+      "id": "monkey09-A",
+      "status": "parsed",
+      "notes": 1257
+    },
+    {
+      "id": "monopole-A",
+      "status": "parsed",
+      "notes": 1362
+    },
+    {
+      "id": "moon-H",
+      "status": "parsed",
+      "notes": 1048
+    },
+    {
+      "id": "moonrace-H",
+      "status": "parsed",
+      "notes": 598
+    },
+    {
+      "id": "m_child-H",
+      "status": "parsed",
+      "notes": 1049
+    },
+    {
+      "id": "mosaic-A",
+      "status": "parsed",
+      "notes": 1348
+    },
+    {
+      "id": "movewekp-A",
+      "status": "parsed",
+      "notes": 1111
+    },
+    {
+      "id": "movingon-A",
+      "status": "parsed",
+      "notes": 1480
+    },
+    {
+      "id": "mr_t-A",
+      "status": "parsed",
+      "notes": 885
+    },
+    {
+      "id": "mukade-A",
+      "status": "parsed",
+      "notes": 1546
+    },
+    {
+      "id": "murmur-H",
+      "status": "parsed",
+      "notes": 924
+    },
+    {
+      "id": "msanswer-A",
+      "status": "parsed",
+      "notes": 1062
+    },
+    {
+      "id": "musicto-A",
+      "status": "parsed",
+      "notes": 849
+    },
+    {
+      "id": "msloverz-A",
+      "status": "parsed",
+      "notes": 1155
+    },
+    {
+      "id": "mvp-A",
+      "status": "parsed",
+      "notes": 1264
+    },
+    {
+      "id": "myswbird-A",
+      "status": "parsed",
+      "notes": 1065
+    },
+    {
+      "id": "npapabbq-A",
+      "status": "parsed",
+      "notes": 1423
+    },
+    {
+      "id": "n_o_-A",
+      "status": "parsed",
+      "notes": 1117
+    },
+    {
+      "id": "n_a-H",
+      "status": "parsed",
+      "notes": 1018
+    },
+    {
+      "id": "no_crime-A",
+      "status": "parsed",
+      "notes": 1012
+    },
+    {
+      "id": "no_crime-X",
+      "status": "parsed",
+      "notes": 1285
+    },
+    {
+      "id": "nanairo-A",
+      "status": "parsed",
+      "notes": 1271
+    },
+    {
+      "id": "narciss-H",
+      "status": "parsed",
+      "notes": 771
+    },
+    {
+      "id": "narciss-A",
+      "status": "parsed",
+      "notes": 830
+    },
+    {
+      "id": "nastytec-A",
+      "status": "parsed",
+      "notes": 1290
+    },
+    {
+      "id": "naughty-A",
+      "status": "parsed",
+      "notes": 853
+    },
+    {
+      "id": "naughty-X",
+      "status": "parsed",
+      "notes": 1276
+    },
+    {
+      "id": "nebula_g-A",
+      "status": "parsed",
+      "notes": 1155
+    },
+    {
+      "id": "ndlsmlfy-A",
+      "status": "parsed",
+      "notes": 1301
+    },
+    {
+      "id": "nemesis-H",
+      "status": "parsed",
+      "notes": 977
+    },
+    {
+      "id": "nemophla-A",
+      "status": "parsed",
+      "notes": 1470
+    },
+    {
+      "id": "neogene7-H",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "neogene7-A",
+      "status": "parsed",
+      "notes": 1524
+    },
+    {
+      "id": "neoherit-A",
+      "status": "parsed",
+      "notes": 1428
+    },
+    {
+      "id": "neogenes-A",
+      "status": "parsed",
+      "notes": 1034
+    },
+    {
+      "id": "neogenes-X",
+      "status": "parsed",
+      "notes": 1390
+    },
+    {
+      "id": "neonlits-H",
+      "status": "parsed",
+      "notes": 967
+    },
+    {
+      "id": "neonlits-A",
+      "status": "parsed",
+      "notes": 1121
+    },
+    {
+      "id": "neu-H",
+      "status": "parsed",
+      "notes": 999
+    },
+    {
+      "id": "nvrfade-A",
+      "status": "parsed",
+      "notes": 1598
+    },
+    {
+      "id": "nwcasl26-H",
+      "status": "parsed",
+      "notes": 990
+    },
+    {
+      "id": "nwdecade-A",
+      "status": "parsed",
+      "notes": 1461
+    },
+    {
+      "id": "new_gene-A",
+      "status": "parsed",
+      "notes": 1278
+    },
+    {
+      "id": "newlight-A",
+      "status": "parsed",
+      "notes": 1306
+    },
+    {
+      "id": "new_sens-A",
+      "status": "parsed",
+      "notes": 1574
+    },
+    {
+      "id": "newalone-A",
+      "status": "parsed",
+      "notes": 980
+    },
+    {
+      "id": "nextlevl-A",
+      "status": "parsed",
+      "notes": 1135
+    },
+    {
+      "id": "nexttale-A",
+      "status": "parsed",
+      "notes": 1415
+    },
+    {
+      "id": "nightbfr-H",
+      "status": "parsed",
+      "notes": 975
+    },
+    {
+      "id": "nitrous-H",
+      "status": "parsed",
+      "notes": 1054
+    },
+    {
+      "id": "nnrt-H",
+      "status": "parsed",
+      "notes": 1389
+    },
+    {
+      "id": "noborder-H",
+      "status": "parsed",
+      "notes": 1075
+    },
+    {
+      "id": "nodaybut-A",
+      "status": "parsed",
+      "notes": 1098
+    },
+    {
+      "id": "nolimit-A",
+      "status": "parsed",
+      "notes": 1017
+    },
+    {
+      "id": "no2dance-A",
+      "status": "parsed",
+      "notes": 1145
+    },
+    {
+      "id": "notears-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "no13-H",
+      "status": "parsed",
+      "notes": 1185
+    },
+    {
+      "id": "noct2097-A",
+      "status": "parsed",
+      "notes": 1488
+    },
+    {
+      "id": "noixia-H",
+      "status": "parsed",
+      "notes": 1212
+    },
+    {
+      "id": "nomad-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "nstprock-A",
+      "status": "parsed",
+      "notes": 933
+    },
+    {
+      "id": "nfiction-A",
+      "status": "parsed",
+      "notes": 1007
+    },
+    {
+      "id": "nostos-A",
+      "status": "parsed",
+      "notes": 1324
+    },
+    {
+      "id": "nbtheory-A",
+      "status": "parsed",
+      "notes": 1397
+    },
+    {
+      "id": "nowhere-A",
+      "status": "parsed",
+      "notes": 1182
+    },
+    {
+      "id": "npcworld-A",
+      "status": "parsed",
+      "notes": 1174
+    },
+    {
+      "id": "nyanuniv-A",
+      "status": "parsed",
+      "notes": 1298
+    },
+    {
+      "id": "nzm-H",
+      "status": "parsed",
+      "notes": 1065
+    },
+    {
+      "id": "o_d_20-H",
+      "status": "parsed",
+      "notes": 1013
+    },
+    {
+      "id": "o_d_20-A",
+      "status": "parsed",
+      "notes": 1246
+    },
+    {
+      "id": "ocanblue-A",
+      "status": "parsed",
+      "notes": 1241
+    },
+    {
+      "id": "odin-A",
+      "status": "parsed",
+      "notes": 1140
+    },
+    {
+      "id": "of_magni-A",
+      "status": "parsed",
+      "notes": 1541
+    },
+    {
+      "id": "omega-H",
+      "status": "parsed",
+      "notes": 1172
+    },
+    {
+      "id": "onthefm-A",
+      "status": "parsed",
+      "notes": 1249
+    },
+    {
+      "id": "one_only-H",
+      "status": "parsed",
+      "notes": 1018
+    },
+    {
+      "id": "onemore-H",
+      "status": "parsed",
+      "notes": 862
+    },
+    {
+      "id": "oneeight-A",
+      "status": "parsed",
+      "notes": 1110
+    },
+    {
+      "id": "onigoros-H",
+      "status": "parsed",
+      "notes": 1107
+    },
+    {
+      "id": "only4now-A",
+      "status": "parsed",
+      "notes": 1128
+    },
+    {
+      "id": "onyx-A",
+      "status": "parsed",
+      "notes": 1272
+    },
+    {
+      "id": "ooo-A",
+      "status": "parsed",
+      "notes": 1044
+    },
+    {
+      "id": "ooo-X",
+      "status": "parsed",
+      "notes": 1530
+    },
+    {
+      "id": "op31jojo-H",
+      "status": "parsed",
+      "notes": 714
+    },
+    {
+      "id": "orca-H",
+      "status": "parsed",
+      "notes": 1235
+    },
+    {
+      "id": "otenamih-H",
+      "status": "parsed",
+      "notes": 1133
+    },
+    {
+      "id": "outcntrl-H",
+      "status": "parsed",
+      "notes": 1200
+    },
+    {
+      "id": "out_disk-A",
+      "status": "parsed",
+      "notes": 1289
+    },
+    {
+      "id": "outbreak-A",
+      "status": "parsed",
+      "notes": 1548
+    },
+    {
+      "id": "oplanets-A",
+      "status": "parsed",
+      "notes": 1104
+    },
+    {
+      "id": "outwall-A",
+      "status": "parsed",
+      "notes": 902
+    },
+    {
+      "id": "overtime-A",
+      "status": "parsed",
+      "notes": 841
+    },
+    {
+      "id": "overtime-X",
+      "status": "parsed",
+      "notes": 1032
+    },
+    {
+      "id": "overvolt-A",
+      "status": "parsed",
+      "notes": 1371
+    },
+    {
+      "id": "overload-A",
+      "status": "parsed",
+      "notes": 1249
+    },
+    {
+      "id": "override-A",
+      "status": "parsed",
+      "notes": 1445
+    },
+    {
+      "id": "ovrslept-A",
+      "status": "parsed",
+      "notes": 1309
+    },
+    {
+      "id": "power_-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "painfate-H",
+      "status": "parsed",
+      "notes": 1112
+    },
+    {
+      "id": "palette-A",
+      "status": "parsed",
+      "notes": 990
+    },
+    {
+      "id": "pandora-A",
+      "status": "parsed",
+      "notes": 1040
+    },
+    {
+      "id": "ppypbass-A",
+      "status": "parsed",
+      "notes": 1362
+    },
+    {
+      "id": "papilio-H",
+      "status": "parsed",
+      "notes": 1069
+    },
+    {
+      "id": "psiempre-A",
+      "status": "parsed",
+      "notes": 1392
+    },
+    {
+      "id": "paralost-H",
+      "status": "parsed",
+      "notes": 1106
+    },
+    {
+      "id": "paramax-A",
+      "status": "parsed",
+      "notes": 581
+    },
+    {
+      "id": "parasv31-A",
+      "status": "parsed",
+      "notes": 1091
+    },
+    {
+      "id": "pr_hades-H",
+      "status": "parsed",
+      "notes": 989
+    },
+    {
+      "id": "passfate-A",
+      "status": "parsed",
+      "notes": 1295
+    },
+    {
+      "id": "peaktime-H",
+      "status": "parsed",
+      "notes": 909
+    },
+    {
+      "id": "pendualt-A",
+      "status": "parsed",
+      "notes": 1340
+    },
+    {
+      "id": "perditus-H",
+      "status": "parsed",
+      "notes": 1341
+    },
+    {
+      "id": "pergreat-H",
+      "status": "parsed",
+      "notes": 1240
+    },
+    {
+      "id": "perhuman-A",
+      "status": "parsed",
+      "notes": 1071
+    },
+    {
+      "id": "perfplan-A",
+      "status": "parsed",
+      "notes": 1305
+    },
+    {
+      "id": "prsphone-H",
+      "status": "parsed",
+      "notes": 1142
+    },
+    {
+      "id": "pharaoh-A",
+      "status": "parsed",
+      "notes": 794
+    },
+    {
+      "id": "phasesft-A",
+      "status": "parsed",
+      "notes": 1429
+    },
+    {
+      "id": "phoenix-A",
+      "status": "parsed",
+      "notes": 1329
+    },
+    {
+      "id": "photon_g-A",
+      "status": "parsed",
+      "notes": 1409
+    },
+    {
+      "id": "pianosam-A",
+      "status": "parsed",
+      "notes": 1251
+    },
+    {
+      "id": "pilgrim-A",
+      "status": "parsed",
+      "notes": 1359
+    },
+    {
+      "id": "pinkr_ra-A",
+      "status": "parsed",
+      "notes": 770
+    },
+    {
+      "id": "pinkr_ra-X",
+      "status": "parsed",
+      "notes": 1074
+    },
+    {
+      "id": "pinkycrz-H",
+      "status": "parsed",
+      "notes": 1294
+    },
+    {
+      "id": "pique-A",
+      "status": "parsed",
+      "notes": 1544
+    },
+    {
+      "id": "piratesb-A",
+      "status": "parsed",
+      "notes": 1053
+    },
+    {
+      "id": "pistolsw-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "pitapat-A",
+      "status": "parsed",
+      "notes": 1333
+    },
+    {
+      "id": "plan8-H",
+      "status": "parsed",
+      "notes": 1077
+    },
+    {
+      "id": "planaria-A",
+      "status": "parsed",
+      "notes": 1439
+    },
+    {
+      "id": "plasmasn-H",
+      "status": "parsed",
+      "notes": 1308
+    },
+    {
+      "id": "playfire-A",
+      "status": "parsed",
+      "notes": 1113
+    },
+    {
+      "id": "plazma-A",
+      "status": "parsed",
+      "notes": 1000
+    },
+    {
+      "id": "ppphase-A",
+      "status": "parsed",
+      "notes": 1379
+    },
+    {
+      "id": "please-A",
+      "status": "parsed",
+      "notes": 1188
+    },
+    {
+      "id": "point_0-A",
+      "status": "parsed",
+      "notes": 1014
+    },
+    {
+      "id": "plkmania-A",
+      "status": "parsed",
+      "notes": 1473
+    },
+    {
+      "id": "pollino-A",
+      "status": "parsed",
+      "notes": 829
+    },
+    {
+      "id": "poodle-A",
+      "status": "parsed",
+      "notes": 1438
+    },
+    {
+      "id": "pop_eden-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "posesion-H",
+      "status": "parsed",
+      "notes": 1167
+    },
+    {
+      "id": "pout-A",
+      "status": "parsed",
+      "notes": 1323
+    },
+    {
+      "id": "power_lv-A",
+      "status": "parsed",
+      "notes": 1065
+    },
+    {
+      "id": "praludim-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "progenom-A",
+      "status": "parsed",
+      "notes": 1155
+    },
+    {
+      "id": "proglife-A",
+      "status": "parsed",
+      "notes": 1291
+    },
+    {
+      "id": "prog_sun-A",
+      "status": "parsed",
+      "notes": 1135
+    },
+    {
+      "id": "prgworld-H",
+      "status": "parsed",
+      "notes": 941
+    },
+    {
+      "id": "prgworld-A",
+      "status": "parsed",
+      "notes": 1181
+    },
+    {
+      "id": "proprops-A",
+      "status": "parsed",
+      "notes": 1179
+    },
+    {
+      "id": "proprops-X",
+      "status": "parsed",
+      "notes": 1669
+    },
+    {
+      "id": "pro4life-A",
+      "status": "parsed",
+      "notes": 746
+    },
+    {
+      "id": "prompt-A",
+      "status": "parsed",
+      "notes": 1502
+    },
+    {
+      "id": "proof_of-H",
+      "status": "parsed",
+      "notes": 1104
+    },
+    {
+      "id": "psychint-A",
+      "status": "parsed",
+      "notes": 1450
+    },
+    {
+      "id": "psysheep-A",
+      "status": "parsed",
+      "notes": 842
+    },
+    {
+      "id": "psysheep-X",
+      "status": "parsed",
+      "notes": 1091
+    },
+    {
+      "id": "punch_lv-A",
+      "status": "parsed",
+      "notes": 1355
+    },
+    {
+      "id": "pperplex-H",
+      "status": "parsed",
+      "notes": 971
+    },
+    {
+      "id": "qqq-N",
+      "status": "parsed",
+      "notes": 1016
+    },
+    {
+      "id": "quakes-H",
+      "status": "parsed",
+      "notes": 1066
+    },
+    {
+      "id": "quantum-H",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "quasar-H",
+      "status": "parsed",
+      "notes": 1056
+    },
+    {
+      "id": "q_kaguya-A",
+      "status": "parsed",
+      "notes": 1327
+    },
+    {
+      "id": "qtragedy-A",
+      "status": "parsed",
+      "notes": 1012
+    },
+    {
+      "id": "q_master-A",
+      "status": "parsed",
+      "notes": 312
+    },
+    {
+      "id": "q_silver-A",
+      "status": "parsed",
+      "notes": 1438
+    },
+    {
+      "id": "quicken-A",
+      "status": "parsed",
+      "notes": 1044
+    },
+    {
+      "id": "r3-A",
+      "status": "parsed",
+      "notes": 475
+    },
+    {
+      "id": "r5-A",
+      "status": "parsed",
+      "notes": 870
+    },
+    {
+      "id": "raam-H",
+      "status": "parsed",
+      "notes": 1067
+    },
+    {
+      "id": "radical-H",
+      "status": "parsed",
+      "notes": 1255
+    },
+    {
+      "id": "radical-A",
+      "status": "parsed",
+      "notes": 1101
+    },
+    {
+      "id": "rageagst-H",
+      "status": "parsed",
+      "notes": 1081
+    },
+    {
+      "id": "rageagst-A",
+      "status": "parsed",
+      "notes": 1215
+    },
+    {
+      "id": "rage_h14-H",
+      "status": "parsed",
+      "notes": 1146
+    },
+    {
+      "id": "rain-H",
+      "status": "parsed",
+      "notes": 1038
+    },
+    {
+      "id": "rbwafter-A",
+      "status": "parsed",
+      "notes": 1208
+    },
+    {
+      "id": "rbwflyer-H",
+      "status": "parsed",
+      "notes": 931
+    },
+    {
+      "id": "rbwflyer-A",
+      "status": "parsed",
+      "notes": 1167
+    },
+    {
+      "id": "rbwrbw-A",
+      "status": "parsed",
+      "notes": 1400
+    },
+    {
+      "id": "rainstrm-A",
+      "status": "parsed",
+      "notes": 1140
+    },
+    {
+      "id": "raison-H",
+      "status": "parsed",
+      "notes": 1028
+    },
+    {
+      "id": "rally_25-H",
+      "status": "parsed",
+      "notes": 1114
+    },
+    {
+      "id": "rampage-H",
+      "status": "parsed",
+      "notes": 1253
+    },
+    {
+      "id": "raspbery-A",
+      "status": "parsed",
+      "notes": 901
+    },
+    {
+      "id": "rspotion-A",
+      "status": "parsed",
+      "notes": 1242
+    },
+    {
+      "id": "rrailgun-H",
+      "status": "parsed",
+      "notes": 1067
+    },
+    {
+      "id": "ravepatr-H",
+      "status": "parsed",
+      "notes": 1289
+    },
+    {
+      "id": "ravesynd-A",
+      "status": "parsed",
+      "notes": 1377
+    },
+    {
+      "id": "real-A",
+      "status": "parsed",
+      "notes": 1139
+    },
+    {
+      "id": "realmaze-A",
+      "status": "parsed",
+      "notes": 1539
+    },
+    {
+      "id": "really-H",
+      "status": "parsed",
+      "notes": 861
+    },
+    {
+      "id": "recollec-A",
+      "status": "parsed",
+      "notes": 1104
+    },
+    {
+      "id": "recorrec-A",
+      "status": "parsed",
+      "notes": 852
+    },
+    {
+      "id": "redeterm-A",
+      "status": "parsed",
+      "notes": 1373
+    },
+    {
+      "id": "redsoul-A",
+      "status": "parsed",
+      "notes": 1463
+    },
+    {
+      "id": "redzone-A",
+      "status": "parsed",
+      "notes": 1232
+    },
+    {
+      "id": "red_jack-H",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "ref_eden-A",
+      "status": "parsed",
+      "notes": 1283
+    },
+    {
+      "id": "refindex-A",
+      "status": "parsed",
+      "notes": 1415
+    },
+    {
+      "id": "refrain-H",
+      "status": "parsed",
+      "notes": 1094
+    },
+    {
+      "id": "re_gene-A",
+      "status": "parsed",
+      "notes": 1410
+    },
+    {
+      "id": "regina_v-H",
+      "status": "parsed",
+      "notes": 1166
+    },
+    {
+      "id": "regulus-H",
+      "status": "parsed",
+      "notes": 805
+    },
+    {
+      "id": "regulus-A",
+      "status": "parsed",
+      "notes": 1065
+    },
+    {
+      "id": "reincar-A",
+      "status": "parsed",
+      "notes": 643
+    },
+    {
+      "id": "rejegirl-A",
+      "status": "parsed",
+      "notes": 1390
+    },
+    {
+      "id": "releasem-A",
+      "status": "parsed",
+      "notes": 1035
+    },
+    {
+      "id": "remedy-A",
+      "status": "parsed",
+      "notes": 1163
+    },
+    {
+      "id": "reminis-A",
+      "status": "parsed",
+      "notes": 1183
+    },
+    {
+      "id": "replay-A",
+      "status": "parsed",
+      "notes": 1505
+    },
+    {
+      "id": "resistan-A",
+      "status": "parsed",
+      "notes": 1345
+    },
+    {
+      "id": "resonant-H",
+      "status": "parsed",
+      "notes": 1173
+    },
+    {
+      "id": "reso1794-H",
+      "status": "parsed",
+      "notes": 744
+    },
+    {
+      "id": "reunion-H",
+      "status": "parsed",
+      "notes": 1243
+    },
+    {
+      "id": "revolver-A",
+      "status": "parsed",
+      "notes": 1374
+    },
+    {
+      "id": "rewindtm-A",
+      "status": "parsed",
+      "notes": 1215
+    },
+    {
+      "id": "rideon-A",
+      "status": "parsed",
+      "notes": 904
+    },
+    {
+      "id": "rideon-X",
+      "status": "parsed",
+      "notes": 1010
+    },
+    {
+      "id": "riffrain-A",
+      "status": "parsed",
+      "notes": 964
+    },
+    {
+      "id": "rinne-H",
+      "status": "parsed",
+      "notes": 1172
+    },
+    {
+      "id": "rise_pd-A",
+      "status": "parsed",
+      "notes": 1038
+    },
+    {
+      "id": "risebynd-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "risen-H",
+      "status": "parsed",
+      "notes": 882
+    },
+    {
+      "id": "risen-A",
+      "status": "parsed",
+      "notes": 1159
+    },
+    {
+      "id": "risins27-A",
+      "status": "parsed",
+      "notes": 1187
+    },
+    {
+      "id": "ristacia-A",
+      "status": "parsed",
+      "notes": 1174
+    },
+    {
+      "id": "ristacia-X",
+      "status": "parsed",
+      "notes": 1265
+    },
+    {
+      "id": "ritual_a-A",
+      "status": "parsed",
+      "notes": 1427
+    },
+    {
+      "id": "rizingup-H",
+      "status": "parsed",
+      "notes": 1313
+    },
+    {
+      "id": "rizingms-H",
+      "status": "parsed",
+      "notes": 1176
+    },
+    {
+      "id": "roarchro-H",
+      "status": "parsed",
+      "notes": 1115
+    },
+    {
+      "id": "rock_it-A",
+      "status": "parsed",
+      "notes": 1556
+    },
+    {
+      "id": "rokhouse-A",
+      "status": "parsed",
+      "notes": 1150
+    },
+    {
+      "id": "rockonna-A",
+      "status": "parsed",
+      "notes": 1435
+    },
+    {
+      "id": "romatoma-A",
+      "status": "parsed",
+      "notes": 1388
+    },
+    {
+      "id": "rommmo-A",
+      "status": "parsed",
+      "notes": 1297
+    },
+    {
+      "id": "rootage-A",
+      "status": "parsed",
+      "notes": 1459
+    },
+    {
+      "id": "rootsof-A",
+      "status": "parsed",
+      "notes": 1025
+    },
+    {
+      "id": "rosaazul-A",
+      "status": "parsed",
+      "notes": 1437
+    },
+    {
+      "id": "rot_merc-A",
+      "status": "parsed",
+      "notes": 1132
+    },
+    {
+      "id": "rtshogun-A",
+      "status": "parsed",
+      "notes": 1411
+    },
+    {
+      "id": "roughper-A",
+      "status": "parsed",
+      "notes": 1293
+    },
+    {
+      "id": "roulette-A",
+      "status": "parsed",
+      "notes": 1075
+    },
+    {
+      "id": "roundx2-A",
+      "status": "parsed",
+      "notes": 1230
+    },
+    {
+      "id": "r80s_emp-H",
+      "status": "parsed",
+      "notes": 765
+    },
+    {
+      "id": "routing-A",
+      "status": "parsed",
+      "notes": 1285
+    },
+    {
+      "id": "rowdy-A",
+      "status": "parsed",
+      "notes": 1311
+    },
+    {
+      "id": "rugged-A",
+      "status": "parsed",
+      "notes": 624
+    },
+    {
+      "id": "ruinopal-H",
+      "status": "parsed",
+      "notes": 1012
+    },
+    {
+      "id": "ruina-H",
+      "status": "parsed",
+      "notes": 993
+    },
+    {
+      "id": "rulerorl-A",
+      "status": "parsed",
+      "notes": 1351
+    },
+    {
+      "id": "rumrum-H",
+      "status": "parsed",
+      "notes": 1256
+    },
+    {
+      "id": "sick-A",
+      "status": "parsed",
+      "notes": 1416
+    },
+    {
+      "id": "sick_r-A",
+      "status": "parsed",
+      "notes": 1313
+    },
+    {
+      "id": "s_bahn-A",
+      "status": "parsed",
+      "notes": 1093
+    },
+    {
+      "id": "synrstar-A",
+      "status": "parsed",
+      "notes": 1192
+    },
+    {
+      "id": "sakuramr-A",
+      "status": "parsed",
+      "notes": 1156
+    },
+    {
+      "id": "sakurarf-A",
+      "status": "parsed",
+      "notes": 1395
+    },
+    {
+      "id": "sakurast-H",
+      "status": "parsed",
+      "notes": 913
+    },
+    {
+      "id": "samsara-A",
+      "status": "parsed",
+      "notes": 1087
+    },
+    {
+      "id": "samsword-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "samurais-A",
+      "status": "parsed",
+      "notes": 1299
+    },
+    {
+      "id": "sarutobi-A",
+      "status": "parsed",
+      "notes": 1425
+    },
+    {
+      "id": "satburst-H",
+      "status": "parsed",
+      "notes": 1217
+    },
+    {
+      "id": "sa2712ac-H",
+      "status": "parsed",
+      "notes": 1199
+    },
+    {
+      "id": "satfinal-A",
+      "status": "parsed",
+      "notes": 1016
+    },
+    {
+      "id": "saturn-H",
+      "status": "parsed",
+      "notes": 1091
+    },
+    {
+      "id": "saturn-A",
+      "status": "parsed",
+      "notes": 1470
+    },
+    {
+      "id": "saybay-A",
+      "status": "parsed",
+      "notes": 1420
+    },
+    {
+      "id": "say_yeah-H",
+      "status": "parsed",
+      "notes": 1219
+    },
+    {
+      "id": "scar_eth-A",
+      "status": "parsed",
+      "notes": 831
+    },
+    {
+      "id": "scarmoon-A",
+      "status": "parsed",
+      "notes": 1438
+    },
+    {
+      "id": "scrfauna-A",
+      "status": "parsed",
+      "notes": 1424
+    },
+    {
+      "id": "scharfri-A",
+      "status": "parsed",
+      "notes": 1552
+    },
+    {
+      "id": "schlag-H",
+      "status": "parsed",
+      "notes": 1043
+    },
+    {
+      "id": "schlag-A",
+      "status": "parsed",
+      "notes": 1090
+    },
+    {
+      "id": "schwarzs-A",
+      "status": "parsed",
+      "notes": 1143
+    },
+    {
+      "id": "score29-A",
+      "status": "parsed",
+      "notes": 1105
+    },
+    {
+      "id": "sc_squad-H",
+      "status": "parsed",
+      "notes": 863
+    },
+    {
+      "id": "script_a-H",
+      "status": "parsed",
+      "notes": 1269
+    },
+    {
+      "id": "script_a-A",
+      "status": "parsed",
+      "notes": 1382
+    },
+    {
+      "id": "script_h-H",
+      "status": "parsed",
+      "notes": 1005
+    },
+    {
+      "id": "script_h-A",
+      "status": "parsed",
+      "notes": 1366
+    },
+    {
+      "id": "script_n-A",
+      "status": "parsed",
+      "notes": 1179
+    },
+    {
+      "id": "script_n-X",
+      "status": "parsed",
+      "notes": 1349
+    },
+    {
+      "id": "seasidel-A",
+      "status": "parsed",
+      "notes": 972
+    },
+    {
+      "id": "secondhv-A",
+      "status": "parsed",
+      "notes": 1069
+    },
+    {
+      "id": "sndhv_mm-A",
+      "status": "parsed",
+      "notes": 1311
+    },
+    {
+      "id": "secrouge-A",
+      "status": "parsed",
+      "notes": 1189
+    },
+    {
+      "id": "secrets-H",
+      "status": "parsed",
+      "notes": 1195
+    },
+    {
+      "id": "secrets-A",
+      "status": "parsed",
+      "notes": 1797
+    },
+    {
+      "id": "seeyouag-A",
+      "status": "parsed",
+      "notes": 1517
+    },
+    {
+      "id": "selfishs-A",
+      "status": "parsed",
+      "notes": 905
+    },
+    {
+      "id": "selfishs-X",
+      "status": "parsed",
+      "notes": 1307
+    },
+    {
+      "id": "sephirot-A",
+      "status": "parsed",
+      "notes": 1161
+    },
+    {
+      "id": "sequence-H",
+      "status": "parsed",
+      "notes": 1333
+    },
+    {
+      "id": "seraph-A",
+      "status": "parsed",
+      "notes": 1234
+    },
+    {
+      "id": "session1-A",
+      "status": "parsed",
+      "notes": 1170
+    },
+    {
+      "id": "session9-H",
+      "status": "parsed",
+      "notes": 1184
+    },
+    {
+      "id": "setufree-A",
+      "status": "parsed",
+      "notes": 1433
+    },
+    {
+      "id": "several-A",
+      "status": "parsed",
+      "notes": 1108
+    },
+    {
+      "id": "shade-H",
+      "status": "parsed",
+      "notes": 1100
+    },
+    {
+      "id": "shade-A",
+      "status": "parsed",
+      "notes": 1372
+    },
+    {
+      "id": "shadowld-A",
+      "status": "parsed",
+      "notes": 1365
+    },
+    {
+      "id": "shamshir-A",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "shapesft-A",
+      "status": "parsed",
+      "notes": 1335
+    },
+    {
+      "id": "she_wife-A",
+      "status": "parsed",
+      "notes": 1020
+    },
+    {
+      "id": "shelter-A",
+      "status": "parsed",
+      "notes": 1484
+    },
+    {
+      "id": "shiningd-A",
+      "status": "parsed",
+      "notes": 1279
+    },
+    {
+      "id": "shnworld-A",
+      "status": "parsed",
+      "notes": 1296
+    },
+    {
+      "id": "shion-A",
+      "status": "parsed",
+      "notes": 1482
+    },
+    {
+      "id": "shirdal-A",
+      "status": "parsed",
+      "notes": 1136
+    },
+    {
+      "id": "shiva-A",
+      "status": "parsed",
+      "notes": 1040
+    },
+    {
+      "id": "shogunld-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "shootfir-H",
+      "status": "parsed",
+      "notes": 1148
+    },
+    {
+      "id": "shotstar-A",
+      "status": "parsed",
+      "notes": 1178
+    },
+    {
+      "id": "shoot_rg-A",
+      "status": "parsed",
+      "notes": 1256
+    },
+    {
+      "id": "showlove-A",
+      "status": "parsed",
+      "notes": 1426
+    },
+    {
+      "id": "showtime-A",
+      "status": "parsed",
+      "notes": 1023
+    },
+    {
+      "id": "shuriken-A",
+      "status": "parsed",
+      "notes": 1321
+    },
+    {
+      "id": "sigmund-H",
+      "status": "parsed",
+      "notes": 1341
+    },
+    {
+      "id": "signswon-A",
+      "status": "parsed",
+      "notes": 829
+    },
+    {
+      "id": "sigsig-A",
+      "status": "parsed",
+      "notes": 1259
+    },
+    {
+      "id": "silkybrv-A",
+      "status": "parsed",
+      "notes": 1154
+    },
+    {
+      "id": "silylove-A",
+      "status": "parsed",
+      "notes": 1051
+    },
+    {
+      "id": "silvia-H",
+      "status": "parsed",
+      "notes": 946
+    },
+    {
+      "id": "silvia-A",
+      "status": "parsed",
+      "notes": 1364
+    },
+    {
+      "id": "slbullet-H",
+      "status": "parsed",
+      "notes": 1061
+    },
+    {
+      "id": "snglgirl-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "sinusiri-H",
+      "status": "parsed",
+      "notes": 1229
+    },
+    {
+      "id": "sinobuzf-A",
+      "status": "parsed",
+      "notes": 1206
+    },
+    {
+      "id": "sisyphus-H",
+      "status": "parsed",
+      "notes": 914
+    },
+    {
+      "id": "skashall-A",
+      "status": "parsed",
+      "notes": 1139
+    },
+    {
+      "id": "skedulv1-H",
+      "status": "parsed",
+      "notes": 962
+    },
+    {
+      "id": "skyhigh-H",
+      "status": "parsed",
+      "notes": 1192
+    },
+    {
+      "id": "skywalkn-A",
+      "status": "parsed",
+      "notes": 1145
+    },
+    {
+      "id": "sleeples-A",
+      "status": "parsed",
+      "notes": 789
+    },
+    {
+      "id": "slumberp-A",
+      "status": "parsed",
+      "notes": 1218
+    },
+    {
+      "id": "smalt-H",
+      "status": "parsed",
+      "notes": 1190
+    },
+    {
+      "id": "smawedge-H",
+      "status": "parsed",
+      "notes": 1270
+    },
+    {
+      "id": "sminthus-H",
+      "status": "parsed",
+      "notes": 1240
+    },
+    {
+      "id": "smooooch-A",
+      "status": "parsed",
+      "notes": 1166
+    },
+    {
+      "id": "smooooch-X",
+      "status": "parsed",
+      "notes": 1475
+    },
+    {
+      "id": "smoooosh-A",
+      "status": "parsed",
+      "notes": 1180
+    },
+    {
+      "id": "snakestk-H",
+      "status": "parsed",
+      "notes": 1108
+    },
+    {
+      "id": "snkungfu-H",
+      "status": "parsed",
+      "notes": 1122
+    },
+    {
+      "id": "snapskip-A",
+      "status": "parsed",
+      "notes": 1408
+    },
+    {
+      "id": "snow_djt-A",
+      "status": "parsed",
+      "notes": 1037
+    },
+    {
+      "id": "snwgoose-A",
+      "status": "parsed",
+      "notes": 1394
+    },
+    {
+      "id": "snwstorm-H",
+      "status": "parsed",
+      "notes": 1173
+    },
+    {
+      "id": "so_fabul-A",
+      "status": "parsed",
+      "notes": 1214
+    },
+    {
+      "id": "sowhat-A",
+      "status": "parsed",
+      "notes": 897
+    },
+    {
+      "id": "soljob2-H",
+      "status": "parsed",
+      "notes": 1294
+    },
+    {
+      "id": "solarecl-H",
+      "status": "parsed",
+      "notes": 1276
+    },
+    {
+      "id": "sssquad-H",
+      "status": "parsed",
+      "notes": 1188
+    },
+    {
+      "id": "sss_rrr-H",
+      "status": "parsed",
+      "notes": 1167
+    },
+    {
+      "id": "slwyvern-A",
+      "status": "parsed",
+      "notes": 1280
+    },
+    {
+      "id": "sltn_emp-H",
+      "status": "parsed",
+      "notes": 1138
+    },
+    {
+      "id": "sltn_emp-A",
+      "status": "parsed",
+      "notes": 1366
+    },
+    {
+      "id": "smbody29-A",
+      "status": "parsed",
+      "notes": 937
+    },
+    {
+      "id": "somewonc-A",
+      "status": "parsed",
+      "notes": 1003
+    },
+    {
+      "id": "sometm27-A",
+      "status": "parsed",
+      "notes": 693
+    },
+    {
+      "id": "somnidis-H",
+      "status": "parsed",
+      "notes": 1038
+    },
+    {
+      "id": "sorrows-A",
+      "status": "parsed",
+      "notes": 1274
+    },
+    {
+      "id": "souhaitb-A",
+      "status": "parsed",
+      "notes": 1457
+    },
+    {
+      "id": "sgiallar-A",
+      "status": "parsed",
+      "notes": 1599
+    },
+    {
+      "id": "spc_s4to-H",
+      "status": "parsed",
+      "notes": 1110
+    },
+    {
+      "id": "spfight-A",
+      "status": "parsed",
+      "notes": 1190
+    },
+    {
+      "id": "spaceint-A",
+      "status": "parsed",
+      "notes": 1035
+    },
+    {
+      "id": "space_tm-A",
+      "status": "parsed",
+      "notes": 1359
+    },
+    {
+      "id": "sparknit-A",
+      "status": "parsed",
+      "notes": 1118
+    },
+    {
+      "id": "sparkrsh-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "s_smilin-A",
+      "status": "parsed",
+      "notes": 1191
+    },
+    {
+      "id": "special1-A",
+      "status": "parsed",
+      "notes": 900
+    },
+    {
+      "id": "ssc-H",
+      "status": "parsed",
+      "notes": 1097
+    },
+    {
+      "id": "speculat-A",
+      "status": "parsed",
+      "notes": 1618
+    },
+    {
+      "id": "spedemon-A",
+      "status": "parsed",
+      "notes": 1266
+    },
+    {
+      "id": "sprocker-A",
+      "status": "parsed",
+      "notes": 1214
+    },
+    {
+      "id": "spdy_cat-A",
+      "status": "parsed",
+      "notes": 978
+    },
+    {
+      "id": "spin-H",
+      "status": "parsed",
+      "notes": 900
+    },
+    {
+      "id": "spiral-A",
+      "status": "parsed",
+      "notes": 1139
+    },
+    {
+      "id": "splash_-A",
+      "status": "parsed",
+      "notes": 1181
+    },
+    {
+      "id": "squall-A",
+      "status": "parsed",
+      "notes": 1397
+    },
+    {
+      "id": "squeeze-A",
+      "status": "parsed",
+      "notes": 1250
+    },
+    {
+      "id": "starbeat-A",
+      "status": "parsed",
+      "notes": 1271
+    },
+    {
+      "id": "strtrail-A",
+      "status": "parsed",
+      "notes": 1177
+    },
+    {
+      "id": "strtrail-X",
+      "status": "parsed",
+      "notes": 1291
+    },
+    {
+      "id": "stgztrip-A",
+      "status": "parsed",
+      "notes": 1281
+    },
+    {
+      "id": "strlight-A",
+      "status": "parsed",
+      "notes": 1481
+    },
+    {
+      "id": "starltdh-A",
+      "status": "parsed",
+      "notes": 1435
+    },
+    {
+      "id": "starjunc-A",
+      "status": "parsed",
+      "notes": 1211
+    },
+    {
+      "id": "starjunc-X",
+      "status": "parsed",
+      "notes": 1492
+    },
+    {
+      "id": "staticst-A",
+      "status": "parsed",
+      "notes": 1196
+    },
+    {
+      "id": "stayside-A",
+      "status": "parsed",
+      "notes": 689
+    },
+    {
+      "id": "steledge-A",
+      "status": "parsed",
+      "notes": 1392
+    },
+    {
+      "id": "stneedle-H",
+      "status": "parsed",
+      "notes": 1103
+    },
+    {
+      "id": "stneedle-A",
+      "status": "parsed",
+      "notes": 1367
+    },
+    {
+      "id": "stellar-A",
+      "status": "parsed",
+      "notes": 1373
+    },
+    {
+      "id": "stepper-A",
+      "status": "parsed",
+      "notes": 1112
+    },
+    {
+      "id": "stereobt-H",
+      "status": "parsed",
+      "notes": 1307
+    },
+    {
+      "id": "stheart-A",
+      "status": "parsed",
+      "notes": 1286
+    },
+    {
+      "id": "stoic-H",
+      "status": "parsed",
+      "notes": 1126
+    },
+    {
+      "id": "stoichyp-A",
+      "status": "parsed",
+      "notes": 1405
+    },
+    {
+      "id": "straitst-A",
+      "status": "parsed",
+      "notes": 1456
+    },
+    {
+      "id": "stulti-H",
+      "status": "parsed",
+      "notes": 936
+    },
+    {
+      "id": "stylus-H",
+      "status": "parsed",
+      "notes": 1019
+    },
+    {
+      "id": "submerge-A",
+      "status": "parsed",
+      "notes": 1565
+    },
+    {
+      "id": "substanc-A",
+      "status": "parsed",
+      "notes": 1477
+    },
+    {
+      "id": "sugardrp-A",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "sugarplm-A",
+      "status": "parsed",
+      "notes": 1297
+    },
+    {
+      "id": "sugarush-H",
+      "status": "parsed",
+      "notes": 1291
+    },
+    {
+      "id": "summerbl-A",
+      "status": "parsed",
+      "notes": 1271
+    },
+    {
+      "id": "sunfield-A",
+      "status": "parsed",
+      "notes": 1158
+    },
+    {
+      "id": "sundayvb-A",
+      "status": "parsed",
+      "notes": 1211
+    },
+    {
+      "id": "superdps-H",
+      "status": "parsed",
+      "notes": 1264
+    },
+    {
+      "id": "superdup-A",
+      "status": "parsed",
+      "notes": 1200
+    },
+    {
+      "id": "sheroine-A",
+      "status": "parsed",
+      "notes": 1199
+    },
+    {
+      "id": "surfon-A",
+      "status": "parsed",
+      "notes": 1198
+    },
+    {
+      "id": "survivor-A",
+      "status": "parsed",
+      "notes": 1135
+    },
+    {
+      "id": "suspcion-H",
+      "status": "parsed",
+      "notes": 1224
+    },
+    {
+      "id": "swarmofs-A",
+      "status": "parsed",
+      "notes": 1212
+    },
+    {
+      "id": "swtlab24-H",
+      "status": "parsed",
+      "notes": 674
+    },
+    {
+      "id": "swtradar-A",
+      "status": "parsed",
+      "notes": 1000
+    },
+    {
+      "id": "swmagic-A",
+      "status": "parsed",
+      "notes": 1055
+    },
+    {
+      "id": "savagecp-A",
+      "status": "parsed",
+      "notes": 965
+    },
+    {
+      "id": "swingmyw-A",
+      "status": "parsed",
+      "notes": 1500
+    },
+    {
+      "id": "switch15-A",
+      "status": "parsed",
+      "notes": 1069
+    },
+    {
+      "id": "swordven-H",
+      "status": "parsed",
+      "notes": 1181
+    },
+    {
+      "id": "symbolic-H",
+      "status": "parsed",
+      "notes": 1152
+    },
+    {
+      "id": "symmetry-A",
+      "status": "parsed",
+      "notes": 1681
+    },
+    {
+      "id": "sync-A",
+      "status": "parsed",
+      "notes": 1208
+    },
+    {
+      "id": "sync_ant-H",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "synergy-A",
+      "status": "parsed",
+      "notes": 1496
+    },
+    {
+      "id": "tadayosi-A",
+      "status": "parsed",
+      "notes": 1145
+    },
+    {
+      "id": "tailight-A",
+      "status": "parsed",
+      "notes": 1613
+    },
+    {
+      "id": "take_ez-H",
+      "status": "parsed",
+      "notes": 1356
+    },
+    {
+      "id": "takemekh-A",
+      "status": "parsed",
+      "notes": 959
+    },
+    {
+      "id": "takelife-A",
+      "status": "parsed",
+      "notes": 1491
+    },
+    {
+      "id": "techcolr-A",
+      "status": "parsed",
+      "notes": 1209
+    },
+    {
+      "id": "tcrumble-A",
+      "status": "parsed",
+      "notes": 1553
+    },
+    {
+      "id": "tenkoksr-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "tellwhat-A",
+      "status": "parsed",
+      "notes": 1514
+    },
+    {
+      "id": "t_anubis-A",
+      "status": "parsed",
+      "notes": 1332
+    },
+    {
+      "id": "thank_u4-A",
+      "status": "parsed",
+      "notes": 1107
+    },
+    {
+      "id": "thank_u4-X",
+      "status": "parsed",
+      "notes": 1182
+    },
+    {
+      "id": "thatfeel-A",
+      "status": "parsed",
+      "notes": 965
+    },
+    {
+      "id": "t_bestof-A",
+      "status": "parsed",
+      "notes": 1211
+    },
+    {
+      "id": "tbknight-H",
+      "status": "parsed",
+      "notes": 1086
+    },
+    {
+      "id": "thebrave-H",
+      "status": "parsed",
+      "notes": 1238
+    },
+    {
+      "id": "tcannonb-H",
+      "status": "parsed",
+      "notes": 1299
+    },
+    {
+      "id": "tcannonb-A",
+      "status": "parsed",
+      "notes": 1807
+    },
+    {
+      "id": "thechase-H",
+      "status": "parsed",
+      "notes": 737
+    },
+    {
+      "id": "tclown24-H",
+      "status": "parsed",
+      "notes": 1117
+    },
+    {
+      "id": "tcommand-A",
+      "status": "parsed",
+      "notes": 1282
+    },
+    {
+      "id": "thecube-A",
+      "status": "parsed",
+      "notes": 1113
+    },
+    {
+      "id": "t_jubila-H",
+      "status": "parsed",
+      "notes": 1223
+    },
+    {
+      "id": "tdeepstr-H",
+      "status": "parsed",
+      "notes": 1133
+    },
+    {
+      "id": "tdeepstr-A",
+      "status": "parsed",
+      "notes": 1451
+    },
+    {
+      "id": "the_deto-A",
+      "status": "parsed",
+      "notes": 1570
+    },
+    {
+      "id": "thedirty-H",
+      "status": "parsed",
+      "notes": 1122
+    },
+    {
+      "id": "thedirty-A",
+      "status": "parsed",
+      "notes": 1189
+    },
+    {
+      "id": "thedoor-A",
+      "status": "parsed",
+      "notes": 1289
+    },
+    {
+      "id": "theearth-H",
+      "status": "parsed",
+      "notes": 718
+    },
+    {
+      "id": "theearth-A",
+      "status": "parsed",
+      "notes": 581
+    },
+    {
+      "id": "t_fallen-A",
+      "status": "parsed",
+      "notes": 1235
+    },
+    {
+      "id": "thefaust-H",
+      "status": "parsed",
+      "notes": 1143
+    },
+    {
+      "id": "thehope-A",
+      "status": "parsed",
+      "notes": 989
+    },
+    {
+      "id": "tlastapo-H",
+      "status": "parsed",
+      "notes": 1205
+    },
+    {
+      "id": "tlaststr-A",
+      "status": "parsed",
+      "notes": 1342
+    },
+    {
+      "id": "thelimbo-H",
+      "status": "parsed",
+      "notes": 1192
+    },
+    {
+      "id": "tpeerles-H",
+      "status": "parsed",
+      "notes": 1032
+    },
+    {
+      "id": "t_rebeli-H",
+      "status": "parsed",
+      "notes": 1041
+    },
+    {
+      "id": "t_safari-H",
+      "status": "parsed",
+      "notes": 900
+    },
+    {
+      "id": "t_sample-H",
+      "status": "parsed",
+      "notes": 1191
+    },
+    {
+      "id": "t_shadow-A",
+      "status": "parsed",
+      "notes": 1394
+    },
+    {
+      "id": "tpolak30-A",
+      "status": "parsed",
+      "notes": 1631
+    },
+    {
+      "id": "tsadness-A",
+      "status": "parsed",
+      "notes": 1296
+    },
+    {
+      "id": "thesmile-A",
+      "status": "parsed",
+      "notes": 904
+    },
+    {
+      "id": "thestory-A",
+      "status": "parsed",
+      "notes": 1480
+    },
+    {
+      "id": "timemchn-A",
+      "status": "parsed",
+      "notes": 1328
+    },
+    {
+      "id": "trigger-A",
+      "status": "parsed",
+      "notes": 1527
+    },
+    {
+      "id": "twindchn-A",
+      "status": "parsed",
+      "notes": 1248
+    },
+    {
+      "id": "theory-A",
+      "status": "parsed",
+      "notes": 1309
+    },
+    {
+      "id": "tclubmzk-A",
+      "status": "parsed",
+      "notes": 1330
+    },
+    {
+      "id": "theangel-A",
+      "status": "parsed",
+      "notes": 1304
+    },
+    {
+      "id": "thors_hm-H",
+      "status": "parsed",
+      "notes": 1015
+    },
+    {
+      "id": "thunder-A",
+      "status": "parsed",
+      "notes": 1126
+    },
+    {
+      "id": "thund28r-A",
+      "status": "parsed",
+      "notes": 1296
+    },
+    {
+      "id": "thunbolt-A",
+      "status": "parsed",
+      "notes": 1677
+    },
+    {
+      "id": "thstrike-H",
+      "status": "parsed",
+      "notes": 1060
+    },
+    {
+      "id": "tiempolc-H",
+      "status": "parsed",
+      "notes": 1062
+    },
+    {
+      "id": "timedist-A",
+      "status": "parsed",
+      "notes": 1498
+    },
+    {
+      "id": "time2air-A",
+      "status": "parsed",
+      "notes": 1325
+    },
+    {
+      "id": "time2emp-A",
+      "status": "parsed",
+      "notes": 1497
+    },
+    {
+      "id": "tpiece_2-H",
+      "status": "parsed",
+      "notes": 1180
+    },
+    {
+      "id": "tpiececn-H",
+      "status": "parsed",
+      "notes": 970
+    },
+    {
+      "id": "ttnrider-A",
+      "status": "parsed",
+      "notes": 1095
+    },
+    {
+      "id": "titans-A",
+      "status": "parsed",
+      "notes": 1265
+    },
+    {
+      "id": "tizona-H",
+      "status": "parsed",
+      "notes": 1000
+    },
+    {
+      "id": "togakusi-H",
+      "status": "parsed",
+      "notes": 920
+    },
+    {
+      "id": "tokakual-A",
+      "status": "parsed",
+      "notes": 1502
+    },
+    {
+      "id": "tomahawk-H",
+      "status": "parsed",
+      "notes": 1318
+    },
+    {
+      "id": "tomorrow-H",
+      "status": "parsed",
+      "notes": 1212
+    },
+    {
+      "id": "tomorrow-A",
+      "status": "parsed",
+      "notes": 1311
+    },
+    {
+      "id": "toolates-A",
+      "status": "parsed",
+      "notes": 992
+    },
+    {
+      "id": "torino_k-A",
+      "status": "parsed",
+      "notes": 1030
+    },
+    {
+      "id": "toxicvib-H",
+      "status": "parsed",
+      "notes": 1376
+    },
+    {
+      "id": "toyboxer-A",
+      "status": "parsed",
+      "notes": 1149
+    },
+    {
+      "id": "toycube-A",
+      "status": "parsed",
+      "notes": 1395
+    },
+    {
+      "id": "traces-A",
+      "status": "parsed",
+      "notes": 1071
+    },
+    {
+      "id": "tranoid-H",
+      "status": "parsed",
+      "notes": 947
+    },
+    {
+      "id": "trill_g-H",
+      "status": "parsed",
+      "notes": 1059
+    },
+    {
+      "id": "triphx26-A",
+      "status": "parsed",
+      "notes": 929
+    },
+    {
+      "id": "tripdeep-A",
+      "status": "parsed",
+      "notes": 1408
+    },
+    {
+      "id": "tripleco-H",
+      "status": "parsed",
+      "notes": 1193
+    },
+    {
+      "id": "tricross-H",
+      "status": "parsed",
+      "notes": 1184
+    },
+    {
+      "id": "trip_mc-H",
+      "status": "parsed",
+      "notes": 968
+    },
+    {
+      "id": "tripjump-A",
+      "status": "parsed",
+      "notes": 1195
+    },
+    {
+      "id": "troopers-H",
+      "status": "parsed",
+      "notes": 1197
+    },
+    {
+      "id": "tropical-A",
+      "status": "parsed",
+      "notes": 1388
+    },
+    {
+      "id": "trueblue-H",
+      "status": "parsed",
+      "notes": 1244
+    },
+    {
+      "id": "turii-A",
+      "status": "parsed",
+      "notes": 1280
+    },
+    {
+      "id": "twelfth-A",
+      "status": "parsed",
+      "notes": 1070
+    },
+    {
+      "id": "twi_warp-A",
+      "status": "parsed",
+      "notes": 1110
+    },
+    {
+      "id": "typemars-H",
+      "status": "parsed",
+      "notes": 990
+    },
+    {
+      "id": "ugottabt-H",
+      "status": "parsed",
+      "notes": 1182
+    },
+    {
+      "id": "uaigh-H",
+      "status": "parsed",
+      "notes": 1141
+    },
+    {
+      "id": "ubertref-H",
+      "status": "parsed",
+      "notes": 953
+    },
+    {
+      "id": "ubertref-A",
+      "status": "parsed",
+      "notes": 1171
+    },
+    {
+      "id": "uh_oh-A",
+      "status": "parsed",
+      "notes": 1182
+    },
+    {
+      "id": "umbral-A",
+      "status": "parsed",
+      "notes": 1032
+    },
+    {
+      "id": "ummu-H",
+      "status": "parsed",
+      "notes": 1127
+    },
+    {
+      "id": "ummu-A",
+      "status": "parsed",
+      "notes": 1614
+    },
+    {
+      "id": "unbelief-H",
+      "status": "parsed",
+      "notes": 1092
+    },
+    {
+      "id": "undersky-A",
+      "status": "parsed",
+      "notes": 830
+    },
+    {
+      "id": "undrholo-A",
+      "status": "parsed",
+      "notes": 1644
+    },
+    {
+      "id": "unitehrt-H",
+      "status": "parsed",
+      "notes": 1259
+    },
+    {
+      "id": "unitehrt-A",
+      "status": "parsed",
+      "notes": 1633
+    },
+    {
+      "id": "urbancon-A",
+      "status": "parsed",
+      "notes": 1261
+    },
+    {
+      "id": "usualday-H",
+      "status": "parsed",
+      "notes": 1147
+    },
+    {
+      "id": "v_taka-H",
+      "status": "parsed",
+      "notes": 1385
+    },
+    {
+      "id": "v_taka-A",
+      "status": "parsed",
+      "notes": 1504
+    },
+    {
+      "id": "v2_taka-H",
+      "status": "parsed",
+      "notes": 1408
+    },
+    {
+      "id": "v2_taka-A",
+      "status": "parsed",
+      "notes": 1686
+    },
+    {
+      "id": "valanga-H",
+      "status": "parsed",
+      "notes": 1142
+    },
+    {
+      "id": "valgus-A",
+      "status": "parsed",
+      "notes": 1212
+    },
+    {
+      "id": "valkyris-A",
+      "status": "parsed",
+      "notes": 1466
+    },
+    {
+      "id": "vallis-H",
+      "status": "parsed",
+      "notes": 1169
+    },
+    {
+      "id": "vallis-A",
+      "status": "parsed",
+      "notes": 1619
+    },
+    {
+      "id": "vanessa-H",
+      "status": "parsed",
+      "notes": 938
+    },
+    {
+      "id": "vault-A",
+      "status": "parsed",
+      "notes": 1020
+    },
+    {
+      "id": "vega-A",
+      "status": "parsed",
+      "notes": 1670
+    },
+    {
+      "id": "venom-H",
+      "status": "parsed",
+      "notes": 1106
+    },
+    {
+      "id": "venom-A",
+      "status": "parsed",
+      "notes": 1451
+    },
+    {
+      "id": "ventrilq-A",
+      "status": "parsed",
+      "notes": 1173
+    },
+    {
+      "id": "verflcht-H",
+      "status": "parsed",
+      "notes": 1094
+    },
+    {
+      "id": "vmilion-A",
+      "status": "parsed",
+      "notes": 1055
+    },
+    {
+      "id": "vercarol-H",
+      "status": "parsed",
+      "notes": 1210
+    },
+    {
+      "id": "vmillion-A",
+      "status": "parsed",
+      "notes": 1091
+    },
+    {
+      "id": "vibingsk-A",
+      "status": "parsed",
+      "notes": 1211
+    },
+    {
+      "id": "vibra-A",
+      "status": "parsed",
+      "notes": 1032
+    },
+    {
+      "id": "vcravers-A",
+      "status": "parsed",
+      "notes": 1168
+    },
+    {
+      "id": "vinculum-H",
+      "status": "parsed",
+      "notes": 1190
+    },
+    {
+      "id": "viopulse-A",
+      "status": "parsed",
+      "notes": 1327
+    },
+    {
+      "id": "violrose-H",
+      "status": "parsed",
+      "notes": 1071
+    },
+    {
+      "id": "violrose-A",
+      "status": "parsed",
+      "notes": 1384
+    },
+    {
+      "id": "viridian-H",
+      "status": "parsed",
+      "notes": 1058
+    },
+    {
+      "id": "virusfnk-A",
+      "status": "parsed",
+      "notes": 1009
+    },
+    {
+      "id": "visterhv-H",
+      "status": "parsed",
+      "notes": 1159
+    },
+    {
+      "id": "vitamin-A",
+      "status": "parsed",
+      "notes": 1369
+    },
+    {
+      "id": "vjarmy26-A",
+      "status": "parsed",
+      "notes": 1182
+    },
+    {
+      "id": "voicecho-A",
+      "status": "parsed",
+      "notes": 1383
+    },
+    {
+      "id": "vo_id-H",
+      "status": "parsed",
+      "notes": 991
+    },
+    {
+      "id": "volaquas-H",
+      "status": "parsed",
+      "notes": 1141
+    },
+    {
+      "id": "vldragon-A",
+      "status": "parsed",
+      "notes": 1412
+    },
+    {
+      "id": "volca_bb-A",
+      "status": "parsed",
+      "notes": 1402
+    },
+    {
+      "id": "voltage-H",
+      "status": "parsed",
+      "notes": 964
+    },
+    {
+      "id": "voltissi-H",
+      "status": "parsed",
+      "notes": 1146
+    },
+    {
+      "id": "voodooba-A",
+      "status": "parsed",
+      "notes": 1361
+    },
+    {
+      "id": "votum-H",
+      "status": "parsed",
+      "notes": 965
+    },
+    {
+      "id": "voxup_sp-H",
+      "status": "parsed",
+      "notes": 1437
+    },
+    {
+      "id": "voxane-A",
+      "status": "parsed",
+      "notes": 1013
+    },
+    {
+      "id": "vulkan-A",
+      "status": "parsed",
+      "notes": 1618
+    },
+    {
+      "id": "vulnerab-H",
+      "status": "parsed",
+      "notes": 1002
+    },
+    {
+      "id": "wakeupnw-A",
+      "status": "parsed",
+      "notes": 1127
+    },
+    {
+      "id": "wakeupnw-X",
+      "status": "parsed",
+      "notes": 1415
+    },
+    {
+      "id": "wanna_bg-A",
+      "status": "parsed",
+      "notes": 1002
+    },
+    {
+      "id": "wn_party-A",
+      "status": "parsed",
+      "notes": 910
+    },
+    {
+      "id": "wargame-A",
+      "status": "parsed",
+      "notes": 1044
+    },
+    {
+      "id": "warrior-A",
+      "status": "parsed",
+      "notes": 1251
+    },
+    {
+      "id": "watchpt2-A",
+      "status": "parsed",
+      "notes": 1322
+    },
+    {
+      "id": "water_cb-A",
+      "status": "parsed",
+      "notes": 1143
+    },
+    {
+      "id": "watermln-A",
+      "status": "parsed",
+      "notes": 1026
+    },
+    {
+      "id": "waxing-H",
+      "status": "parsed",
+      "notes": 966
+    },
+    {
+      "id": "waxing-A",
+      "status": "parsed",
+      "notes": 1399
+    },
+    {
+      "id": "we_disco-A",
+      "status": "parsed",
+      "notes": 873
+    },
+    {
+      "id": "wesoh_pl-H",
+      "status": "parsed",
+      "notes": 1197
+    },
+    {
+      "id": "welcome-A",
+      "status": "parsed",
+      "notes": 1326
+    },
+    {
+      "id": "wha-H",
+      "status": "parsed",
+      "notes": 1127
+    },
+    {
+      "id": "whenimet-A",
+      "status": "parsed",
+      "notes": 1032
+    },
+    {
+      "id": "whydidyu-A",
+      "status": "parsed",
+      "notes": 1165
+    },
+    {
+      "id": "wing_hts-A",
+      "status": "parsed",
+      "notes": 1477
+    },
+    {
+      "id": "winkle2w-A",
+      "status": "parsed",
+      "notes": 1381
+    },
+    {
+      "id": "winproof-A",
+      "status": "parsed",
+      "notes": 1089
+    },
+    {
+      "id": "wise_up-A",
+      "status": "parsed",
+      "notes": 792
+    },
+    {
+      "id": "wise_up-X",
+      "status": "parsed",
+      "notes": 1316
+    },
+    {
+      "id": "wisheuro-A",
+      "status": "parsed",
+      "notes": 988
+    },
+    {
+      "id": "withyou-A",
+      "status": "parsed",
+      "notes": 1324
+    },
+    {
+      "id": "withyu30-A",
+      "status": "parsed",
+      "notes": 1234
+    },
+    {
+      "id": "wy_smile-A",
+      "status": "parsed",
+      "notes": 786
+    },
+    {
+      "id": "withouth-H",
+      "status": "parsed",
+      "notes": 1011
+    },
+    {
+      "id": "wizards-A",
+      "status": "parsed",
+      "notes": 1101
+    },
+    {
+      "id": "wolf1061-A",
+      "status": "parsed",
+      "notes": 1514
+    },
+    {
+      "id": "wonbull-A",
+      "status": "parsed",
+      "notes": 1086
+    },
+    {
+      "id": "wndrgirl-A",
+      "status": "parsed",
+      "notes": 1457
+    },
+    {
+      "id": "wdescape-A",
+      "status": "parsed",
+      "notes": 1035
+    },
+    {
+      "id": "wndrland-A",
+      "status": "parsed",
+      "notes": 1392
+    },
+    {
+      "id": "wuv_u-A",
+      "status": "parsed",
+      "notes": 1089
+    },
+    {
+      "id": "x_amuro-H",
+      "status": "parsed",
+      "notes": 1377
+    },
+    {
+      "id": "x_plan-A",
+      "status": "parsed",
+      "notes": 1168
+    },
+    {
+      "id": "x_binary-A",
+      "status": "parsed",
+      "notes": 1424
+    },
+    {
+      "id": "xanadu_2-A",
+      "status": "parsed",
+      "notes": 1329
+    },
+    {
+      "id": "xanadu_2-X",
+      "status": "parsed",
+      "notes": 1817
+    },
+    {
+      "id": "xb10r-H",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "xenon-A",
+      "status": "parsed",
+      "notes": 1379
+    },
+    {
+      "id": "xenon2-A",
+      "status": "parsed",
+      "notes": 1482
+    },
+    {
+      "id": "xepher-H",
+      "status": "parsed",
+      "notes": 1089
+    },
+    {
+      "id": "xepher-A",
+      "status": "parsed",
+      "notes": 1498
+    },
+    {
+      "id": "xerulean-H",
+      "status": "parsed",
+      "notes": 1043
+    },
+    {
+      "id": "xhronoxp-H",
+      "status": "parsed",
+      "notes": 1268
+    },
+    {
+      "id": "xinobikl-A",
+      "status": "parsed",
+      "notes": 1566
+    },
+    {
+      "id": "xlo-H",
+      "status": "parsed",
+      "notes": 1304
+    },
+    {
+      "id": "xperanza-H",
+      "status": "parsed",
+      "notes": 1141
+    },
+    {
+      "id": "xyndrome-A",
+      "status": "parsed",
+      "notes": 1480
+    },
+    {
+      "id": "ycodoa25-H",
+      "status": "parsed",
+      "notes": 936
+    },
+    {
+      "id": "yaksha-H",
+      "status": "parsed",
+      "notes": 1391
+    },
+    {
+      "id": "yamabiko-A",
+      "status": "parsed",
+      "notes": 1299
+    },
+    {
+      "id": "ylsketch-A",
+      "status": "parsed",
+      "notes": 1545
+    },
+    {
+      "id": "yellow_s-A",
+      "status": "parsed",
+      "notes": 1493
+    },
+    {
+      "id": "youllnow-H",
+      "status": "parsed",
+      "notes": 940
+    },
+    {
+      "id": "youllnow-A",
+      "status": "parsed",
+      "notes": 1299
+    },
+    {
+      "id": "ypsilon-A",
+      "status": "parsed",
+      "notes": 1402
+    },
+    {
+      "id": "yumjelly-A",
+      "status": "parsed",
+      "notes": 1236
+    },
+    {
+      "id": "zed-A",
+      "status": "parsed",
+      "notes": 1479
+    },
+    {
+      "id": "zendegi-A",
+      "status": "parsed",
+      "notes": 1378
+    },
+    {
+      "id": "zenith-A",
+      "status": "parsed",
+      "notes": 1227
+    },
+    {
+      "id": "zenithsv-A",
+      "status": "parsed",
+      "notes": 1502
+    },
+    {
+      "id": "zenius-A",
+      "status": "parsed",
+      "notes": 1207
+    },
+    {
+      "id": "zephyran-A",
+      "status": "parsed",
+      "notes": 1599
+    },
+    {
+      "id": "zeroone-A",
+      "status": "parsed",
+      "notes": 1169
+    },
+    {
+      "id": "zeroone-X",
+      "status": "parsed",
+      "notes": 1458
+    },
+    {
+      "id": "zeroinon-A",
+      "status": "parsed",
+      "notes": 1350
+    },
+    {
+      "id": "zeta-H",
+      "status": "parsed",
+      "notes": 1307
+    },
+    {
+      "id": "zirkfied-H",
+      "status": "parsed",
+      "notes": 1044
+    },
+    {
+      "id": "zz_amuro-H",
+      "status": "parsed",
+      "notes": 1019
+    },
+    {
+      "id": "100mnm_g-H",
+      "status": "parsed",
+      "notes": 871
+    },
+    {
+      "id": "100mnm_g-A",
+      "status": "parsed",
+      "notes": 1414
+    },
+    {
+      "id": "10000mil-A",
+      "status": "parsed",
+      "notes": 1504
+    },
+    {
+      "id": "1001escp-A",
+      "status": "parsed",
+      "notes": 1333
+    },
+    {
+      "id": "1116dust-H",
+      "status": "parsed",
+      "notes": 1095
+    },
+    {
+      "id": "19novem-A",
+      "status": "parsed",
+      "notes": 1045
+    },
+    {
+      "id": "199024cl-H",
+      "status": "parsed",
+      "notes": 853
+    },
+    {
+      "id": "1samurai-H",
+      "status": "parsed",
+      "notes": 1016
+    },
+    {
+      "id": "2beasts-H",
+      "status": "parsed",
+      "notes": 1170
+    },
+    {
+      "id": "2tribelc-A",
+      "status": "parsed",
+      "notes": 1233
+    },
+    {
+      "id": "20xx-A",
+      "status": "parsed",
+      "notes": 1344
+    },
+    {
+      "id": "22dunk-A",
+      "status": "parsed",
+      "notes": 329
+    },
+    {
+      "id": "24h_race-H",
+      "status": "parsed",
+      "notes": 1160
+    },
+    {
+      "id": "24th_boy-A",
+      "status": "parsed",
+      "notes": 1398
+    },
+    {
+      "id": "250bpm-A",
+      "status": "parsed",
+      "notes": 672
+    },
+    {
+      "id": "27thstyl-A",
+      "status": "parsed",
+      "notes": 1257
+    },
+    {
+      "id": "2hot2eat-A",
+      "status": "parsed",
+      "notes": 904
+    },
+    {
+      "id": "3v0-A",
+      "status": "parsed",
+      "notes": 1530
+    },
+    {
+      "id": "3y3s-H",
+      "status": "parsed",
+      "notes": 1461
+    },
+    {
+      "id": "405nm-A",
+      "status": "parsed",
+      "notes": 1361
+    },
+    {
+      "id": "511_hs-A",
+      "status": "parsed",
+      "notes": 796
+    },
+    {
+      "id": "50th_bgn-A",
+      "status": "parsed",
+      "notes": 1468
+    },
+    {
+      "id": "50th_flg-A",
+      "status": "parsed",
+      "notes": 1148
+    },
+    {
+      "id": "50th_ftr-A",
+      "status": "parsed",
+      "notes": 1317
+    },
+    {
+      "id": "50th_bmn-A",
+      "status": "parsed",
+      "notes": 1290
+    },
+    {
+      "id": "532nm-A",
+      "status": "parsed",
+      "notes": 1310
+    },
+    {
+      "id": "7colors-A",
+      "status": "parsed",
+      "notes": 997
+    },
+    {
+      "id": "808monky-A",
+      "status": "parsed",
+      "notes": 969
+    },
+    {
+      "id": "8bit_pri-A",
+      "status": "parsed",
+      "notes": 1355
+    },
+    {
+      "id": "9_1-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "9_1-A",
+      "status": "parsed",
+      "notes": 1612
+    },
+    {
+      "id": "_dentity-H",
+      "status": "parsed",
+      "notes": 1048
+    },
+    {
+      "id": "_idol-A",
+      "status": "parsed",
+      "notes": 1307
+    },
+    {
+      "id": "_idol-X",
+      "status": "parsed",
+      "notes": 1675
+    },
+    {
+      "id": "_aipaidh-A",
+      "status": "parsed",
+      "notes": 1270
+    },
+    {
+      "id": "_aoisho-A",
+      "status": "parsed",
+      "notes": 795
+    },
+    {
+      "id": "_bgrotto-A",
+      "status": "parsed",
+      "notes": 1560
+    },
+    {
+      "id": "_akatoao-A",
+      "status": "parsed",
+      "notes": 1314
+    },
+    {
+      "id": "_akujikk-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_akumafk-A",
+      "status": "parsed",
+      "notes": 1229
+    },
+    {
+      "id": "_asayake-A",
+      "status": "parsed",
+      "notes": 1369
+    },
+    {
+      "id": "_azisai-H",
+      "status": "parsed",
+      "notes": 1118
+    },
+    {
+      "id": "_atashi-A",
+      "status": "parsed",
+      "notes": 1096
+    },
+    {
+      "id": "_anomaly-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_amedama-A",
+      "status": "parsed",
+      "notes": 734
+    },
+    {
+      "id": "_amepano-A",
+      "status": "parsed",
+      "notes": 1115
+    },
+    {
+      "id": "_ayakasi-A",
+      "status": "parsed",
+      "notes": 1380
+    },
+    {
+      "id": "_arabhyp-H",
+      "status": "parsed",
+      "notes": 1211
+    },
+    {
+      "id": "_alstroe-A",
+      "status": "parsed",
+      "notes": 1296
+    },
+    {
+      "id": "_aru_b-A",
+      "status": "parsed",
+      "notes": 1474
+    },
+    {
+      "id": "_and_int-A",
+      "status": "parsed",
+      "notes": 1600
+    },
+    {
+      "id": "_uen-H",
+      "status": "parsed",
+      "notes": 1088
+    },
+    {
+      "id": "_igaku-A",
+      "status": "parsed",
+      "notes": 1017
+    },
+    {
+      "id": "_igaku-X",
+      "status": "parsed",
+      "notes": 1502
+    },
+    {
+      "id": "_ignirru-H",
+      "status": "parsed",
+      "notes": 1160
+    },
+    {
+      "id": "_izayoi-A",
+      "status": "parsed",
+      "notes": 1235
+    },
+    {
+      "id": "_isnpyon-A",
+      "status": "parsed",
+      "notes": 1269
+    },
+    {
+      "id": "_itoshik-A",
+      "status": "parsed",
+      "notes": 1287
+    },
+    {
+      "id": "_dogumbr-A",
+      "status": "parsed",
+      "notes": 1086
+    },
+    {
+      "id": "_inochi-A",
+      "status": "parsed",
+      "notes": 1275
+    },
+    {
+      "id": "_iro_usi-H",
+      "status": "parsed",
+      "notes": 1244
+    },
+    {
+      "id": "_usakame-A",
+      "status": "parsed",
+      "notes": 1257
+    },
+    {
+      "id": "_utatuki-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_utusimi-A",
+      "status": "parsed",
+      "notes": 1590
+    },
+    {
+      "id": "_umeyuki-A",
+      "status": "parsed",
+      "notes": 1108
+    },
+    {
+      "id": "_urara-H",
+      "status": "parsed",
+      "notes": 1006
+    },
+    {
+      "id": "_urara-A",
+      "status": "parsed",
+      "notes": 1363
+    },
+    {
+      "id": "_eikan_c-H",
+      "status": "parsed",
+      "notes": 1179
+    },
+    {
+      "id": "_eimuyuk-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_aether-A",
+      "status": "parsed",
+      "notes": 1385
+    },
+    {
+      "id": "_ekineko-H",
+      "status": "parsed",
+      "notes": 1147
+    },
+    {
+      "id": "_explore-A",
+      "status": "parsed",
+      "notes": 1243
+    },
+    {
+      "id": "_eco_g-A",
+      "status": "parsed",
+      "notes": 922
+    },
+    {
+      "id": "_edamame-A",
+      "status": "parsed",
+      "notes": 1149
+    },
+    {
+      "id": "_ediblef-A",
+      "status": "parsed",
+      "notes": 1174
+    },
+    {
+      "id": "_elpis-H",
+      "status": "parsed",
+      "notes": 1096
+    },
+    {
+      "id": "_enkyoku-H",
+      "status": "parsed",
+      "notes": 1252
+    },
+    {
+      "id": "_o_koede-A",
+      "status": "parsed",
+      "notes": 611
+    },
+    {
+      "id": "_o_koede-X",
+      "status": "parsed",
+      "notes": 1067
+    },
+    {
+      "id": "_orderbr-A",
+      "status": "parsed",
+      "notes": 1298
+    },
+    {
+      "id": "_overide-A",
+      "status": "parsed",
+      "notes": 1638
+    },
+    {
+      "id": "_omylove-A",
+      "status": "parsed",
+      "notes": 1480
+    },
+    {
+      "id": "_oortcld-A",
+      "status": "parsed",
+      "notes": 1313
+    },
+    {
+      "id": "_oulgnds-H",
+      "status": "parsed",
+      "notes": 1063
+    },
+    {
+      "id": "_candykd-H",
+      "status": "parsed",
+      "notes": 1225
+    },
+    {
+      "id": "_howrice-A",
+      "status": "parsed",
+      "notes": 1085
+    },
+    {
+      "id": "_oddlove-A",
+      "status": "parsed",
+      "notes": 1256
+    },
+    {
+      "id": "_otose_t-A",
+      "status": "parsed",
+      "notes": 1158
+    },
+    {
+      "id": "_oddloop-A",
+      "status": "parsed",
+      "notes": 1277
+    },
+    {
+      "id": "_oddloop-X",
+      "status": "parsed",
+      "notes": 1537
+    },
+    {
+      "id": "_onigami-H",
+      "status": "parsed",
+      "notes": 960
+    },
+    {
+      "id": "_oneinst-A",
+      "status": "parsed",
+      "notes": 1041
+    },
+    {
+      "id": "_obsomet-A",
+      "status": "parsed",
+      "notes": 1229
+    },
+    {
+      "id": "_oboro-A",
+      "status": "parsed",
+      "notes": 1082
+    },
+    {
+      "id": "_oboro-X",
+      "status": "parsed",
+      "notes": 1257
+    },
+    {
+      "id": "_altbeta-A",
+      "status": "parsed",
+      "notes": 1331
+    },
+    {
+      "id": "_orebeat-A",
+      "status": "parsed",
+      "notes": 789
+    },
+    {
+      "id": "_ongaku-H",
+      "status": "parsed",
+      "notes": 949
+    },
+    {
+      "id": "_kai_den-H",
+      "status": "parsed",
+      "notes": 1495
+    },
+    {
+      "id": "_kaibutu-A",
+      "status": "parsed",
+      "notes": 1241
+    },
+    {
+      "id": "_kaibutu-X",
+      "status": "parsed",
+      "notes": 1584
+    },
+    {
+      "id": "_kagachi-A",
+      "status": "parsed",
+      "notes": 1473
+    },
+    {
+      "id": "_kakugos-A",
+      "status": "parsed",
+      "notes": 1567
+    },
+    {
+      "id": "_kagenui-A",
+      "status": "parsed",
+      "notes": 1076
+    },
+    {
+      "id": "_kagerou-A",
+      "status": "parsed",
+      "notes": 1079
+    },
+    {
+      "id": "_kagenno-A",
+      "status": "parsed",
+      "notes": 984
+    },
+    {
+      "id": "_srcof_c-A",
+      "status": "parsed",
+      "notes": 1219
+    },
+    {
+      "id": "_kasimas-A",
+      "status": "parsed",
+      "notes": 1501
+    },
+    {
+      "id": "_kzasobi-A",
+      "status": "parsed",
+      "notes": 910
+    },
+    {
+      "id": "_travels-A",
+      "status": "parsed",
+      "notes": 1549
+    },
+    {
+      "id": "_kachofu-H",
+      "status": "parsed",
+      "notes": 1041
+    },
+    {
+      "id": "_kakko_e-A",
+      "status": "parsed",
+      "notes": 1659
+    },
+    {
+      "id": "_tsj_ryu-A",
+      "status": "parsed",
+      "notes": 935
+    },
+    {
+      "id": "_gatturi-H",
+      "status": "parsed",
+      "notes": 1390
+    },
+    {
+      "id": "_kamitre-A",
+      "status": "parsed",
+      "notes": 1183
+    },
+    {
+      "id": "_kamipoi-A",
+      "status": "parsed",
+      "notes": 1079
+    },
+    {
+      "id": "_cmflg-H",
+      "status": "parsed",
+      "notes": 1152
+    },
+    {
+      "id": "_karasu-H",
+      "status": "parsed",
+      "notes": 1130
+    },
+    {
+      "id": "_karasu-A",
+      "status": "parsed",
+      "notes": 1346
+    },
+    {
+      "id": "_valse27-H",
+      "status": "parsed",
+      "notes": 1114
+    },
+    {
+      "id": "_kareinr-A",
+      "status": "parsed",
+      "notes": 1187
+    },
+    {
+      "id": "_kawaiid-A",
+      "status": "parsed",
+      "notes": 1165
+    },
+    {
+      "id": "_k_gomen-A",
+      "status": "parsed",
+      "notes": 1103
+    },
+    {
+      "id": "_k_gomen-X",
+      "status": "parsed",
+      "notes": 1356
+    },
+    {
+      "id": "_kissktn-A",
+      "status": "parsed",
+      "notes": 1350
+    },
+    {
+      "id": "_gimentr-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_kimiksk-A",
+      "status": "parsed",
+      "notes": 1121
+    },
+    {
+      "id": "_kiminos-A",
+      "status": "parsed",
+      "notes": 1600
+    },
+    {
+      "id": "_gyalaxy-A",
+      "status": "parsed",
+      "notes": 1215
+    },
+    {
+      "id": "_kyatora-H",
+      "status": "parsed",
+      "notes": 1388
+    },
+    {
+      "id": "_kyukura-A",
+      "status": "parsed",
+      "notes": 1217
+    },
+    {
+      "id": "_kyundes-A",
+      "status": "parsed",
+      "notes": 1202
+    },
+    {
+      "id": "_kyouka-A",
+      "status": "parsed",
+      "notes": 1545
+    },
+    {
+      "id": "_kichika-A",
+      "status": "parsed",
+      "notes": 1336
+    },
+    {
+      "id": "_kyozots-A",
+      "status": "parsed",
+      "notes": 995
+    },
+    {
+      "id": "_kyouhan-A",
+      "status": "parsed",
+      "notes": 1141
+    },
+    {
+      "id": "_kyoumei-H",
+      "status": "parsed",
+      "notes": 1395
+    },
+    {
+      "id": "_gyogyo-A",
+      "status": "parsed",
+      "notes": 1164
+    },
+    {
+      "id": "_grk-H",
+      "status": "parsed",
+      "notes": 1061
+    },
+    {
+      "id": "_kuchikr-A",
+      "status": "parsed",
+      "notes": 1262
+    },
+    {
+      "id": "_goodbys-A",
+      "status": "parsed",
+      "notes": 1571
+    },
+    {
+      "id": "_k_verga-A",
+      "status": "parsed",
+      "notes": 1229
+    },
+    {
+      "id": "_granada-A",
+      "status": "parsed",
+      "notes": 985
+    },
+    {
+      "id": "_gmaster-A",
+      "status": "parsed",
+      "notes": 1508
+    },
+    {
+      "id": "_kuruizk-H",
+      "status": "parsed",
+      "notes": 1316
+    },
+    {
+      "id": "_curulab-A",
+      "status": "parsed",
+      "notes": 1182
+    },
+    {
+      "id": "_krokami-H",
+      "status": "parsed",
+      "notes": 1234
+    },
+    {
+      "id": "_ksmoyou-A",
+      "status": "parsed",
+      "notes": 1380
+    },
+    {
+      "id": "_krobeni-A",
+      "status": "parsed",
+      "notes": 1046
+    },
+    {
+      "id": "_gestalt-A",
+      "status": "parsed",
+      "notes": 1260
+    },
+    {
+      "id": "_gestalt-X",
+      "status": "parsed",
+      "notes": 1645
+    },
+    {
+      "id": "_gekkasj-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_gryoran-A",
+      "status": "parsed",
+      "notes": 1486
+    },
+    {
+      "id": "_gekkou-A",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "_koisiro-A",
+      "status": "parsed",
+      "notes": 955
+    },
+    {
+      "id": "_koisiro-X",
+      "status": "parsed",
+      "notes": 1494
+    },
+    {
+      "id": "_koihado-A",
+      "status": "parsed",
+      "notes": 1028
+    },
+    {
+      "id": "_kokodo-A",
+      "status": "parsed",
+      "notes": 1204
+    },
+    {
+      "id": "_ope_143-A",
+      "status": "parsed",
+      "notes": 1292
+    },
+    {
+      "id": "_ope_143-X",
+      "status": "parsed",
+      "notes": 1637
+    },
+    {
+      "id": "_cosmos-A",
+      "status": "parsed",
+      "notes": 1012
+    },
+    {
+      "id": "_kotti-A",
+      "status": "parsed",
+      "notes": 1127
+    },
+    {
+      "id": "_kodomo-H",
+      "status": "parsed",
+      "notes": 941
+    },
+    {
+      "id": "_koyoiry-H",
+      "status": "parsed",
+      "notes": 1198
+    },
+    {
+      "id": "_k_hiori-H",
+      "status": "parsed",
+      "notes": 1189
+    },
+    {
+      "id": "_saikai-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_cathsin-A",
+      "status": "parsed",
+      "notes": 1081
+    },
+    {
+      "id": "_saikyog-A",
+      "status": "parsed",
+      "notes": 1070
+    },
+    {
+      "id": "_saisho3-H",
+      "status": "parsed",
+      "notes": 908
+    },
+    {
+      "id": "_sakazki-H",
+      "status": "parsed",
+      "notes": 1177
+    },
+    {
+      "id": "_sakura-H",
+      "status": "parsed",
+      "notes": 819
+    },
+    {
+      "id": "_sngalop-H",
+      "status": "parsed",
+      "notes": 1253
+    },
+    {
+      "id": "_sheaven-A",
+      "status": "parsed",
+      "notes": 957
+    },
+    {
+      "id": "_sheaven-X",
+      "status": "parsed",
+      "notes": 1095
+    },
+    {
+      "id": "_shvnccd-A",
+      "status": "parsed",
+      "notes": 1280
+    },
+    {
+      "id": "_therele-A",
+      "status": "parsed",
+      "notes": 1626
+    },
+    {
+      "id": "_3plus3-H",
+      "status": "parsed",
+      "notes": 1031
+    },
+    {
+      "id": "_3plus3-A",
+      "status": "parsed",
+      "notes": 1573
+    },
+    {
+      "id": "_zanzoni-H",
+      "status": "parsed",
+      "notes": 1151
+    },
+    {
+      "id": "_jellyjw-A",
+      "status": "parsed",
+      "notes": 1687
+    },
+    {
+      "id": "_jikutrv-A",
+      "status": "parsed",
+      "notes": 1313
+    },
+    {
+      "id": "_sskasum-A",
+      "status": "parsed",
+      "notes": 938
+    },
+    {
+      "id": "_shizuku-A",
+      "status": "parsed",
+      "notes": 1328
+    },
+    {
+      "id": "_ltspeed-H",
+      "status": "parsed",
+      "notes": 1154
+    },
+    {
+      "id": "_snbrnka-A",
+      "status": "parsed",
+      "notes": 1330
+    },
+    {
+      "id": "_simurgh-H",
+      "status": "parsed",
+      "notes": 1293
+    },
+    {
+      "id": "_shime-H",
+      "status": "parsed",
+      "notes": 1198
+    },
+    {
+      "id": "_syaku_2-H",
+      "status": "parsed",
+      "notes": 1031
+    },
+    {
+      "id": "_shakunt-H",
+      "status": "parsed",
+      "notes": 933
+    },
+    {
+      "id": "_shaku_c-H",
+      "status": "parsed",
+      "notes": 1017
+    },
+    {
+      "id": "_shaku_r-A",
+      "status": "parsed",
+      "notes": 941
+    },
+    {
+      "id": "_shakuls-H",
+      "status": "parsed",
+      "notes": 995
+    },
+    {
+      "id": "_shamshr-A",
+      "status": "parsed",
+      "notes": 1300
+    },
+    {
+      "id": "_shuen_c-H",
+      "status": "parsed",
+      "notes": 1015
+    },
+    {
+      "id": "_syupatu-A",
+      "status": "parsed",
+      "notes": 1365
+    },
+    {
+      "id": "_schrcat-H",
+      "status": "parsed",
+      "notes": 1198
+    },
+    {
+      "id": "_jdesire-A",
+      "status": "parsed",
+      "notes": 1124
+    },
+    {
+      "id": "_jdesire-X",
+      "status": "parsed",
+      "notes": 1508
+    },
+    {
+      "id": "_jiyou-A",
+      "status": "parsed",
+      "notes": 1073
+    },
+    {
+      "id": "_jiyou-X",
+      "status": "parsed",
+      "notes": 1392
+    },
+    {
+      "id": "_shou-A",
+      "status": "parsed",
+      "notes": 895
+    },
+    {
+      "id": "_shokyok-A",
+      "status": "parsed",
+      "notes": 1210
+    },
+    {
+      "id": "_alicein-A",
+      "status": "parsed",
+      "notes": 1259
+    },
+    {
+      "id": "_slonely-A",
+      "status": "parsed",
+      "notes": 1305
+    },
+    {
+      "id": "_kid_a-H",
+      "status": "parsed",
+      "notes": 1150
+    },
+    {
+      "id": "_soratad-H",
+      "status": "parsed",
+      "notes": 1092
+    },
+    {
+      "id": "_sripple-A",
+      "status": "parsed",
+      "notes": 1284
+    },
+    {
+      "id": "_shiraty-A",
+      "status": "parsed",
+      "notes": 951
+    },
+    {
+      "id": "_silvous-A",
+      "status": "parsed",
+      "notes": 928
+    },
+    {
+      "id": "_silvous-X",
+      "status": "parsed",
+      "notes": 1255
+    },
+    {
+      "id": "_shinair-A",
+      "status": "parsed",
+      "notes": 1129
+    },
+    {
+      "id": "_resonan-H",
+      "status": "parsed",
+      "notes": 1356
+    },
+    {
+      "id": "_sjigoku-H",
+      "status": "parsed",
+      "notes": 1175
+    },
+    {
+      "id": "_stakara-A",
+      "status": "parsed",
+      "notes": 1200
+    },
+    {
+      "id": "_sindame-A",
+      "status": "parsed",
+      "notes": 1131
+    },
+    {
+      "id": "_cindrla-A",
+      "status": "parsed",
+      "notes": 1165
+    },
+    {
+      "id": "_suijo17-A",
+      "status": "parsed",
+      "notes": 1147
+    },
+    {
+      "id": "_suishok-A",
+      "status": "parsed",
+      "notes": 1163
+    },
+    {
+      "id": "_spbaban-H",
+      "status": "parsed",
+      "notes": 1026
+    },
+    {
+      "id": "_sukitte-H",
+      "status": "parsed",
+      "notes": 1284
+    },
+    {
+      "id": "_sparkht-H",
+      "status": "parsed",
+      "notes": 1114
+    },
+    {
+      "id": "_seijin-H",
+      "status": "parsed",
+      "notes": 1139
+    },
+    {
+      "id": "_scndear-A",
+      "status": "parsed",
+      "notes": 1002
+    },
+    {
+      "id": "_stgekka-H",
+      "status": "parsed",
+      "notes": 1153
+    },
+    {
+      "id": "_setsujo-H",
+      "status": "parsed",
+      "notes": 956
+    },
+    {
+      "id": "_sepiano-A",
+      "status": "parsed",
+      "notes": 1223
+    },
+    {
+      "id": "_zero-A",
+      "status": "parsed",
+      "notes": 1154
+    },
+    {
+      "id": "_zero-X",
+      "status": "parsed",
+      "notes": 1421
+    },
+    {
+      "id": "_seroton-A",
+      "status": "parsed",
+      "notes": 1231
+    },
+    {
+      "id": "_cntismr-A",
+      "status": "parsed",
+      "notes": 1028
+    },
+    {
+      "id": "_sraikan-A",
+      "status": "parsed",
+      "notes": 1373
+    },
+    {
+      "id": "_s_dogma-H",
+      "status": "parsed",
+      "notes": 1362
+    },
+    {
+      "id": "_psougen-A",
+      "status": "parsed",
+      "notes": 1127
+    },
+    {
+      "id": "_zoshoku-H",
+      "status": "parsed",
+      "notes": 1165
+    },
+    {
+      "id": "_gennote-A",
+      "status": "parsed",
+      "notes": 1265
+    },
+    {
+      "id": "_sorebok-A",
+      "status": "parsed",
+      "notes": 1034
+    },
+    {
+      "id": "_shanabi-H",
+      "status": "parsed",
+      "notes": 1261
+    },
+    {
+      "id": "_turn_a-H",
+      "status": "parsed",
+      "notes": 1116
+    },
+    {
+      "id": "_takara-A",
+      "status": "parsed",
+      "notes": 1521
+    },
+    {
+      "id": "_takara-X",
+      "status": "parsed",
+      "notes": 1846
+    },
+    {
+      "id": "_dakismt-H",
+      "status": "parsed",
+      "notes": 1212
+    },
+    {
+      "id": "_tashika-A",
+      "status": "parsed",
+      "notes": 1191
+    },
+    {
+      "id": "_dadada-A",
+      "status": "parsed",
+      "notes": 1301
+    },
+    {
+      "id": "_dddddru-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_t_rerun-H",
+      "status": "parsed",
+      "notes": 1054
+    },
+    {
+      "id": "_tamayra-H",
+      "status": "parsed",
+      "notes": 1159
+    },
+    {
+      "id": "_danzai1-A",
+      "status": "parsed",
+      "notes": 1254
+    },
+    {
+      "id": "_dz_mmss-H",
+      "status": "parsed",
+      "notes": 1047
+    },
+    {
+      "id": "_tanpopo-A",
+      "status": "parsed",
+      "notes": 1436
+    },
+    {
+      "id": "_dmsinko-A",
+      "status": "parsed",
+      "notes": 1274
+    },
+    {
+      "id": "_ccj_oni-A",
+      "status": "parsed",
+      "notes": 1386
+    },
+    {
+      "id": "_chinaex-A",
+      "status": "parsed",
+      "notes": 1233
+    },
+    {
+      "id": "_cholove-A",
+      "status": "parsed",
+      "notes": 1450
+    },
+    {
+      "id": "_choe-H",
+      "status": "parsed",
+      "notes": 1136
+    },
+    {
+      "id": "_choe-A",
+      "status": "parsed",
+      "notes": 1512
+    },
+    {
+      "id": "_crahara-A",
+      "status": "parsed",
+      "notes": 742
+    },
+    {
+      "id": "_sunpark-H",
+      "status": "parsed",
+      "notes": 1110
+    },
+    {
+      "id": "_sunpark-A",
+      "status": "parsed",
+      "notes": 1573
+    },
+    {
+      "id": "_tgryuki-H",
+      "status": "parsed",
+      "notes": 1165
+    },
+    {
+      "id": "_tktmilk-A",
+      "status": "parsed",
+      "notes": 1351
+    },
+    {
+      "id": "_tkiyume-A",
+      "status": "parsed",
+      "notes": 1233
+    },
+    {
+      "id": "_tkiyuki-A",
+      "status": "parsed",
+      "notes": 1053
+    },
+    {
+      "id": "_tsukumo-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_tsubasa-A",
+      "status": "parsed",
+      "notes": 1086
+    },
+    {
+      "id": "_tsubasa-X",
+      "status": "parsed",
+      "notes": 1447
+    },
+    {
+      "id": "_tsumito-A",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "_dmutant-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_dscrdia-H",
+      "status": "parsed",
+      "notes": 1258
+    },
+    {
+      "id": "_dw_oiwa-A",
+      "status": "parsed",
+      "notes": 1292
+    },
+    {
+      "id": "_rage16-H",
+      "status": "parsed",
+      "notes": 1087
+    },
+    {
+      "id": "_rage16-A",
+      "status": "parsed",
+      "notes": 1309
+    },
+    {
+      "id": "_tkotome-A",
+      "status": "parsed",
+      "notes": 1220
+    },
+    {
+      "id": "_deadbal-A",
+      "status": "parsed",
+      "notes": 1447
+    },
+    {
+      "id": "_devilja-A",
+      "status": "parsed",
+      "notes": 1005
+    },
+    {
+      "id": "_derakrt-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_delamuu-A",
+      "status": "parsed",
+      "notes": 1012
+    },
+    {
+      "id": "_telos-A",
+      "status": "parsed",
+      "notes": 1395
+    },
+    {
+      "id": "_tkyoake-H",
+      "status": "parsed",
+      "notes": 1444
+    },
+    {
+      "id": "_denkou-H",
+      "status": "parsed",
+      "notes": 1014
+    },
+    {
+      "id": "_59-A",
+      "status": "parsed",
+      "notes": 585
+    },
+    {
+      "id": "_densini-A",
+      "status": "parsed",
+      "notes": 1001
+    },
+    {
+      "id": "_cantata-H",
+      "status": "parsed",
+      "notes": 1143
+    },
+    {
+      "id": "_fattack-H",
+      "status": "parsed",
+      "notes": 1207
+    },
+    {
+      "id": "_dennots-H",
+      "status": "parsed",
+      "notes": 1208
+    },
+    {
+      "id": "_dpdrill-A",
+      "status": "parsed",
+      "notes": 1712
+    },
+    {
+      "id": "_donut24-A",
+      "status": "parsed",
+      "notes": 1265
+    },
+    {
+      "id": "_dsummer-A",
+      "status": "parsed",
+      "notes": 1452
+    },
+    {
+      "id": "_rovknee-A",
+      "status": "parsed",
+      "notes": 1144
+    },
+    {
+      "id": "_todorok-H",
+      "status": "parsed",
+      "notes": 1116
+    },
+    {
+      "id": "_toribjt-A",
+      "status": "parsed",
+      "notes": 1158
+    },
+    {
+      "id": "_dremchu-A",
+      "status": "parsed",
+      "notes": 1326
+    },
+    {
+      "id": "_trpclub-A",
+      "status": "parsed",
+      "notes": 1149
+    },
+    {
+      "id": "_nairtin-A",
+      "status": "parsed",
+      "notes": 931
+    },
+    {
+      "id": "_nitcity-A",
+      "status": "parsed",
+      "notes": 1139
+    },
+    {
+      "id": "_nightfc-A",
+      "status": "parsed",
+      "notes": 1094
+    },
+    {
+      "id": "_nine_ix-H",
+      "status": "parsed",
+      "notes": 1382
+    },
+    {
+      "id": "_nageki-H",
+      "status": "parsed",
+      "notes": 1281
+    },
+    {
+      "id": "_ntdiary-H",
+      "status": "parsed",
+      "notes": 1135
+    },
+    {
+      "id": "_natsere-A",
+      "status": "parsed",
+      "notes": 1092
+    },
+    {
+      "id": "_natkaze-A",
+      "status": "parsed",
+      "notes": 1283
+    },
+    {
+      "id": "_ntnnioi-A",
+      "status": "parsed",
+      "notes": 1348
+    },
+    {
+      "id": "_namidam-A",
+      "status": "parsed",
+      "notes": 1582
+    },
+    {
+      "id": "_nijiiro-A",
+      "status": "parsed",
+      "notes": 934
+    },
+    {
+      "id": "_twenty-A",
+      "status": "parsed",
+      "notes": 1190
+    },
+    {
+      "id": "_neokiys-A",
+      "status": "parsed",
+      "notes": 1376
+    },
+    {
+      "id": "_stellad-A",
+      "status": "parsed",
+      "notes": 1405
+    },
+    {
+      "id": "_hbfesta-A",
+      "status": "parsed",
+      "notes": 1441
+    },
+    {
+      "id": "_pfeater-A",
+      "status": "parsed",
+      "notes": 1541
+    },
+    {
+      "id": "_hitokio-A",
+      "status": "parsed",
+      "notes": 1385
+    },
+    {
+      "id": "_bbfight-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_hibiscs-A",
+      "status": "parsed",
+      "notes": 1303
+    },
+    {
+      "id": "_hao-A",
+      "status": "parsed",
+      "notes": 1425
+    },
+    {
+      "id": "_haochi-A",
+      "status": "parsed",
+      "notes": 1010
+    },
+    {
+      "id": "_hgensou-H",
+      "status": "parsed",
+      "notes": 1139
+    },
+    {
+      "id": "_hakakoi-A",
+      "status": "parsed",
+      "notes": 1531
+    },
+    {
+      "id": "_bakzeni-A",
+      "status": "parsed",
+      "notes": 1332
+    },
+    {
+      "id": "_pastlsm-A",
+      "status": "parsed",
+      "notes": 1095
+    },
+    {
+      "id": "_vajra-H",
+      "status": "parsed",
+      "notes": 1075
+    },
+    {
+      "id": "_buzra-H",
+      "status": "parsed",
+      "notes": 1089
+    },
+    {
+      "id": "_bathrom-A",
+      "status": "parsed",
+      "notes": 1204
+    },
+    {
+      "id": "_hazerya-A",
+      "status": "parsed",
+      "notes": 1585
+    },
+    {
+      "id": "_hatasen-A",
+      "status": "parsed",
+      "notes": 1514
+    },
+    {
+      "id": "_badends-A",
+      "status": "parsed",
+      "notes": 1552
+    },
+    {
+      "id": "_hanakan-A",
+      "status": "parsed",
+      "notes": 1366
+    },
+    {
+      "id": "_hanafbk-A",
+      "status": "parsed",
+      "notes": 838
+    },
+    {
+      "id": "_hranman-A",
+      "status": "parsed",
+      "notes": 1011
+    },
+    {
+      "id": "_babibu-A",
+      "status": "parsed",
+      "notes": 1297
+    },
+    {
+      "id": "_papipu-A",
+      "status": "parsed",
+      "notes": 1348
+    },
+    {
+      "id": "_babylon-A",
+      "status": "parsed",
+      "notes": 951
+    },
+    {
+      "id": "_bubblin-A",
+      "status": "parsed",
+      "notes": 1215
+    },
+    {
+      "id": "_paradox-A",
+      "status": "parsed",
+      "notes": 1515
+    },
+    {
+      "id": "_haritya-A",
+      "status": "parsed",
+      "notes": 1248
+    },
+    {
+      "id": "_haruiro-A",
+      "status": "parsed",
+      "notes": 1069
+    },
+    {
+      "id": "_bamboos-H",
+      "status": "parsed",
+      "notes": 994
+    },
+    {
+      "id": "_psasori-H",
+      "status": "parsed",
+      "notes": 1031
+    },
+    {
+      "id": "_psaso_r-H",
+      "status": "parsed",
+      "notes": 1130
+    },
+    {
+      "id": "_pkaijin-H",
+      "status": "parsed",
+      "notes": 1300
+    },
+    {
+      "id": "_viva_-A",
+      "status": "parsed",
+      "notes": 1206
+    },
+    {
+      "id": "_bibbidi-A",
+      "status": "parsed",
+      "notes": 1173
+    },
+    {
+      "id": "_hima_gd-A",
+      "status": "parsed",
+      "notes": 943
+    },
+    {
+      "id": "_himiko-H",
+      "status": "parsed",
+      "notes": 1396
+    },
+    {
+      "id": "_hyakkoi-A",
+      "status": "parsed",
+      "notes": 1284
+    },
+    {
+      "id": "_bt_rcpt-A",
+      "status": "parsed",
+      "notes": 1151
+    },
+    {
+      "id": "_hyouri-H",
+      "status": "parsed",
+      "notes": 1322
+    },
+    {
+      "id": "_hiraki-H",
+      "status": "parsed",
+      "notes": 1040
+    },
+    {
+      "id": "_hiraki-A",
+      "status": "parsed",
+      "notes": 1473
+    },
+    {
+      "id": "_fletter-A",
+      "status": "parsed",
+      "notes": 1349
+    },
+    {
+      "id": "_phony-A",
+      "status": "parsed",
+      "notes": 1556
+    },
+    {
+      "id": "_fujimi-A",
+      "status": "parsed",
+      "notes": 1288
+    },
+    {
+      "id": "_a_rvnant-H",
+      "status": "parsed",
+      "notes": 1231
+    },
+    {
+      "id": "_fuchin-A",
+      "status": "parsed",
+      "notes": 1486
+    },
+    {
+      "id": "_fuyutbk-A",
+      "status": "parsed",
+      "notes": 1114
+    },
+    {
+      "id": "_fuyutbk-X",
+      "status": "parsed",
+      "notes": 1509
+    },
+    {
+      "id": "_beyondr-H",
+      "status": "parsed",
+      "notes": 1108
+    },
+    {
+      "id": "_franken-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_progura-A",
+      "status": "parsed",
+      "notes": 1243
+    },
+    {
+      "id": "_basdrop-A",
+      "status": "parsed",
+      "notes": 1220
+    },
+    {
+      "id": "_basdrop-X",
+      "status": "parsed",
+      "notes": 1252
+    },
+    {
+      "id": "_heisoku-A",
+      "status": "parsed",
+      "notes": 1255
+    },
+    {
+      "id": "_hekirek-A",
+      "status": "parsed",
+      "notes": 1179
+    },
+    {
+      "id": "_benibtn-A",
+      "status": "parsed",
+      "notes": 1291
+    },
+    {
+      "id": "_bl_clvr-A",
+      "status": "parsed",
+      "notes": 1419
+    },
+    {
+      "id": "_bengal-H",
+      "status": "parsed",
+      "notes": 1051
+    },
+    {
+      "id": "_hrenten-H",
+      "status": "parsed",
+      "notes": 1216
+    },
+    {
+      "id": "_aigipan-A",
+      "status": "parsed",
+      "notes": 1026
+    },
+    {
+      "id": "_stardst-A",
+      "status": "parsed",
+      "notes": 1000
+    },
+    {
+      "id": "_ninelem-A",
+      "status": "parsed",
+      "notes": 1267
+    },
+    {
+      "id": "_polauta-A",
+      "status": "parsed",
+      "notes": 1086
+    },
+    {
+      "id": "_marsmax-A",
+      "status": "parsed",
+      "notes": 1082
+    },
+    {
+      "id": "_65c-H",
+      "status": "parsed",
+      "notes": 1102
+    },
+    {
+      "id": "_magicvl-A",
+      "status": "parsed",
+      "notes": 1500
+    },
+    {
+      "id": "_s_machi-A",
+      "status": "parsed",
+      "notes": 879
+    },
+    {
+      "id": "_manatsu-A",
+      "status": "parsed",
+      "notes": 961
+    },
+    {
+      "id": "_mhoroba-A",
+      "status": "parsed",
+      "notes": 1127
+    },
+    {
+      "id": "_mybabel-A",
+      "status": "parsed",
+      "notes": 891
+    },
+    {
+      "id": "_mandara-A",
+      "status": "parsed",
+      "notes": 1344
+    },
+    {
+      "id": "_mikanse-H",
+      "status": "parsed",
+      "notes": 1090
+    },
+    {
+      "id": "_bouqann-A",
+      "status": "parsed",
+      "notes": 709
+    },
+    {
+      "id": "_misogi-H",
+      "status": "parsed",
+      "notes": 1153
+    },
+    {
+      "id": "_mktenka-A",
+      "status": "parsed",
+      "notes": 948
+    },
+    {
+      "id": "_mid_war-A",
+      "status": "parsed",
+      "notes": 1311
+    },
+    {
+      "id": "_minatki-A",
+      "status": "parsed",
+      "notes": 1471
+    },
+    {
+      "id": "_mschour-A",
+      "status": "parsed",
+      "notes": 1520
+    },
+    {
+      "id": "_m_resid-H",
+      "status": "parsed",
+      "notes": 1073
+    },
+    {
+      "id": "_prismof-A",
+      "status": "parsed",
+      "notes": 967
+    },
+    {
+      "id": "_unphilo-A",
+      "status": "parsed",
+      "notes": 1658
+    },
+    {
+      "id": "_mugen_m-A",
+      "status": "parsed",
+      "notes": 1154
+    },
+    {
+      "id": "_musou-A",
+      "status": "parsed",
+      "notes": 1644
+    },
+    {
+      "id": "_mei-H",
+      "status": "parsed",
+      "notes": 1104
+    },
+    {
+      "id": "_meikyou-A",
+      "status": "parsed",
+      "notes": 1346
+    },
+    {
+      "id": "_meisai-H",
+      "status": "parsed",
+      "notes": 1248
+    },
+    {
+      "id": "_meimetu-A",
+      "status": "parsed",
+      "notes": 1059
+    },
+    {
+      "id": "_meumeuz-A",
+      "status": "parsed",
+      "notes": 1460
+    },
+    {
+      "id": "_mesmerz-A",
+      "status": "parsed",
+      "notes": 1486
+    },
+    {
+      "id": "_meteor-A",
+      "status": "parsed",
+      "notes": 1246
+    },
+    {
+      "id": "_medetee-A",
+      "status": "parsed",
+      "notes": 1303
+    },
+    {
+      "id": "_meltcpk-A",
+      "status": "parsed",
+      "notes": 1439
+    },
+    {
+      "id": "_mottoki-A",
+      "status": "parsed",
+      "notes": 1266
+    },
+    {
+      "id": "_monmeta-A",
+      "status": "parsed",
+      "notes": 1119
+    },
+    {
+      "id": "_yashano-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_ay_quiz-A",
+      "status": "parsed",
+      "notes": 1012
+    },
+    {
+      "id": "_yuusha-A",
+      "status": "parsed",
+      "notes": 1324
+    },
+    {
+      "id": "_yuuyake-A",
+      "status": "parsed",
+      "notes": 1314
+    },
+    {
+      "id": "_ymir-A",
+      "status": "parsed",
+      "notes": 1404
+    },
+    {
+      "id": "_yumeiro-A",
+      "status": "parsed",
+      "notes": 1604
+    },
+    {
+      "id": "_ymenisi-H",
+      "status": "parsed",
+      "notes": 1095
+    },
+    {
+      "id": "_ymenisi-A",
+      "status": "parsed",
+      "notes": 1506
+    },
+    {
+      "id": "_yoidore-A",
+      "status": "parsed",
+      "notes": 1161
+    },
+    {
+      "id": "_yoshida-A",
+      "status": "parsed",
+      "notes": 1003
+    },
+    {
+      "id": "_raitei-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_rakirak-A",
+      "status": "parsed",
+      "notes": 1016
+    },
+    {
+      "id": "_rakuen-A",
+      "status": "parsed",
+      "notes": 1033
+    },
+    {
+      "id": "_expulsn-A",
+      "status": "parsed",
+      "notes": 1223
+    },
+    {
+      "id": "_lastcen-A",
+      "status": "parsed",
+      "notes": 1105
+    },
+    {
+      "id": "_rabbith-A",
+      "status": "parsed",
+      "notes": 1422
+    },
+    {
+      "id": "_lvkiras-A",
+      "status": "parsed",
+      "notes": 1100
+    },
+    {
+      "id": "_lovcome-H",
+      "status": "parsed",
+      "notes": 1090
+    },
+    {
+      "id": "_lovpara-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_rankerk-A",
+      "status": "parsed",
+      "notes": 1419
+    },
+    {
+      "id": "_feastof-A",
+      "status": "parsed",
+      "notes": 1392
+    },
+    {
+      "id": "_rinne_k-A",
+      "status": "parsed",
+      "notes": 1398
+    },
+    {
+      "id": "_rememx2-A",
+      "status": "parsed",
+      "notes": 825
+    },
+    {
+      "id": "_mausole-H",
+      "status": "parsed",
+      "notes": 1070
+    },
+    {
+      "id": "_mausole-A",
+      "status": "parsed",
+      "notes": 1599
+    },
+    {
+      "id": "_decoher-A",
+      "status": "parsed",
+      "notes": 1387
+    },
+    {
+      "id": "_maudand-H",
+      "status": "parsed",
+      "notes": 940
+    },
+    {
+      "id": "_maudand-A",
+      "status": "parsed",
+      "notes": 1407
+    },
+    {
+      "id": "_lilieze-H",
+      "status": "parsed",
+      "notes": 1264
+    },
+    {
+      "id": "_rintost-A",
+      "status": "parsed",
+      "notes": 1443
+    },
+    {
+      "id": "_ruoumon-A",
+      "status": "parsed",
+      "notes": 1100
+    },
+    {
+      "id": "_reciper-A",
+      "status": "parsed",
+      "notes": 1182
+    },
+    {
+      "id": "_retrver-A",
+      "status": "parsed",
+      "notes": 996
+    },
+    {
+      "id": "_r_s_x_n-H",
+      "status": "parsed",
+      "notes": 1174
+    },
+    {
+      "id": "_rkansok-A",
+      "status": "parsed",
+      "notes": 1202
+    },
+    {
+      "id": "_rconfit-A",
+      "status": "parsed",
+      "notes": 1284
+    },
+    {
+      "id": "_elefthe-H",
+      "status": "parsed",
+      "notes": 1265
+    },
+    {
+      "id": "_rensein-A",
+      "status": "parsed",
+      "notes": 1516
+    },
+    {
+      "id": "_romaesc-A",
+      "status": "parsed",
+      "notes": 932
+    },
+    {
+      "id": "_waktetu-H",
+      "status": "parsed",
+      "notes": 1156
+    },
+    {
+      "id": "_wakloli-A",
+      "status": "parsed",
+      "notes": 1459
+    },
+    {
+      "id": "_wadatmi-H",
+      "status": "parsed",
+      "notes": 1145
+    },
+    {
+      "id": "_valse17-H",
+      "status": "parsed",
+      "notes": 1259
+    },
+    {
+      "id": "_we_idol-A",
+      "status": "parsed",
+      "notes": 1302
+    }
+  ]
+}

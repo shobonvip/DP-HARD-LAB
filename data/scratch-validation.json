@@ -1,0 +1,34 @@
+{
+  "model": "0.3.0-scratch-experimental",
+  "note": "正規配置での動作検証。難易度の実測検証ではない。",
+  "charts": [
+    {
+      "id": "digitank-A",
+      "continuousScratchActions": 200,
+      "oldTravelInTheseActions": 701.1419257183222,
+      "newTravelInTheseActions": 0,
+      "splitActions": 0
+    },
+    {
+      "id": "checking-A",
+      "continuousScratchActions": 168,
+      "oldTravelInTheseActions": 588.9592176033909,
+      "newTravelInTheseActions": 0,
+      "splitActions": 1
+    },
+    {
+      "id": "watchpt2-A",
+      "continuousScratchActions": 391,
+      "oldTravelInTheseActions": 1371.8365273793734,
+      "newTravelInTheseActions": 0,
+      "splitActions": 0
+    },
+    {
+      "id": "thedirty-A",
+      "continuousScratchActions": 4,
+      "oldTravelInTheseActions": 14.022838514366484,
+      "newTravelInTheseActions": 0,
+      "splitActions": 0
+    }
+  ]
+}

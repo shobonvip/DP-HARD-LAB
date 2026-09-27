@@ -1,0 +1,210 @@
+{
+  "checkedAt": "2026-09-27T05:50:39.559Z",
+  "catalogCharts": 1900,
+  "analyzedCharts": 1867,
+  "randomPoliciesComplete": 1867,
+  "validatedNotes": 2231455,
+  "unavailable": [
+    {
+      "id": "benizakr-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "citrofrt-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "deadrabt-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "dstalker-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "dying4u-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "genegrid-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "mlwdiary-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "memolust-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "nomad-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "pistolsw-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "risebynd-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "samsword-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "shogunld-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "snglgirl-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "sparkrsh-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "tenkoksr-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "9_1-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_akujikk-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_anomaly-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_utatuki-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_eimuyuk-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_gimentr-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_gekkasj-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_saikai-H",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_dddddru-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_tsukumo-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_dmutant-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_derakrt-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_bbfight-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_franken-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_yashano-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_raitei-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    },
+    {
+      "id": "_lovpara-A",
+      "status": "unparsed",
+      "reason": "Source chart not available"
+    }
+  ],
+  "byLevel": {
+    "5": {
+      "total": 1,
+      "analyzed": 1
+    },
+    "6": {
+      "total": 2,
+      "analyzed": 2
+    },
+    "7": {
+      "total": 11,
+      "analyzed": 11
+    },
+    "8": {
+      "total": 28,
+      "analyzed": 28
+    },
+    "9": {
+      "total": 132,
+      "analyzed": 131
+    },
+    "10": {
+      "total": 977,
+      "analyzed": 958
+    },
+    "11": {
+      "total": 749,
+      "analyzed": 736
+    }
+  },
+  "duplicateLaneTimeEvents": 157,
+  "normalReferenceRankCorrelation": 0.810310471296976,
+  "normalOverlap": 1813,
+  "interpretation": "相関は参考値。ノマゲをハードの正解とした精度評価ではない。",
+  "errors": [],
+  "warnings": []
+}
