@@ -1,12 +1,12 @@
 import {chartData,table} from './source-reader.mjs';
 const b64='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/';
-export function catalog(titles,levels,counts) {
+export function catalog(titles,levels,counts,{practice=false}={}) {
   const t=table(titles,'titletbl'), a=table(levels,'actbl'), d=table(counts,'datatbl'),out=[];
   for(const [tag,v]of Object.entries(a)){
     if(v[0]===5||!(v[0]&1)||!t[tag])continue;
     for(const [index,difficulty,letter] of [[7,'NORMAL','N'],[8,'HYPER','H'],[9,'ANOTHER','A'],[10,'LEGGENDARIA','X']]){
       const level=v[index*2+1], flags=v[index*2+2];
-      if(!(flags&4)||!((level>=10&&level<=11)||(difficulty==='ANOTHER'&&level>=5&&level<=9)))continue;
+      if(!(flags&4)||!((level>=10&&level<=12)||(difficulty==='ANOTHER'&&level>=5&&level<=9)||(practice&&level>=7&&level<=9&&['NORMAL','HYPER'].includes(difficulty))))continue;
       const version=t[tag][0]===35?'s':t[tag][0];
       out.push({id:`${tag}-${letter}`,tag,title:[t[tag][5],t[tag][6]].filter(Boolean).join(' ').replace(/<[^>]*>/g,'').replace(/&amp;/g,'&'),difficulty,level,version,notes:d[tag]?.[index]??null,bpm:d[tag]?.[11]??null,sourceUrl:`https://textage.cc/score/${version}/${tag}.html?D${letter}${level.toString(16).toUpperCase()}00`,available:!!(flags&1),chargeFlag:!!(flags&8)});
     }

@@ -1,15 +1,15 @@
 {
-  "checkedAt": "2026-09-27T05:50:39.559Z",
-  "catalogCharts": 1900,
-  "analyzedCharts": 1867,
-  "randomPoliciesComplete": 1867,
-  "validatedNotes": 2231455,
+  "checkedAt": "2026-09-30T18:21:49.480Z",
+  "model": "0.6.1-scratch-endurance-experimental",
+  "catalogCharts": 2652,
+  "analyzedCharts": 2621,
+  "ereterMatched": 742,
+  "ereterLevel12Total": 752,
+  "randomPoliciesComplete": 2621,
+  "validatedNotes": 3528199,
+  "featuresChecked": 0,
+  "sourceHashesChecked": 0,
   "unavailable": [
-    {
-      "id": "benizakr-A",
-      "status": "unparsed",
-      "reason": "Source chart not available"
-    },
     {
       "id": "citrofrt-H",
       "status": "unparsed",
@@ -22,11 +22,6 @@
     },
     {
       "id": "dstalker-H",
-      "status": "unparsed",
-      "reason": "Source chart not available"
-    },
-    {
-      "id": "dying4u-A",
       "status": "unparsed",
       "reason": "Source chart not available"
     },
@@ -198,13 +193,19 @@
     },
     "11": {
       "total": 749,
-      "analyzed": 736
+      "analyzed": 738
+    },
+    "12": {
+      "total": 752,
+      "analyzed": 752
     }
   },
-  "duplicateLaneTimeEvents": 157,
-  "normalReferenceRankCorrelation": 0.810310471296976,
-  "normalOverlap": 1813,
-  "interpretation": "相関は参考値。ノマゲをハードの正解とした精度評価ではない。",
+  "duplicateLaneTimeEvents": 286,
+  "normalReferenceRankCorrelation": 0.9398694296812311,
+  "normalOverlap": 2588,
+  "interpretation": "相関は参考値。ノマゲをハードの正解とした精度評価ではない。featuresCheckedは再取得譜面と保存結果の特徴量照合数。元結果にハッシュがない場合、当時の譜面とのバイト単位一致までは証明しない。",
   "errors": [],
-  "warnings": []
+  "warnings": [
+    "Ability range insufficient due_tmrw-A"
+  ]
 }

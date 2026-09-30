@@ -1,7 +1,8 @@
 import {humanFeatures} from './human.mjs';
-export const MODEL_VERSION='0.3.0-scratch-experimental';
+import {planAnmitsu,timedTrial,timingParameters} from './timing.mjs';
+export const MODEL_VERSION='0.6.1-scratch-endurance-experimental';
 export const GAUGE={initial:100,max:100,great:0.16,good:0,bad:5,poor:9,emptyPoor:5,threshold:30,lowMultiplier:0.5};
-export const DEFAULT_PROFILE={left:0.9,right:1,scratch:1,technique:'flexible',capacity:9,missIntercept:-4.6,burst:0.8};
+export const DEFAULT_PROFILE={left:0.9,right:1,scratch:1,scratchRhythmEase:0.35,motorOverlapRelief:.65,placementWeight:2,scratchOverlapProtection:1,scratchEnduranceWeight:2,technique:'flexible',capacity:9,missIntercept:-4.6,burst:0.8};
 export const clamp=(x,a,b)=>Math.max(a,Math.min(b,x));
 export const mean=a=>a.length?a.reduce((x,y)=>x+y,0)/a.length:0;
 export function quantile(a,p){if(!a.length)return 0;const s=[...a].sort((x,y)=>x-y),i=(s.length-1)*p;return s[Math.floor(i)]*(1-i%1)+s[Math.ceil(i)]*(i%1);}
@@ -38,7 +39,7 @@ function candidates(keys,technique){
 }
 
 export function extract(chart,option=fixedOptions()[0],profile=DEFAULT_PROFILE){
- profile={...DEFAULT_PROFILE,...profile};const transformed=transform(chart,option),events=transformed.events,groups=[];
+ profile={...DEFAULT_PROFILE,...profile};const transformed=transform(chart,option),events=transformed.events.map((e,i)=>({...e,_index:i})),groups=[];
  for(const e of events){let g=groups.at(-1);if(!g||Math.abs(g.time-e.time)>1e-6){g={time:e.time,events:[]};groups.push(g);}g.events.push(e);}
  const last=[{time:-10,assignment:{},lanes:[]},{time:-10,assignment:{},lanes:[]}],hist=[[],[]],motorHist=[[],[]],heads=[0,0],rates=[],prepared=[],segments=[];
  let placementTotal=0,scratchTotal=0,repeatTotal=0,holdTotal=0,chordTotal=0;
@@ -83,22 +84,25 @@ export function extract(chart,option=fixedOptions()[0],profile=DEFAULT_PROFILE){
    last[hand]={time:group.time,assignment:best.assignment,lanes:keys,scratch};
   }
  }
- const human=humanFeatures(transformed,profile);
- const humanMap=new Map(human.actions.map(a=>[a.time.toFixed(6)+':'+a.hand,a]));
- for(const e of prepared){const a=humanMap.get(e.time.toFixed(6)+':'+e.hand);e.demand=a.demand;e.recognition=a.recognition;e.movement=a.movement;}
+ const plan=planAnmitsu(transformed,profile),human=humanFeatures(plan.chart,profile);
+ const humanMap=new Map(human.events.map(a=>[a._index,a]));
+ for(const e of prepared){const a=humanMap.get(e._index);e.demand=a.demand;e.recognition=a.recognition;e.movement=a.movement;e.plannedTime=a.time;e.assignment=a.assignment;e.scratchFinger=a.scratchFinger;e.scratchUnreachable=a.scratchUnreachable;e.scratchBlockedKey=a.scratchBlockedKey;}
  rates.length=0;rates.push(...human.actions.map(a=>a.demand));
  prepared.sort((a,b)=>a.time-b.time||a.hand-b.hand||a.lane-b.lane);
  const origin=prepared[0]?.time??0,playingDuration=Math.max(1,chart.duration-origin),count=events.length;
  for(let t=origin;t<=chart.duration;t+=2){const es=prepared.filter(e=>e.time>=t&&e.time<t+2);segments.push({time:t,measure:es[0]?.measure??null,notes:es.length,peak:Math.max(0,...es.map(e=>e.demand)),average:mean(es.map(e=>e.demand))});}
- const peak1=Math.max(...prepared.map(e=>e.nps)),avg=count/playingDuration;
- const metrics={density:avg,peakHandNps:peak1,placement:placementTotal/count,scratch:scratchTotal/count,repetition:repeatTotal/count,hold:holdTotal/count,chord:chordTotal/count,peakDemand:quantile(rates,.99),meanDemand:mean(rates),leftNotes:events.filter(e=>e.hand===0).length,rightNotes:events.filter(e=>e.hand===1).length,scratchNotes:events.filter(e=>e.lane===0).length,burst:quantile(rates,.99)/Math.max(.1,mean(rates)),duration:playingDuration};
+ const peak1=Math.max(...prepared.map(e=>e.nps)),peakByHand=[0,0],avg=count/playingDuration;
+ for(const e of prepared)peakByHand[e.hand]=Math.max(peakByHand[e.hand],e.nps);
+ const metrics={density:avg,peakHandNps:peak1,leftPeakHandNps:peakByHand[0],rightPeakHandNps:peakByHand[1],placement:placementTotal/count,scratch:scratchTotal/count,repetition:repeatTotal/count,hold:holdTotal/count,chord:chordTotal/count,peakDemand:quantile(rates,.99),meanDemand:mean(rates),leftNotes:events.filter(e=>e.hand===0).length,rightNotes:events.filter(e=>e.hand===1).length,scratchNotes:events.filter(e=>e.lane===0).length,burst:quantile(rates,.99)/Math.max(.1,mean(rates)),duration:playingDuration};
  const proxy=metrics.peakDemand*.62+metrics.meanDemand*.38;
  Object.assign(metrics,human.metrics);
+ metrics.anmitsuGroupedNotes=plan.groupedNotes;
+ metrics.shiftedScratches=plan.shiftedScratches;
  return {events:prepared,metrics,segments,proxy,option,humanActions:human.actions,humanParameters:human.parameters};
 }
 
 export function wilson(k,n){if(!n)return [0,1];const z=1.96,p=k/n,den=1+z*z/n,c=(p+z*z/(2*n))/den,d=z*Math.sqrt(p*(1-p)/n+z*z/(4*n*n))/den;return [Math.max(0,c-d),Math.min(1,c+d)];}
-export function simulate(features,{capacity=9,trials=96,seed=42,profile=DEFAULT_PROFILE,gauge=GAUGE,trace=false}={}){
+export function simulateLegacy(features,{capacity=9,trials=96,seed=42,profile=DEFAULT_PROFILE,gauge=GAUGE,trace=false}={}){
  profile={...DEFAULT_PROFILE,...profile};if(!Number.isFinite(capacity)||capacity<=0||!Number.isInteger(trials)||trials<1||trials>10000)throw Error('Invalid simulation parameters');
  let clears=0,totalMiss=0;const failures=[],endGauges=[],minGauges=[],traces=[];
  for(let trial=0;trial<trials;trial++){
@@ -121,31 +125,57 @@ export function simulate(features,{capacity=9,trials=96,seed=42,profile=DEFAULT_
  }
  return {clearRate:clears/trials,interval:wilson(clears,trials),trials,clears,capacity,meanMissUntilEndOrFail:totalMiss/trials,endMedian:quantile(endGauges,.5),minMedian:quantile(minGauges,.5),failureMedian:failures.length?quantile(failures,.5):null,traces};
 }
+export function simulate(features,{capacity=9,trials=96,seed=42,profile=DEFAULT_PROFILE,gauge=GAUGE,trace=false,summary=true}={}){
+ profile={...DEFAULT_PROFILE,...profile};if(!Number.isFinite(capacity)||capacity<=0||!Number.isInteger(trials)||trials<1||trials>10000)throw Error('Invalid simulation parameters');
+ let clears=0,totalMiss=0,badChains=0,maxBadChain=0,reassigned=0,early=0,late=0,offsetSum=0,timedHits=0,examples=[];const end=[],minimum=[],failures=[],traces=[],judgements={PGREAT:0,GREAT:0,GOOD:0,BAD:0,POOR:0,EMPTY_POOR:0};
+ for(let i=0;i<trials;i++){
+  const f=features.pool?features.pool[i%features.pool.length]:features,r=timedTrial(f,{capacity,profile,random:rng(seed+i*7919),randomSeed:seed+i*7919,gauge,gaugeStep,trace:trace&&i<12,summary});
+  if(!summary){clears+=Number(r.alive);continue;}
+  clears+=Number(r.alive);totalMiss+=r.misses;end.push(r.life);minimum.push(r.min);if(r.failure!=null)failures.push(r.failure);if(trace&&i<12)traces.push(r.points);
+  if(i===0)examples=r.examples;
+  for(const key of Object.keys(judgements))judgements[key]+=r.counts[key];badChains+=r.badChains;maxBadChain=Math.max(maxBadChain,r.maxBadChain);reassigned+=r.reassigned;early+=r.early;late+=r.late;offsetSum+=r.offsetSum;timedHits+=r.timedHits;
+ }
+ if(!summary)return {clearRate:clears/trials,trials,clears};
+ return {clearRate:clears/trials,interval:wilson(clears,trials),trials,clears,capacity,meanMissUntilEndOrFail:totalMiss/trials,endMedian:quantile(end,.5),minMedian:quantile(minimum,.5),failureMedian:failures.length?quantile(failures,.5):null,traces,timing:{judgements:Object.fromEntries(Object.entries(judgements).map(([k,v])=>[k,v/trials])),badChainsPerTrial:badChains/trials,maxBadChain,reassignedInputsPerTrial:reassigned/trials,earlyPerTrial:early/trials,latePerTrial:late/trials,meanOffsetMs:timedHits?offsetSum/timedHits:0,examples}};
+}
 export function requiredCapacity(features,{target=.8,trials=32,seed=42,profile=DEFAULT_PROFILE}={}){
- let lo=.25,hi=32;for(let i=0;i<8;i++){const mid=(lo+hi)/2;if(simulate(features,{capacity:mid,trials,seed,profile}).clearRate>=target)hi=mid;else lo=mid;}
- return {value:hi,censored:simulate(features,{capacity:hi,trials,seed,profile}).clearRate<target,target,trials,resolution:(32-.25)/256};
+ if(!Number.isInteger(trials)||trials<1||trials>10000||!Number.isFinite(target)||target<=0||target>1)throw Error('Invalid threshold search');
+ profile={...DEFAULT_PROFILE,...profile};
+ function reaches(capacity){let clears=0;for(let i=0;i<trials;i++){
+  const f=features.pool?features.pool[i%features.pool.length]:features;
+  clears+=Number(timedTrial(f,{capacity,profile,random:rng(seed+i*7919),randomSeed:seed+i*7919,gauge:GAUGE,gaugeStep,summary:false}).alive);
+  // Exact bounds on the final count, not a statistical early-stopping rule.
+  if(clears/trials>=target)return true;
+  if((clears+trials-i-1)/trials<target)return false;
+ }return clears/trials>=target;}
+ let lo=.25,hi=32;for(let i=0;i<8;i++){const mid=(lo+hi)/2;if(reaches(mid))hi=mid;else lo=mid;}
+ return {value:hi,censored:!reaches(hi),target,trials,resolution:(32-.25)/256};
 }
 
+const randomFeatureCache=new WeakMap();
 export function analyzeChart(chart,{profile=DEFAULT_PROFILE,randomSamples=16,trials=48}={}){
+ profile={...DEFAULT_PROFILE,...profile,timing:timingParameters(profile.timing)};
  const seed=hash(chart.id),fixed=fixedOptions().map(o=>extract(chart,o,profile)),ranked=[...fixed].sort((a,b)=>a.proxy-b.proxy);
  // Full survival thresholds for every fixed option; same draws for fair comparisons.
  const options=fixed.map(f=>({name:f.option.name,option:f.option,proxy:f.proxy,required:requiredCapacity(f,{trials:24,seed,profile}).value}));
  options.sort((a,b)=>a.required-b.required||a.proxy-b.proxy);
  const best=fixed.find(f=>f.option.name===options[0].name),standard=fixed[0],capacity=options[0].required;
  const selected=simulate(best,{capacity,trials,seed:seed+1,profile,trace:true});
- const draws=[];
+ const draws=[],randomFeatures=[];
  for(let i=0;i<randomSamples;i++){
   const option=randomOption(seed+i*101,i%2===1),f=extract(chart,option,profile),sim=simulate(f,{capacity,trials:24,seed:seed+1,profile});
+  randomFeatures.push(f);
   draws.push({option,proxy:f.proxy,clearRate:sim.clearRate});
  }
  const average=mean(draws.map(x=>x.clearRate));
- return {id:chart.id,model:MODEL_VERSION,profile,metrics:standard.metrics,bestMetrics:best.metrics,requiredCapacity:capacity,options,selected,standard:simulate(standard,{capacity,trials,seed:seed+1,profile}),random:{samples:draws.length,meanClearRate:average,permutationP10:quantile(draws.map(x=>x.clearRate),.1),permutationP90:quantile(draws.map(x=>x.clearRate),.9),atLeastOneIn10:1-(1-average)**10,draws},danger:best.segments.filter(s=>s.notes).sort((a,b)=>b.peak-a.peak).slice(0,5),segments:best.segments,human:{parameters:best.humanParameters,actions:[...best.humanActions].sort((a,b)=>b.demand-a.demand).slice(0,10)},warnings:[...chart.warnings,'身体配置・認識モデルは相対座標による未校正の仮説。実機寸法・脳活動の再現ではありません。'],confidence:'未校正・実験値'};
+ const result={id:chart.id,model:MODEL_VERSION,profile,metrics:standard.metrics,bestMetrics:best.metrics,requiredCapacity:capacity,options,selected,standard:simulate(standard,{capacity,trials,seed:seed+1,profile}),random:{samples:draws.length,meanClearRate:average,permutationP10:quantile(draws.map(x=>x.clearRate),.1),permutationP90:quantile(draws.map(x=>x.clearRate),.9),atLeastOneIn10:1-(1-average)**10,draws},danger:best.segments.filter(s=>s.notes).sort((a,b)=>b.peak-a.peak).slice(0,5),segments:best.segments,human:{parameters:best.humanParameters,actions:[...best.humanActions].sort((a,b)=>b.demand-a.demand).slice(0,10)},warnings:[...chart.warnings,'打鍵時刻・BAD連鎖は仮の判定窓と優先順で計算。LM実機の内部仕様は未検証です。','身体・習熟モデルは未校正。mm座標は互換機図面と仮定を含み、LM実機の寸法・力の測定値ではありません。'],confidence:'未校正・実験値'};
+ randomFeatureCache.set(result,randomFeatures);return result;
 }
 
 export function analyzeRandomStrategies(chart,result){
  const profile=result.profile,seed=hash(chart.id)+501,strategies=[];
  for(const flip of [false,true]){
-  const draws=result.random.draws.filter(d=>d.option.flip===flip),pool=draws.map(d=>extract(chart,d.option,profile));
+  const cached=randomFeatureCache.get(result),pool=result.random.draws.flatMap((d,i)=>d.option.flip===flip?[cached?.[i]??extract(chart,d.option,profile)]:[]);
   const requirement=requiredCapacity({pool},{trials:64,seed,profile});
   const check=simulate({pool},{capacity:requirement.value,trials:128,seed:seed+20000,profile,trace:true});
   strategies.push({name:flip?'FLIP + 両RANDOM':'両RANDOM',required:requirement.value,censored:requirement.censored,permutations:pool.length,simulation:check,atFixedThreshold:simulate({pool},{capacity:result.requiredCapacity,trials:128,seed:seed+20000,profile}).clearRate});

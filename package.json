@@ -6,11 +6,18 @@
   "description": "IIDX DP HARD difficulty research pipeline",
   "scripts": {
     "collect": "node scripts/collect.mjs",
+    "restore": "node scripts/restore-charts.mjs",
     "analyze": "node scripts/analyze.mjs",
+    "tempo": "node scripts/tempo-metadata.mjs",
     "random": "node scripts/random-analysis.mjs",
     "audit": "node scripts/audit.mjs",
     "human": "node scripts/human-batch.mjs",
+    "h5": "node scripts/ereter-h5-batch.mjs --all",
+    "h5:compile": "node scripts/compile-h5.mjs",
     "export": "node scripts/export-offline.mjs",
+    "verify:offline": "node scripts/verify-offline.mjs",
+    "compact": "node scripts/compact-storage.mjs",
+    "package:github": "node scripts/package-github.mjs",
     "start": "node scripts/server.mjs",
     "test": "node --test"
   },

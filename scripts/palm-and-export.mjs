@@ -1,4 +1,5 @@
-import {readFile,writeFile} from 'node:fs/promises';
+import {writeFile} from 'node:fs/promises';
+import {readFile} from '../src/storage.mjs';
 import {analyzeChart,analyzeRandomStrategies,extract} from '../src/engine.mjs';
 const coverage=JSON.parse(await readFile('data/coverage.json','utf8'));let changed=0;const fixes=[];
 for(const row of coverage.report.filter(x=>x.status==='parsed')){

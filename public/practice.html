@@ -1,0 +1,9 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>DP 練習譜面集</title><link rel="stylesheet" href="/practice.css"></head>
+<body><header><a href="/">DP HARD LAB</a><span>練習譜面集 · 試作版</span></header><main>
+<h1>鍛えたい動きから、次の一曲へ。</h1><p>正規譜面の配置と運指シミュレーションから、反復する機会の多い練習候補を探します。最初は☆7～☆9を表示しています。</p>
+<div class="notice">運指は右手基準。親3＝右3／左5、親5＝右5／左3、中5・中6＝右5・6／左3・2。親指・中指の分類は、指定運指を試せる配置条件で抽出した候補です。モデルが必須と判定した運指ではありません。まず譜面を確認して、自分の手で無理なく試してください。</div>
+<section class="filters"><label>練習テーマ<select id="category"></select></label><label>下限☆<select id="min"></select></label><label>上限☆<select id="max"></select></label><label>譜面<select id="difficulty"><option value="">全種別</option><option>NORMAL</option><option>HYPER</option><option>ANOTHER</option><option>LEGGENDARIA</option></select></label><label>曲名<input id="search" type="search" placeholder="曲名で絞り込み"></label><label class="check"><input type="checkbox" id="steady" checked>変速譜面を除く</label></section>
+<h2 id="theme"></h2><p id="description"></p><p class="muted">体力・テクニックは、皿を除いて再シミュレーションした鍵盤負荷の持続性で推薦します。実際の皿・着地の難しさは含みません。その他のテーマは反復機会を重視します。いずれも練習効果の実証ランキングではありません。正規が基準で、FLIP＋両MIRRORなら手に対する配置関係を保って左右を交換できます。</p>
+<p id="status" role="status">読み込み中…</p><div id="cards"></div><button id="more" hidden>さらに30件表示</button>
+<section class="guide"><h2>練習の進め方</h2><p>狙った箇所で押し方を保てる難度から始め、HARD完走だけでなく取りこぼしと力みの減少を目安にします。同じ曲に固執せず、同じテーマの数曲を交代で練習してください。</p><p>混フレでは両手を一つのリズムにまとめず、片側の周期を保ちながらもう片側を追います。同色階段・着地・縦連／トリル・CN複合もテーマから選べます。</p></section>
+<footer><p id="coverage"></p><a href="https://textage.cc/score/" target="_blank" rel="noreferrer">譜面出典：TexTage</a> · <a href="/docs/PRACTICE.md">集計方法と注意点</a></footer></main><script type="module" src="/practice.js"></script></body></html>

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "logic-A",
+    "recommendation": "右MIRROR",
+    "values": {
+      "baseline": 4.5908203125,
+      "reliefOnly": 3.72265625,
+      "placementOnly": 5.8310546875,
+      "combined": 4.962890625
+    },
+    "meanOverlap": 0.9952479414455654,
+    "meanTransition": 0.3044488229707029,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  },
+  {
+    "id": "gobblecp-H",
+    "recommendation": "左MIRROR",
+    "values": {
+      "baseline": 4.71484375,
+      "reliefOnly": 3.72265625,
+      "placementOnly": 5.8310546875,
+      "combined": 4.962890625
+    },
+    "meanOverlap": 0.9975338688085672,
+    "meanTransition": 0.24958872669018292,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  },
+  {
+    "id": "dxy-A",
+    "recommendation": "FLIP + 右MIRROR",
+    "values": {
+      "baseline": 5.3349609375,
+      "reliefOnly": 4.3427734375,
+      "placementOnly": 6.0791015625,
+      "combined": 5.0869140625
+    },
+    "meanOverlap": 1.081857235246572,
+    "meanTransition": 0.2292155408245743,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  },
+  {
+    "id": "comaaaaa-X",
+    "recommendation": "正規",
+    "values": {
+      "baseline": 5.2109375,
+      "reliefOnly": 4.3427734375,
+      "placementOnly": 6.947265625,
+      "combined": 5.955078125
+    },
+    "meanOverlap": 1.0628408260524318,
+    "meanTransition": 0.36225123590150815,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  },
+  {
+    "id": "titans-X",
+    "recommendation": "FLIP + 左MIRROR",
+    "values": {
+      "baseline": 4.466796875,
+      "reliefOnly": 3.5986328125,
+      "placementOnly": 5.3349609375,
+      "combined": 4.3427734375
+    },
+    "meanOverlap": 1.0164566420161145,
+    "meanTransition": 0.20477892344013607,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  },
+  {
+    "id": "_syaku_2-A",
+    "recommendation": "左MIRROR",
+    "values": {
+      "baseline": 4.71484375,
+      "reliefOnly": 3.5986328125,
+      "placementOnly": 5.0869140625,
+      "combined": 3.8466796875
+    },
+    "meanOverlap": 1.3504816322983333,
+    "meanTransition": 0.09057791593794066,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  },
+  {
+    "id": "_kakugos-A",
+    "recommendation": "正規",
+    "values": {
+      "baseline": 6.3271484375,
+      "reliefOnly": 4.5908203125,
+      "placementOnly": 6.69921875,
+      "combined": 4.962890625
+    },
+    "meanOverlap": 0.9497999710953778,
+    "meanTransition": 0.18010299582936062,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  },
+  {
+    "id": "_dadada-A",
+    "recommendation": "右MIRROR",
+    "values": {
+      "baseline": 5.70703125,
+      "reliefOnly": 4.21875,
+      "placementOnly": 5.955078125,
+      "combined": 4.3427734375
+    },
+    "meanOverlap": 1.0585266266573032,
+    "meanTransition": 0.15597193145115826,
+    "interpretation": "New recommended strategy held fixed. Baseline includes CN fix. Not the old-version best strategy. RANDOM averages 8 finite layouts."
+  }
+]

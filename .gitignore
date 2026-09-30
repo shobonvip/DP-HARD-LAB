@@ -4,3 +4,5 @@ data/charts/
 *.log
 .npm-cache/
 data/play-logs.json
+data/staging/
+artifacts/

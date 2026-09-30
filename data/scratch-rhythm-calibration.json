@@ -1,0 +1,99 @@
+{
+  "generatedAt": "2026-09-28T01:41:32.171Z",
+  "target": 0.05,
+  "excluded": "BPM表記に「～」を含むソフラン譜面",
+  "population": 659,
+  "sample": 360,
+  "trials": {
+    "fixed": 48,
+    "random": 96
+  },
+  "selection": "皿負荷の12区間から各30譜面、譜面ID hashで学習・確認を分割",
+  "results": [
+    {
+      "scratchRhythmEase": 0,
+      "train": {
+        "count": 173,
+        "spearman": 0.6594711032081672,
+        "meanAbsoluteGap": 17.734238472913024,
+        "scratchRhythmTopQuartileMeanGap": 8.687896405919664,
+        "otherMeanGap": -2.9633135027943034
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7616353515360255,
+        "meanAbsoluteGap": 14.973262032085564,
+        "scratchRhythmTopQuartileMeanGap": 3.9807824296499668,
+        "otherMeanGap": -1.3364055299539168
+      }
+    },
+    {
+      "scratchRhythmEase": 0.35,
+      "train": {
+        "count": 173,
+        "spearman": 0.6841267203587513,
+        "meanAbsoluteGap": 17.19317112515123,
+        "scratchRhythmTopQuartileMeanGap": -2.186839323467232,
+        "otherMeanGap": 0.7458986839733174
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.8034145909160416,
+        "meanAbsoluteGap": 13.828992007360128,
+        "scratchRhythmTopQuartileMeanGap": -1.5328300160146415,
+        "otherMeanGap": 0.5145929339477737
+      }
+    },
+    {
+      "scratchRhythmEase": 0.5,
+      "train": {
+        "count": 173,
+        "spearman": 0.6628466475023934,
+        "meanAbsoluteGap": 17.956042478827797,
+        "scratchRhythmTopQuartileMeanGap": -4.129228329809726,
+        "otherMeanGap": 1.408418965206418
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7900065494273611,
+        "meanAbsoluteGap": 14.286125007187625,
+        "scratchRhythmTopQuartileMeanGap": -2.379318233813773,
+        "otherMeanGap": 0.7987711213517666
+      }
+    },
+    {
+      "scratchRhythmEase": 0.65,
+      "train": {
+        "count": 173,
+        "spearman": 0.6621489904253222,
+        "meanAbsoluteGap": 18.06694448178519,
+        "scratchRhythmTopQuartileMeanGap": -4.935253699788583,
+        "otherMeanGap": 1.6833423472147104
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7880533726936646,
+        "meanAbsoluteGap": 14.320625610948184,
+        "scratchRhythmTopQuartileMeanGap": -2.8769160375200165,
+        "otherMeanGap": 0.9658218125960065
+      }
+    },
+    {
+      "scratchRhythmEase": 0.8,
+      "train": {
+        "count": 173,
+        "spearman": 0.6597687035729687,
+        "meanAbsoluteGap": 18.043419814491198,
+        "scratchRhythmTopQuartileMeanGap": -4.941860465116279,
+        "otherMeanGap": 1.6855958175590409
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7839440035177437,
+        "meanAbsoluteGap": 14.533379334138354,
+        "scratchRhythmTopQuartileMeanGap": -3.0141843971631204,
+        "otherMeanGap": 1.0119047619047647
+      }
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "generatedAt": "2026-09-27T23:29:10.466Z",
+  "target": 0.05,
+  "excluded": "BPM表記に「～」を含むソフラン譜面",
+  "population": 659,
+  "sample": 360,
+  "trials": {
+    "fixed": 48,
+    "random": 96
+  },
+  "results": [
+    {
+      "scratchEase": 1,
+      "train": {
+        "count": 173,
+        "spearman": 0.6128353295090089,
+        "meanAbsoluteGap": 18.735717166285795,
+        "scratchTopQuartileMeanGap": 11.641120507399576,
+        "otherMeanGap": -3.970614746709933
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7029400153590599,
+        "meanAbsoluteGap": 16.241159220286367,
+        "scratchTopQuartileMeanGap": 10.266529398307027,
+        "otherMeanGap": -3.4466205837173574
+      }
+    },
+    {
+      "scratchEase": 1.15,
+      "train": {
+        "count": 173,
+        "spearman": 0.6141687509584239,
+        "meanAbsoluteGap": 18.648339830622398,
+        "scratchTopQuartileMeanGap": 11.330602536997885,
+        "otherMeanGap": -3.8647016405264094
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7039235908126704,
+        "meanAbsoluteGap": 16.192283364958893,
+        "scratchTopQuartileMeanGap": 9.76321207961565,
+        "otherMeanGap": -3.2776497695852527
+      }
+    },
+    {
+      "scratchEase": 1.3,
+      "train": {
+        "count": 173,
+        "spearman": 0.6096002901751881,
+        "meanAbsoluteGap": 18.75924183357979,
+        "scratchTopQuartileMeanGap": 11.284355179704017,
+        "otherMeanGap": -3.8489273481160975
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7037981047249394,
+        "meanAbsoluteGap": 16.218158817779315,
+        "scratchTopQuartileMeanGap": 9.568748570121254,
+        "otherMeanGap": -3.212365591397852
+      }
+    },
+    {
+      "scratchEase": 1.45,
+      "train": {
+        "count": 173,
+        "spearman": 0.6123914849706137,
+        "meanAbsoluteGap": 18.695389165210372,
+        "scratchTopQuartileMeanGap": 10.987050739957716,
+        "otherMeanGap": -3.7475211826212353
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7027694791957244,
+        "meanAbsoluteGap": 16.223908918406078,
+        "scratchTopQuartileMeanGap": 9.414321665522765,
+        "otherMeanGap": -3.160522273425501
+      }
+    },
+    {
+      "scratchEase": 1.6,
+      "train": {
+        "count": 173,
+        "spearman": 0.6142776084018918,
+        "meanAbsoluteGap": 18.621454496572117,
+        "scratchTopQuartileMeanGap": 10.861522198731501,
+        "otherMeanGap": -3.7047052460789613
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7024951180069737,
+        "meanAbsoluteGap": 16.287160025300444,
+        "scratchTopQuartileMeanGap": 9.237016700983757,
+        "otherMeanGap": -3.100998463901691
+      }
+    },
+    {
+      "scratchEase": 1.8,
+      "train": {
+        "count": 173,
+        "spearman": 0.6156573167042926,
+        "meanAbsoluteGap": 18.60801182954698,
+        "scratchTopQuartileMeanGap": 10.775634249471459,
+        "otherMeanGap": -3.6754101316026677
+      },
+      "validation": {
+        "count": 187,
+        "spearman": 0.7000165901373764,
+        "meanAbsoluteGap": 16.387786786268773,
+        "scratchTopQuartileMeanGap": 9.265614275909405,
+        "otherMeanGap": -3.110599078341014
+      }
+    }
+  ]
+}

@@ -1,4 +1,5 @@
-import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {writeFile,mkdir} from 'node:fs/promises';
+import {readFile} from '../src/storage.mjs';
 import {createHash} from 'node:crypto';
 await mkdir('data/cache',{recursive:true});
 const url='https://zasa.sakura.ne.jp/dp/run.php',r=await fetch(url,{signal:AbortSignal.timeout(20000)});
